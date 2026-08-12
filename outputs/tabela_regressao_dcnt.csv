@@ -1,0 +1,9 @@
+﻿grupo_dcnt,variavel,coeficiente,irr,p_valor,significativo_5pct,interpretacao
+Cardiovascular,pib_per_capita,-0.0341,0.966,0.3354,False,+1 desvio-padrão em pib_per_capita está associado a redução de 3.4% na taxa de mortalidade por Cardiovascular (NÃO significativo — interpretar com cautela)
+Cardiovascular,taxa_urbanizacao_pct,0.1513,1.163,0.0,True,+1 desvio-padrão em taxa_urbanizacao_pct está associado a aumento de 16.3% na taxa de mortalidade por Cardiovascular
+Câncer,pib_per_capita,0.0669,1.069,0.2008,False,+1 desvio-padrão em pib_per_capita está associado a aumento de 6.9% na taxa de mortalidade por Câncer (NÃO significativo — interpretar com cautela)
+Câncer,taxa_urbanizacao_pct,0.2119,1.236,0.0,True,+1 desvio-padrão em taxa_urbanizacao_pct está associado a aumento de 23.6% na taxa de mortalidade por Câncer
+Diabetes,pib_per_capita,-0.008,0.992,0.8478,False,+1 desvio-padrão em pib_per_capita está associado a redução de 0.8% na taxa de mortalidade por Diabetes (NÃO significativo — interpretar com cautela)
+Diabetes,taxa_urbanizacao_pct,0.117,1.124,0.0067,True,+1 desvio-padrão em taxa_urbanizacao_pct está associado a aumento de 12.4% na taxa de mortalidade por Diabetes
+Respiratória crônica,pib_per_capita,0.0301,1.031,0.5673,False,+1 desvio-padrão em pib_per_capita está associado a aumento de 3.1% na taxa de mortalidade por Respiratória crônica (NÃO significativo — interpretar com cautela)
+Respiratória crônica,taxa_urbanizacao_pct,0.1042,1.11,0.0424,True,+1 desvio-padrão em taxa_urbanizacao_pct está associado a aumento de 11.0% na taxa de mortalidade por Respiratória crônica

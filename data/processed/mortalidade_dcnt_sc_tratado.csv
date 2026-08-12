@@ -1,0 +1,5716 @@
+﻿codigo_ibge,ano,grupo_dcnt,obitos
+4200051,2019,Cardiovascular,4.0
+4200101,2019,Cardiovascular,10.0
+4200200,2019,Cardiovascular,13.0
+4200309,2019,Cardiovascular,2.0
+4200408,2019,Cardiovascular,6.0
+4200507,2019,Cardiovascular,2.0
+4200556,2019,Cardiovascular,3.0
+4200606,2019,Cardiovascular,7.0
+4200705,2019,Cardiovascular,17.0
+4200754,2019,Cardiovascular,4.0
+4200804,2019,Cardiovascular,9.0
+4200903,2019,Cardiovascular,15.0
+4201000,2019,Cardiovascular,17.0
+4201109,2019,Cardiovascular,4.0
+4201208,2019,Cardiovascular,8.0
+4201257,2019,Cardiovascular,5.0
+4201273,2019,Cardiovascular,4.0
+4201307,2019,Cardiovascular,25.0
+4201406,2019,Cardiovascular,158.0
+4201505,2019,Cardiovascular,14.0
+4201604,2019,Cardiovascular,2.0
+4201653,2019,Cardiovascular,0.0
+4201703,2019,Cardiovascular,3.0
+4201802,2019,Cardiovascular,0.0
+4201901,2019,Cardiovascular,2.0
+4201950,2019,Cardiovascular,28.0
+4202008,2019,Cardiovascular,270.0
+4202057,2019,Cardiovascular,14.0
+4202073,2019,Cardiovascular,9.0
+4202081,2019,Cardiovascular,4.0
+4202099,2019,Cardiovascular,1.0
+4202107,2019,Cardiovascular,24.0
+4202131,2019,Cardiovascular,5.0
+4202156,2019,Cardiovascular,1.0
+4202206,2019,Cardiovascular,11.0
+4202305,2019,Cardiovascular,78.0
+4202404,2019,Cardiovascular,577.0
+4202438,2019,Cardiovascular,5.0
+4202453,2019,Cardiovascular,4.0
+4202503,2019,Cardiovascular,2.0
+4202537,2019,Cardiovascular,0.0
+4202578,2019,Cardiovascular,2.0
+4202602,2019,Cardiovascular,11.0
+4202701,2019,Cardiovascular,4.0
+4202800,2019,Cardiovascular,47.0
+4202859,2019,Cardiovascular,3.0
+4202875,2019,Cardiovascular,3.0
+4202909,2019,Cardiovascular,184.0
+4203006,2019,Cardiovascular,138.0
+4203105,2019,Cardiovascular,4.0
+4203154,2019,Cardiovascular,0.0
+4203204,2019,Cardiovascular,21.0
+4203253,2019,Cardiovascular,1.0
+4203303,2019,Cardiovascular,20.0
+4203402,2019,Cardiovascular,10.0
+4203501,2019,Cardiovascular,22.0
+4203600,2019,Cardiovascular,46.0
+4203709,2019,Cardiovascular,12.0
+4203808,2019,Cardiovascular,86.0
+4203907,2019,Cardiovascular,28.0
+4203956,2019,Cardiovascular,7.0
+4204004,2019,Cardiovascular,4.0
+4204103,2019,Cardiovascular,5.0
+4204152,2019,Cardiovascular,0.0
+4204178,2019,Cardiovascular,0.0
+4204194,2019,Cardiovascular,2.0
+4204202,2019,Cardiovascular,309.0
+4204251,2019,Cardiovascular,10.0
+4204301,2019,Cardiovascular,102.0
+4204350,2019,Cardiovascular,2.0
+4204400,2019,Cardiovascular,20.0
+4204459,2019,Cardiovascular,5.0
+4204509,2019,Cardiovascular,13.0
+4204558,2019,Cardiovascular,20.0
+4204608,2019,Cardiovascular,648.0
+4204707,2019,Cardiovascular,20.0
+4204756,2019,Cardiovascular,0.0
+4204806,2019,Cardiovascular,124.0
+4204905,2019,Cardiovascular,9.0
+4205001,2019,Cardiovascular,34.0
+4205100,2019,Cardiovascular,3.0
+4205159,2019,Cardiovascular,5.0
+4205175,2019,Cardiovascular,1.0
+4205191,2019,Cardiovascular,2.0
+4205209,2019,Cardiovascular,5.0
+4205308,2019,Cardiovascular,13.0
+4205357,2019,Cardiovascular,0.0
+4205407,2019,Cardiovascular,877.0
+4205431,2019,Cardiovascular,1.0
+4205456,2019,Cardiovascular,16.0
+4205506,2019,Cardiovascular,34.0
+4205555,2019,Cardiovascular,3.0
+4205605,2019,Cardiovascular,0.0
+4205704,2019,Cardiovascular,20.0
+4205803,2019,Cardiovascular,20.0
+4205902,2019,Cardiovascular,51.0
+4206009,2019,Cardiovascular,12.0
+4206108,2019,Cardiovascular,3.0
+4206207,2019,Cardiovascular,11.0
+4206306,2019,Cardiovascular,15.0
+4206405,2019,Cardiovascular,16.0
+4206504,2019,Cardiovascular,39.0
+4206603,2019,Cardiovascular,7.0
+4206652,2019,Cardiovascular,2.0
+4206702,2019,Cardiovascular,9.0
+4206751,2019,Cardiovascular,1.0
+4206801,2019,Cardiovascular,5.0
+4206900,2019,Cardiovascular,59.0
+4207007,2019,Cardiovascular,88.0
+4207106,2019,Cardiovascular,7.0
+4207205,2019,Cardiovascular,13.0
+4207304,2019,Cardiovascular,104.0
+4207403,2019,Cardiovascular,5.0
+4207502,2019,Cardiovascular,81.0
+4207577,2019,Cardiovascular,2.0
+4207601,2019,Cardiovascular,13.0
+4207650,2019,Cardiovascular,6.0
+4207684,2019,Cardiovascular,2.0
+4207700,2019,Cardiovascular,9.0
+4207759,2019,Cardiovascular,2.0
+4207809,2019,Cardiovascular,11.0
+4207858,2019,Cardiovascular,2.0
+4207908,2019,Cardiovascular,12.0
+4208005,2019,Cardiovascular,12.0
+4208104,2019,Cardiovascular,25.0
+4208203,2019,Cardiovascular,418.0
+4208302,2019,Cardiovascular,38.0
+4208401,2019,Cardiovascular,19.0
+4208450,2019,Cardiovascular,24.0
+4208500,2019,Cardiovascular,51.0
+4208609,2019,Cardiovascular,3.0
+4208708,2019,Cardiovascular,18.0
+4208807,2019,Cardiovascular,51.0
+4208906,2019,Cardiovascular,226.0
+4208955,2019,Cardiovascular,1.0
+4209003,2019,Cardiovascular,102.0
+4209102,2019,Cardiovascular,1059.0
+4209151,2019,Cardiovascular,2.0
+4209177,2019,Cardiovascular,0.0
+4209201,2019,Cardiovascular,1.0
+4209300,2019,Cardiovascular,442.0
+4209409,2019,Cardiovascular,74.0
+4209458,2019,Cardiovascular,1.0
+4209508,2019,Cardiovascular,1.0
+4209607,2019,Cardiovascular,19.0
+4209706,2019,Cardiovascular,15.0
+4209805,2019,Cardiovascular,5.0
+4209854,2019,Cardiovascular,14.0
+4209904,2019,Cardiovascular,6.0
+4210001,2019,Cardiovascular,7.0
+4210035,2019,Cardiovascular,17.0
+4210050,2019,Cardiovascular,1.0
+4210100,2019,Cardiovascular,167.0
+4210209,2019,Cardiovascular,1.0
+4210308,2019,Cardiovascular,9.0
+4210407,2019,Cardiovascular,4.0
+4210506,2019,Cardiovascular,72.0
+4210555,2019,Cardiovascular,0.0
+4210605,2019,Cardiovascular,11.0
+4210704,2019,Cardiovascular,4.0
+4210803,2019,Cardiovascular,18.0
+4210852,2019,Cardiovascular,3.0
+4210902,2019,Cardiovascular,9.0
+4211009,2019,Cardiovascular,16.0
+4211058,2019,Cardiovascular,3.0
+4211108,2019,Cardiovascular,12.0
+4211207,2019,Cardiovascular,25.0
+4211256,2019,Cardiovascular,2.0
+4211306,2019,Cardiovascular,72.0
+4211405,2019,Cardiovascular,7.0
+4211454,2019,Cardiovascular,0.0
+4211504,2019,Cardiovascular,24.0
+4211603,2019,Cardiovascular,22.0
+4211652,2019,Cardiovascular,1.0
+4211702,2019,Cardiovascular,46.0
+4211751,2019,Cardiovascular,18.0
+4211801,2019,Cardiovascular,3.0
+4211850,2019,Cardiovascular,0.0
+4211876,2019,Cardiovascular,2.0
+4211892,2019,Cardiovascular,0.0
+4211900,2019,Cardiovascular,148.0
+4212007,2019,Cardiovascular,11.0
+4212056,2019,Cardiovascular,0.0
+4212106,2019,Cardiovascular,23.0
+4212205,2019,Cardiovascular,16.0
+4212239,2019,Cardiovascular,2.0
+4212254,2019,Cardiovascular,4.0
+4212270,2019,Cardiovascular,1.0
+4212304,2019,Cardiovascular,5.0
+4212403,2019,Cardiovascular,2.0
+4212502,2019,Cardiovascular,25.0
+4212601,2019,Cardiovascular,3.0
+4212650,2019,Cardiovascular,4.0
+4212700,2019,Cardiovascular,10.0
+4212809,2019,Cardiovascular,15.0
+4212908,2019,Cardiovascular,29.0
+4213005,2019,Cardiovascular,1.0
+4213104,2019,Cardiovascular,2.0
+4213153,2019,Cardiovascular,1.0
+4213203,2019,Cardiovascular,63.0
+4213302,2019,Cardiovascular,2.0
+4213351,2019,Cardiovascular,3.0
+4213401,2019,Cardiovascular,14.0
+4213500,2019,Cardiovascular,9.0
+4213609,2019,Cardiovascular,68.0
+4213708,2019,Cardiovascular,24.0
+4213807,2019,Cardiovascular,28.0
+4213906,2019,Cardiovascular,0.0
+4214003,2019,Cardiovascular,45.0
+4214102,2019,Cardiovascular,2.0
+4214151,2019,Cardiovascular,0.0
+4214201,2019,Cardiovascular,17.0
+4214300,2019,Cardiovascular,1.0
+4214409,2019,Cardiovascular,1.0
+4214508,2019,Cardiovascular,26.0
+4214607,2019,Cardiovascular,19.0
+4214706,2019,Cardiovascular,19.0
+4214805,2019,Cardiovascular,189.0
+4214904,2019,Cardiovascular,6.0
+4215000,2019,Cardiovascular,84.0
+4215059,2019,Cardiovascular,1.0
+4215075,2019,Cardiovascular,4.0
+4215109,2019,Cardiovascular,8.0
+4215208,2019,Cardiovascular,3.0
+4215307,2019,Cardiovascular,11.0
+4215356,2019,Cardiovascular,3.0
+4215406,2019,Cardiovascular,0.0
+4215455,2019,Cardiovascular,4.0
+4215505,2019,Cardiovascular,20.0
+4215554,2019,Cardiovascular,0.0
+4215604,2019,Cardiovascular,0.0
+4215653,2019,Cardiovascular,9.0
+4215679,2019,Cardiovascular,1.0
+4215687,2019,Cardiovascular,4.0
+4215695,2019,Cardiovascular,0.0
+4215703,2019,Cardiovascular,44.0
+4215752,2019,Cardiovascular,0.0
+4215802,2019,Cardiovascular,84.0
+4215901,2019,Cardiovascular,6.0
+4216008,2019,Cardiovascular,23.0
+4216057,2019,Cardiovascular,0.0
+4216107,2019,Cardiovascular,8.0
+4216206,2019,Cardiovascular,67.0
+4216255,2019,Cardiovascular,10.0
+4216305,2019,Cardiovascular,37.0
+4216354,2019,Cardiovascular,1.0
+4216404,2019,Cardiovascular,0.0
+4216503,2019,Cardiovascular,39.0
+4216602,2019,Cardiovascular,601.0
+4216701,2019,Cardiovascular,22.0
+4216800,2019,Cardiovascular,11.0
+4216909,2019,Cardiovascular,2.0
+4217006,2019,Cardiovascular,2.0
+4217105,2019,Cardiovascular,8.0
+4217154,2019,Cardiovascular,1.0
+4217204,2019,Cardiovascular,116.0
+4217253,2019,Cardiovascular,11.0
+4217303,2019,Cardiovascular,15.0
+4217402,2019,Cardiovascular,7.0
+4217501,2019,Cardiovascular,14.0
+4217550,2019,Cardiovascular,0.0
+4217600,2019,Cardiovascular,20.0
+4217709,2019,Cardiovascular,46.0
+4217758,2019,Cardiovascular,2.0
+4217808,2019,Cardiovascular,24.0
+4217907,2019,Cardiovascular,4.0
+4217956,2019,Cardiovascular,3.0
+4218004,2019,Cardiovascular,48.0
+4218103,2019,Cardiovascular,6.0
+4218202,2019,Cardiovascular,96.0
+4218251,2019,Cardiovascular,11.0
+4218301,2019,Cardiovascular,20.0
+4218350,2019,Cardiovascular,3.0
+4218400,2019,Cardiovascular,6.0
+4218509,2019,Cardiovascular,6.0
+4218608,2019,Cardiovascular,20.0
+4218707,2019,Cardiovascular,430.0
+4218756,2019,Cardiovascular,10.0
+4218806,2019,Cardiovascular,18.0
+4218855,2019,Cardiovascular,3.0
+4218905,2019,Cardiovascular,16.0
+4218954,2019,Cardiovascular,3.0
+4219002,2019,Cardiovascular,42.0
+4219101,2019,Cardiovascular,5.0
+4219150,2019,Cardiovascular,2.0
+4219176,2019,Cardiovascular,0.0
+4219200,2019,Cardiovascular,9.0
+4219309,2019,Cardiovascular,118.0
+4219358,2019,Cardiovascular,3.0
+4219408,2019,Cardiovascular,2.0
+4219507,2019,Cardiovascular,193.0
+4219606,2019,Cardiovascular,6.0
+4219705,2019,Cardiovascular,29.0
+4219853,2019,Cardiovascular,2.0
+4220000,2019,Cardiovascular,17.0
+4200051,2020,Cardiovascular,2.0
+4200101,2020,Cardiovascular,11.0
+4200200,2020,Cardiovascular,14.0
+4200309,2020,Cardiovascular,5.0
+4200408,2020,Cardiovascular,8.0
+4200507,2020,Cardiovascular,3.0
+4200556,2020,Cardiovascular,2.0
+4200606,2020,Cardiovascular,9.0
+4200705,2020,Cardiovascular,11.0
+4200754,2020,Cardiovascular,3.0
+4200804,2020,Cardiovascular,2.0
+4200903,2020,Cardiovascular,17.0
+4201000,2020,Cardiovascular,28.0
+4201109,2020,Cardiovascular,12.0
+4201208,2020,Cardiovascular,11.0
+4201257,2020,Cardiovascular,6.0
+4201273,2020,Cardiovascular,6.0
+4201307,2020,Cardiovascular,19.0
+4201406,2020,Cardiovascular,166.0
+4201505,2020,Cardiovascular,16.0
+4201604,2020,Cardiovascular,1.0
+4201653,2020,Cardiovascular,4.0
+4201703,2020,Cardiovascular,5.0
+4201802,2020,Cardiovascular,4.0
+4201901,2020,Cardiovascular,9.0
+4201950,2020,Cardiovascular,28.0
+4202008,2020,Cardiovascular,261.0
+4202057,2020,Cardiovascular,24.0
+4202073,2020,Cardiovascular,9.0
+4202081,2020,Cardiovascular,0.0
+4202099,2020,Cardiovascular,0.0
+4202107,2020,Cardiovascular,21.0
+4202131,2020,Cardiovascular,1.0
+4202156,2020,Cardiovascular,0.0
+4202206,2020,Cardiovascular,10.0
+4202305,2020,Cardiovascular,100.0
+4202404,2020,Cardiovascular,605.0
+4202438,2020,Cardiovascular,6.0
+4202453,2020,Cardiovascular,11.0
+4202503,2020,Cardiovascular,5.0
+4202537,2020,Cardiovascular,1.0
+4202578,2020,Cardiovascular,1.0
+4202602,2020,Cardiovascular,19.0
+4202701,2020,Cardiovascular,2.0
+4202800,2020,Cardiovascular,38.0
+4202859,2020,Cardiovascular,2.0
+4202875,2020,Cardiovascular,0.0
+4202909,2020,Cardiovascular,186.0
+4203006,2020,Cardiovascular,145.0
+4203105,2020,Cardiovascular,12.0
+4203154,2020,Cardiovascular,2.0
+4203204,2020,Cardiovascular,32.0
+4203253,2020,Cardiovascular,0.0
+4203303,2020,Cardiovascular,18.0
+4203402,2020,Cardiovascular,10.0
+4203501,2020,Cardiovascular,19.0
+4203600,2020,Cardiovascular,48.0
+4203709,2020,Cardiovascular,9.0
+4203808,2020,Cardiovascular,89.0
+4203907,2020,Cardiovascular,40.0
+4203956,2020,Cardiovascular,15.0
+4204004,2020,Cardiovascular,4.0
+4204103,2020,Cardiovascular,3.0
+4204152,2020,Cardiovascular,3.0
+4204178,2020,Cardiovascular,2.0
+4204194,2020,Cardiovascular,0.0
+4204202,2020,Cardiovascular,298.0
+4204251,2020,Cardiovascular,19.0
+4204301,2020,Cardiovascular,105.0
+4204350,2020,Cardiovascular,2.0
+4204400,2020,Cardiovascular,13.0
+4204459,2020,Cardiovascular,2.0
+4204509,2020,Cardiovascular,12.0
+4204558,2020,Cardiovascular,17.0
+4204608,2020,Cardiovascular,598.0
+4204707,2020,Cardiovascular,20.0
+4204756,2020,Cardiovascular,0.0
+4204806,2020,Cardiovascular,106.0
+4204905,2020,Cardiovascular,15.0
+4205001,2020,Cardiovascular,39.0
+4205100,2020,Cardiovascular,1.0
+4205159,2020,Cardiovascular,4.0
+4205175,2020,Cardiovascular,2.0
+4205191,2020,Cardiovascular,1.0
+4205209,2020,Cardiovascular,5.0
+4205308,2020,Cardiovascular,11.0
+4205357,2020,Cardiovascular,0.0
+4205407,2020,Cardiovascular,860.0
+4205431,2020,Cardiovascular,0.0
+4205456,2020,Cardiovascular,17.0
+4205506,2020,Cardiovascular,32.0
+4205555,2020,Cardiovascular,1.0
+4205605,2020,Cardiovascular,2.0
+4205704,2020,Cardiovascular,23.0
+4205803,2020,Cardiovascular,12.0
+4205902,2020,Cardiovascular,49.0
+4206009,2020,Cardiovascular,7.0
+4206108,2020,Cardiovascular,7.0
+4206207,2020,Cardiovascular,10.0
+4206306,2020,Cardiovascular,13.0
+4206405,2020,Cardiovascular,18.0
+4206504,2020,Cardiovascular,23.0
+4206603,2020,Cardiovascular,5.0
+4206652,2020,Cardiovascular,1.0
+4206702,2020,Cardiovascular,11.0
+4206751,2020,Cardiovascular,2.0
+4206801,2020,Cardiovascular,3.0
+4206900,2020,Cardiovascular,66.0
+4207007,2020,Cardiovascular,118.0
+4207106,2020,Cardiovascular,8.0
+4207205,2020,Cardiovascular,18.0
+4207304,2020,Cardiovascular,81.0
+4207403,2020,Cardiovascular,7.0
+4207502,2020,Cardiovascular,86.0
+4207577,2020,Cardiovascular,4.0
+4207601,2020,Cardiovascular,8.0
+4207650,2020,Cardiovascular,24.0
+4207684,2020,Cardiovascular,8.0
+4207700,2020,Cardiovascular,4.0
+4207759,2020,Cardiovascular,4.0
+4207809,2020,Cardiovascular,13.0
+4207858,2020,Cardiovascular,2.0
+4207908,2020,Cardiovascular,10.0
+4208005,2020,Cardiovascular,8.0
+4208104,2020,Cardiovascular,22.0
+4208203,2020,Cardiovascular,416.0
+4208302,2020,Cardiovascular,61.0
+4208401,2020,Cardiovascular,13.0
+4208450,2020,Cardiovascular,21.0
+4208500,2020,Cardiovascular,58.0
+4208609,2020,Cardiovascular,1.0
+4208708,2020,Cardiovascular,13.0
+4208807,2020,Cardiovascular,48.0
+4208906,2020,Cardiovascular,219.0
+4208955,2020,Cardiovascular,3.0
+4209003,2020,Cardiovascular,116.0
+4209102,2020,Cardiovascular,994.0
+4209151,2020,Cardiovascular,7.0
+4209177,2020,Cardiovascular,2.0
+4209201,2020,Cardiovascular,4.0
+4209300,2020,Cardiovascular,440.0
+4209409,2020,Cardiovascular,66.0
+4209458,2020,Cardiovascular,3.0
+4209508,2020,Cardiovascular,1.0
+4209607,2020,Cardiovascular,29.0
+4209706,2020,Cardiovascular,15.0
+4209805,2020,Cardiovascular,4.0
+4209854,2020,Cardiovascular,25.0
+4209904,2020,Cardiovascular,11.0
+4210001,2020,Cardiovascular,12.0
+4210035,2020,Cardiovascular,17.0
+4210050,2020,Cardiovascular,1.0
+4210100,2020,Cardiovascular,210.0
+4210209,2020,Cardiovascular,2.0
+4210308,2020,Cardiovascular,19.0
+4210407,2020,Cardiovascular,7.0
+4210506,2020,Cardiovascular,68.0
+4210555,2020,Cardiovascular,1.0
+4210605,2020,Cardiovascular,20.0
+4210704,2020,Cardiovascular,6.0
+4210803,2020,Cardiovascular,10.0
+4210852,2020,Cardiovascular,2.0
+4210902,2020,Cardiovascular,21.0
+4211009,2020,Cardiovascular,20.0
+4211058,2020,Cardiovascular,9.0
+4211108,2020,Cardiovascular,10.0
+4211207,2020,Cardiovascular,37.0
+4211256,2020,Cardiovascular,0.0
+4211306,2020,Cardiovascular,81.0
+4211405,2020,Cardiovascular,8.0
+4211454,2020,Cardiovascular,5.0
+4211504,2020,Cardiovascular,29.0
+4211603,2020,Cardiovascular,19.0
+4211652,2020,Cardiovascular,2.0
+4211702,2020,Cardiovascular,35.0
+4211751,2020,Cardiovascular,13.0
+4211801,2020,Cardiovascular,3.0
+4211850,2020,Cardiovascular,1.0
+4211876,2020,Cardiovascular,1.0
+4211892,2020,Cardiovascular,1.0
+4211900,2020,Cardiovascular,140.0
+4212007,2020,Cardiovascular,11.0
+4212056,2020,Cardiovascular,0.0
+4212106,2020,Cardiovascular,29.0
+4212205,2020,Cardiovascular,24.0
+4212239,2020,Cardiovascular,2.0
+4212254,2020,Cardiovascular,3.0
+4212270,2020,Cardiovascular,5.0
+4212304,2020,Cardiovascular,6.0
+4212403,2020,Cardiovascular,2.0
+4212502,2020,Cardiovascular,37.0
+4212601,2020,Cardiovascular,13.0
+4212650,2020,Cardiovascular,4.0
+4212700,2020,Cardiovascular,10.0
+4212809,2020,Cardiovascular,25.0
+4212908,2020,Cardiovascular,22.0
+4213005,2020,Cardiovascular,1.0
+4213104,2020,Cardiovascular,1.0
+4213153,2020,Cardiovascular,0.0
+4213203,2020,Cardiovascular,51.0
+4213302,2020,Cardiovascular,6.0
+4213351,2020,Cardiovascular,1.0
+4213401,2020,Cardiovascular,9.0
+4213500,2020,Cardiovascular,11.0
+4213609,2020,Cardiovascular,71.0
+4213708,2020,Cardiovascular,20.0
+4213807,2020,Cardiovascular,13.0
+4213906,2020,Cardiovascular,0.0
+4214003,2020,Cardiovascular,34.0
+4214102,2020,Cardiovascular,4.0
+4214151,2020,Cardiovascular,2.0
+4214201,2020,Cardiovascular,10.0
+4214300,2020,Cardiovascular,4.0
+4214409,2020,Cardiovascular,1.0
+4214508,2020,Cardiovascular,9.0
+4214607,2020,Cardiovascular,17.0
+4214706,2020,Cardiovascular,22.0
+4214805,2020,Cardiovascular,206.0
+4214904,2020,Cardiovascular,8.0
+4215000,2020,Cardiovascular,60.0
+4215059,2020,Cardiovascular,4.0
+4215075,2020,Cardiovascular,3.0
+4215109,2020,Cardiovascular,10.0
+4215208,2020,Cardiovascular,4.0
+4215307,2020,Cardiovascular,16.0
+4215356,2020,Cardiovascular,2.0
+4215406,2020,Cardiovascular,0.0
+4215455,2020,Cardiovascular,2.0
+4215505,2020,Cardiovascular,18.0
+4215554,2020,Cardiovascular,0.0
+4215604,2020,Cardiovascular,1.0
+4215653,2020,Cardiovascular,8.0
+4215679,2020,Cardiovascular,7.0
+4215687,2020,Cardiovascular,1.0
+4215695,2020,Cardiovascular,1.0
+4215703,2020,Cardiovascular,38.0
+4215752,2020,Cardiovascular,1.0
+4215802,2020,Cardiovascular,117.0
+4215901,2020,Cardiovascular,7.0
+4216008,2020,Cardiovascular,22.0
+4216057,2020,Cardiovascular,4.0
+4216107,2020,Cardiovascular,5.0
+4216206,2020,Cardiovascular,72.0
+4216255,2020,Cardiovascular,6.0
+4216305,2020,Cardiovascular,25.0
+4216354,2020,Cardiovascular,1.0
+4216404,2020,Cardiovascular,6.0
+4216503,2020,Cardiovascular,42.0
+4216602,2020,Cardiovascular,605.0
+4216701,2020,Cardiovascular,22.0
+4216800,2020,Cardiovascular,8.0
+4216909,2020,Cardiovascular,0.0
+4217006,2020,Cardiovascular,1.0
+4217105,2020,Cardiovascular,12.0
+4217154,2020,Cardiovascular,1.0
+4217204,2020,Cardiovascular,93.0
+4217253,2020,Cardiovascular,11.0
+4217303,2020,Cardiovascular,16.0
+4217402,2020,Cardiovascular,8.0
+4217501,2020,Cardiovascular,11.0
+4217550,2020,Cardiovascular,1.0
+4217600,2020,Cardiovascular,27.0
+4217709,2020,Cardiovascular,49.0
+4217758,2020,Cardiovascular,1.0
+4217808,2020,Cardiovascular,28.0
+4217907,2020,Cardiovascular,8.0
+4217956,2020,Cardiovascular,2.0
+4218004,2020,Cardiovascular,40.0
+4218103,2020,Cardiovascular,8.0
+4218202,2020,Cardiovascular,62.0
+4218251,2020,Cardiovascular,8.0
+4218301,2020,Cardiovascular,20.0
+4218350,2020,Cardiovascular,3.0
+4218400,2020,Cardiovascular,12.0
+4218509,2020,Cardiovascular,1.0
+4218608,2020,Cardiovascular,18.0
+4218707,2020,Cardiovascular,342.0
+4218756,2020,Cardiovascular,5.0
+4218806,2020,Cardiovascular,23.0
+4218855,2020,Cardiovascular,2.0
+4218905,2020,Cardiovascular,22.0
+4218954,2020,Cardiovascular,5.0
+4219002,2020,Cardiovascular,32.0
+4219101,2020,Cardiovascular,9.0
+4219150,2020,Cardiovascular,0.0
+4219176,2020,Cardiovascular,3.0
+4219200,2020,Cardiovascular,6.0
+4219309,2020,Cardiovascular,93.0
+4219358,2020,Cardiovascular,2.0
+4219408,2020,Cardiovascular,5.0
+4219507,2020,Cardiovascular,188.0
+4219606,2020,Cardiovascular,1.0
+4219705,2020,Cardiovascular,29.0
+4219853,2020,Cardiovascular,1.0
+4220000,2020,Cardiovascular,20.0
+4200051,2021,Cardiovascular,2.0
+4200101,2021,Cardiovascular,23.0
+4200200,2021,Cardiovascular,8.0
+4200309,2021,Cardiovascular,1.0
+4200408,2021,Cardiovascular,10.0
+4200507,2021,Cardiovascular,2.0
+4200556,2021,Cardiovascular,9.0
+4200606,2021,Cardiovascular,7.0
+4200705,2021,Cardiovascular,11.0
+4200754,2021,Cardiovascular,4.0
+4200804,2021,Cardiovascular,7.0
+4200903,2021,Cardiovascular,28.0
+4201000,2021,Cardiovascular,22.0
+4201109,2021,Cardiovascular,12.0
+4201208,2021,Cardiovascular,10.0
+4201257,2021,Cardiovascular,6.0
+4201273,2021,Cardiovascular,1.0
+4201307,2021,Cardiovascular,44.0
+4201406,2021,Cardiovascular,205.0
+4201505,2021,Cardiovascular,20.0
+4201604,2021,Cardiovascular,6.0
+4201653,2021,Cardiovascular,2.0
+4201703,2021,Cardiovascular,6.0
+4201802,2021,Cardiovascular,2.0
+4201901,2021,Cardiovascular,6.0
+4201950,2021,Cardiovascular,21.0
+4202008,2021,Cardiovascular,292.0
+4202057,2021,Cardiovascular,23.0
+4202073,2021,Cardiovascular,12.0
+4202081,2021,Cardiovascular,2.0
+4202099,2021,Cardiovascular,1.0
+4202107,2021,Cardiovascular,30.0
+4202131,2021,Cardiovascular,9.0
+4202156,2021,Cardiovascular,0.0
+4202206,2021,Cardiovascular,15.0
+4202305,2021,Cardiovascular,99.0
+4202404,2021,Cardiovascular,600.0
+4202438,2021,Cardiovascular,4.0
+4202453,2021,Cardiovascular,14.0
+4202503,2021,Cardiovascular,7.0
+4202537,2021,Cardiovascular,0.0
+4202578,2021,Cardiovascular,1.0
+4202602,2021,Cardiovascular,12.0
+4202701,2021,Cardiovascular,7.0
+4202800,2021,Cardiovascular,66.0
+4202859,2021,Cardiovascular,7.0
+4202875,2021,Cardiovascular,1.0
+4202909,2021,Cardiovascular,224.0
+4203006,2021,Cardiovascular,177.0
+4203105,2021,Cardiovascular,15.0
+4203154,2021,Cardiovascular,1.0
+4203204,2021,Cardiovascular,56.0
+4203253,2021,Cardiovascular,3.0
+4203303,2021,Cardiovascular,22.0
+4203402,2021,Cardiovascular,9.0
+4203501,2021,Cardiovascular,23.0
+4203600,2021,Cardiovascular,48.0
+4203709,2021,Cardiovascular,22.0
+4203808,2021,Cardiovascular,125.0
+4203907,2021,Cardiovascular,35.0
+4203956,2021,Cardiovascular,18.0
+4204004,2021,Cardiovascular,4.0
+4204103,2021,Cardiovascular,5.0
+4204152,2021,Cardiovascular,2.0
+4204178,2021,Cardiovascular,0.0
+4204194,2021,Cardiovascular,5.0
+4204202,2021,Cardiovascular,354.0
+4204251,2021,Cardiovascular,11.0
+4204301,2021,Cardiovascular,92.0
+4204350,2021,Cardiovascular,2.0
+4204400,2021,Cardiovascular,12.0
+4204459,2021,Cardiovascular,1.0
+4204509,2021,Cardiovascular,14.0
+4204558,2021,Cardiovascular,19.0
+4204608,2021,Cardiovascular,679.0
+4204707,2021,Cardiovascular,31.0
+4204756,2021,Cardiovascular,4.0
+4204806,2021,Cardiovascular,140.0
+4204905,2021,Cardiovascular,18.0
+4205001,2021,Cardiovascular,71.0
+4205100,2021,Cardiovascular,6.0
+4205159,2021,Cardiovascular,3.0
+4205175,2021,Cardiovascular,1.0
+4205191,2021,Cardiovascular,1.0
+4205209,2021,Cardiovascular,7.0
+4205308,2021,Cardiovascular,22.0
+4205357,2021,Cardiovascular,4.0
+4205407,2021,Cardiovascular,931.0
+4205431,2021,Cardiovascular,1.0
+4205456,2021,Cardiovascular,25.0
+4205506,2021,Cardiovascular,55.0
+4205555,2021,Cardiovascular,1.0
+4205605,2021,Cardiovascular,5.0
+4205704,2021,Cardiovascular,25.0
+4205803,2021,Cardiovascular,16.0
+4205902,2021,Cardiovascular,77.0
+4206009,2021,Cardiovascular,14.0
+4206108,2021,Cardiovascular,5.0
+4206207,2021,Cardiovascular,18.0
+4206306,2021,Cardiovascular,19.0
+4206405,2021,Cardiovascular,24.0
+4206504,2021,Cardiovascular,30.0
+4206603,2021,Cardiovascular,6.0
+4206652,2021,Cardiovascular,9.0
+4206702,2021,Cardiovascular,26.0
+4206751,2021,Cardiovascular,1.0
+4206801,2021,Cardiovascular,1.0
+4206900,2021,Cardiovascular,71.0
+4207007,2021,Cardiovascular,143.0
+4207106,2021,Cardiovascular,7.0
+4207205,2021,Cardiovascular,24.0
+4207304,2021,Cardiovascular,97.0
+4207403,2021,Cardiovascular,12.0
+4207502,2021,Cardiovascular,100.0
+4207577,2021,Cardiovascular,2.0
+4207601,2021,Cardiovascular,11.0
+4207650,2021,Cardiovascular,26.0
+4207684,2021,Cardiovascular,3.0
+4207700,2021,Cardiovascular,8.0
+4207759,2021,Cardiovascular,3.0
+4207809,2021,Cardiovascular,7.0
+4207858,2021,Cardiovascular,0.0
+4207908,2021,Cardiovascular,19.0
+4208005,2021,Cardiovascular,10.0
+4208104,2021,Cardiovascular,21.0
+4208203,2021,Cardiovascular,380.0
+4208302,2021,Cardiovascular,61.0
+4208401,2021,Cardiovascular,22.0
+4208450,2021,Cardiovascular,32.0
+4208500,2021,Cardiovascular,71.0
+4208609,2021,Cardiovascular,5.0
+4208708,2021,Cardiovascular,19.0
+4208807,2021,Cardiovascular,45.0
+4208906,2021,Cardiovascular,292.0
+4208955,2021,Cardiovascular,1.0
+4209003,2021,Cardiovascular,109.0
+4209102,2021,Cardiovascular,1114.0
+4209151,2021,Cardiovascular,7.0
+4209177,2021,Cardiovascular,2.0
+4209201,2021,Cardiovascular,1.0
+4209300,2021,Cardiovascular,517.0
+4209409,2021,Cardiovascular,79.0
+4209458,2021,Cardiovascular,5.0
+4209508,2021,Cardiovascular,9.0
+4209607,2021,Cardiovascular,30.0
+4209706,2021,Cardiovascular,17.0
+4209805,2021,Cardiovascular,3.0
+4209854,2021,Cardiovascular,13.0
+4209904,2021,Cardiovascular,14.0
+4210001,2021,Cardiovascular,15.0
+4210035,2021,Cardiovascular,19.0
+4210050,2021,Cardiovascular,0.0
+4210100,2021,Cardiovascular,253.0
+4210209,2021,Cardiovascular,0.0
+4210308,2021,Cardiovascular,9.0
+4210407,2021,Cardiovascular,11.0
+4210506,2021,Cardiovascular,74.0
+4210555,2021,Cardiovascular,1.0
+4210605,2021,Cardiovascular,18.0
+4210704,2021,Cardiovascular,3.0
+4210803,2021,Cardiovascular,17.0
+4210852,2021,Cardiovascular,4.0
+4210902,2021,Cardiovascular,11.0
+4211009,2021,Cardiovascular,11.0
+4211058,2021,Cardiovascular,9.0
+4211108,2021,Cardiovascular,6.0
+4211207,2021,Cardiovascular,35.0
+4211256,2021,Cardiovascular,0.0
+4211306,2021,Cardiovascular,67.0
+4211405,2021,Cardiovascular,8.0
+4211454,2021,Cardiovascular,2.0
+4211504,2021,Cardiovascular,35.0
+4211603,2021,Cardiovascular,34.0
+4211652,2021,Cardiovascular,0.0
+4211702,2021,Cardiovascular,46.0
+4211751,2021,Cardiovascular,15.0
+4211801,2021,Cardiovascular,5.0
+4211850,2021,Cardiovascular,0.0
+4211876,2021,Cardiovascular,4.0
+4211892,2021,Cardiovascular,1.0
+4211900,2021,Cardiovascular,159.0
+4212007,2021,Cardiovascular,19.0
+4212056,2021,Cardiovascular,1.0
+4212106,2021,Cardiovascular,35.0
+4212205,2021,Cardiovascular,26.0
+4212239,2021,Cardiovascular,4.0
+4212254,2021,Cardiovascular,6.0
+4212270,2021,Cardiovascular,2.0
+4212304,2021,Cardiovascular,13.0
+4212403,2021,Cardiovascular,4.0
+4212502,2021,Cardiovascular,36.0
+4212601,2021,Cardiovascular,7.0
+4212650,2021,Cardiovascular,8.0
+4212700,2021,Cardiovascular,5.0
+4212809,2021,Cardiovascular,27.0
+4212908,2021,Cardiovascular,22.0
+4213005,2021,Cardiovascular,0.0
+4213104,2021,Cardiovascular,2.0
+4213153,2021,Cardiovascular,2.0
+4213203,2021,Cardiovascular,55.0
+4213302,2021,Cardiovascular,8.0
+4213351,2021,Cardiovascular,1.0
+4213401,2021,Cardiovascular,28.0
+4213500,2021,Cardiovascular,12.0
+4213609,2021,Cardiovascular,91.0
+4213708,2021,Cardiovascular,31.0
+4213807,2021,Cardiovascular,24.0
+4213906,2021,Cardiovascular,1.0
+4214003,2021,Cardiovascular,26.0
+4214102,2021,Cardiovascular,3.0
+4214151,2021,Cardiovascular,0.0
+4214201,2021,Cardiovascular,18.0
+4214300,2021,Cardiovascular,6.0
+4214409,2021,Cardiovascular,1.0
+4214508,2021,Cardiovascular,15.0
+4214607,2021,Cardiovascular,24.0
+4214706,2021,Cardiovascular,15.0
+4214805,2021,Cardiovascular,219.0
+4214904,2021,Cardiovascular,9.0
+4215000,2021,Cardiovascular,46.0
+4215059,2021,Cardiovascular,3.0
+4215075,2021,Cardiovascular,2.0
+4215109,2021,Cardiovascular,18.0
+4215208,2021,Cardiovascular,5.0
+4215307,2021,Cardiovascular,14.0
+4215356,2021,Cardiovascular,0.0
+4215406,2021,Cardiovascular,1.0
+4215455,2021,Cardiovascular,10.0
+4215505,2021,Cardiovascular,30.0
+4215554,2021,Cardiovascular,0.0
+4215604,2021,Cardiovascular,3.0
+4215653,2021,Cardiovascular,7.0
+4215679,2021,Cardiovascular,9.0
+4215687,2021,Cardiovascular,1.0
+4215695,2021,Cardiovascular,1.0
+4215703,2021,Cardiovascular,41.0
+4215752,2021,Cardiovascular,4.0
+4215802,2021,Cardiovascular,103.0
+4215901,2021,Cardiovascular,10.0
+4216008,2021,Cardiovascular,24.0
+4216057,2021,Cardiovascular,5.0
+4216107,2021,Cardiovascular,7.0
+4216206,2021,Cardiovascular,51.0
+4216255,2021,Cardiovascular,11.0
+4216305,2021,Cardiovascular,28.0
+4216354,2021,Cardiovascular,3.0
+4216404,2021,Cardiovascular,1.0
+4216503,2021,Cardiovascular,64.0
+4216602,2021,Cardiovascular,644.0
+4216701,2021,Cardiovascular,19.0
+4216800,2021,Cardiovascular,9.0
+4216909,2021,Cardiovascular,10.0
+4217006,2021,Cardiovascular,14.0
+4217105,2021,Cardiovascular,12.0
+4217154,2021,Cardiovascular,0.0
+4217204,2021,Cardiovascular,105.0
+4217253,2021,Cardiovascular,16.0
+4217303,2021,Cardiovascular,21.0
+4217402,2021,Cardiovascular,8.0
+4217501,2021,Cardiovascular,15.0
+4217550,2021,Cardiovascular,2.0
+4217600,2021,Cardiovascular,13.0
+4217709,2021,Cardiovascular,66.0
+4217758,2021,Cardiovascular,0.0
+4217808,2021,Cardiovascular,48.0
+4217907,2021,Cardiovascular,15.0
+4217956,2021,Cardiovascular,3.0
+4218004,2021,Cardiovascular,47.0
+4218103,2021,Cardiovascular,4.0
+4218202,2021,Cardiovascular,61.0
+4218251,2021,Cardiovascular,4.0
+4218301,2021,Cardiovascular,20.0
+4218350,2021,Cardiovascular,6.0
+4218400,2021,Cardiovascular,18.0
+4218509,2021,Cardiovascular,1.0
+4218608,2021,Cardiovascular,24.0
+4218707,2021,Cardiovascular,392.0
+4218756,2021,Cardiovascular,6.0
+4218806,2021,Cardiovascular,26.0
+4218855,2021,Cardiovascular,1.0
+4218905,2021,Cardiovascular,11.0
+4218954,2021,Cardiovascular,2.0
+4219002,2021,Cardiovascular,51.0
+4219101,2021,Cardiovascular,5.0
+4219150,2021,Cardiovascular,3.0
+4219176,2021,Cardiovascular,2.0
+4219200,2021,Cardiovascular,4.0
+4219309,2021,Cardiovascular,100.0
+4219358,2021,Cardiovascular,16.0
+4219408,2021,Cardiovascular,5.0
+4219507,2021,Cardiovascular,200.0
+4219606,2021,Cardiovascular,3.0
+4219705,2021,Cardiovascular,30.0
+4219853,2021,Cardiovascular,1.0
+4220000,2021,Cardiovascular,24.0
+4200051,2022,Cardiovascular,2.0
+4200101,2022,Cardiovascular,27.0
+4200200,2022,Cardiovascular,18.0
+4200309,2022,Cardiovascular,2.0
+4200408,2022,Cardiovascular,8.0
+4200507,2022,Cardiovascular,5.0
+4200556,2022,Cardiovascular,3.0
+4200606,2022,Cardiovascular,7.0
+4200705,2022,Cardiovascular,14.0
+4200754,2022,Cardiovascular,3.0
+4200804,2022,Cardiovascular,3.0
+4200903,2022,Cardiovascular,17.0
+4201000,2022,Cardiovascular,27.0
+4201109,2022,Cardiovascular,8.0
+4201208,2022,Cardiovascular,9.0
+4201257,2022,Cardiovascular,11.0
+4201273,2022,Cardiovascular,8.0
+4201307,2022,Cardiovascular,36.0
+4201406,2022,Cardiovascular,188.0
+4201505,2022,Cardiovascular,19.0
+4201604,2022,Cardiovascular,3.0
+4201653,2022,Cardiovascular,4.0
+4201703,2022,Cardiovascular,5.0
+4201802,2022,Cardiovascular,1.0
+4201901,2022,Cardiovascular,4.0
+4201950,2022,Cardiovascular,14.0
+4202008,2022,Cardiovascular,295.0
+4202057,2022,Cardiovascular,11.0
+4202073,2022,Cardiovascular,16.0
+4202081,2022,Cardiovascular,2.0
+4202099,2022,Cardiovascular,0.0
+4202107,2022,Cardiovascular,38.0
+4202131,2022,Cardiovascular,1.0
+4202156,2022,Cardiovascular,0.0
+4202206,2022,Cardiovascular,17.0
+4202305,2022,Cardiovascular,97.0
+4202404,2022,Cardiovascular,639.0
+4202438,2022,Cardiovascular,3.0
+4202453,2022,Cardiovascular,8.0
+4202503,2022,Cardiovascular,5.0
+4202537,2022,Cardiovascular,1.0
+4202578,2022,Cardiovascular,1.0
+4202602,2022,Cardiovascular,17.0
+4202701,2022,Cardiovascular,8.0
+4202800,2022,Cardiovascular,47.0
+4202859,2022,Cardiovascular,2.0
+4202875,2022,Cardiovascular,1.0
+4202909,2022,Cardiovascular,215.0
+4203006,2022,Cardiovascular,191.0
+4203105,2022,Cardiovascular,11.0
+4203154,2022,Cardiovascular,3.0
+4203204,2022,Cardiovascular,53.0
+4203253,2022,Cardiovascular,1.0
+4203303,2022,Cardiovascular,11.0
+4203402,2022,Cardiovascular,14.0
+4203501,2022,Cardiovascular,25.0
+4203600,2022,Cardiovascular,72.0
+4203709,2022,Cardiovascular,21.0
+4203808,2022,Cardiovascular,108.0
+4203907,2022,Cardiovascular,38.0
+4203956,2022,Cardiovascular,17.0
+4204004,2022,Cardiovascular,10.0
+4204103,2022,Cardiovascular,11.0
+4204152,2022,Cardiovascular,1.0
+4204178,2022,Cardiovascular,2.0
+4204194,2022,Cardiovascular,1.0
+4204202,2022,Cardiovascular,354.0
+4204251,2022,Cardiovascular,11.0
+4204301,2022,Cardiovascular,114.0
+4204350,2022,Cardiovascular,4.0
+4204400,2022,Cardiovascular,23.0
+4204459,2022,Cardiovascular,3.0
+4204509,2022,Cardiovascular,19.0
+4204558,2022,Cardiovascular,29.0
+4204608,2022,Cardiovascular,693.0
+4204707,2022,Cardiovascular,22.0
+4204756,2022,Cardiovascular,3.0
+4204806,2022,Cardiovascular,91.0
+4204905,2022,Cardiovascular,10.0
+4205001,2022,Cardiovascular,39.0
+4205100,2022,Cardiovascular,4.0
+4205159,2022,Cardiovascular,4.0
+4205175,2022,Cardiovascular,2.0
+4205191,2022,Cardiovascular,1.0
+4205209,2022,Cardiovascular,8.0
+4205308,2022,Cardiovascular,15.0
+4205357,2022,Cardiovascular,2.0
+4205407,2022,Cardiovascular,1062.0
+4205431,2022,Cardiovascular,4.0
+4205456,2022,Cardiovascular,34.0
+4205506,2022,Cardiovascular,31.0
+4205555,2022,Cardiovascular,2.0
+4205605,2022,Cardiovascular,7.0
+4205704,2022,Cardiovascular,24.0
+4205803,2022,Cardiovascular,19.0
+4205902,2022,Cardiovascular,81.0
+4206009,2022,Cardiovascular,16.0
+4206108,2022,Cardiovascular,10.0
+4206207,2022,Cardiovascular,9.0
+4206306,2022,Cardiovascular,15.0
+4206405,2022,Cardiovascular,18.0
+4206504,2022,Cardiovascular,34.0
+4206603,2022,Cardiovascular,9.0
+4206652,2022,Cardiovascular,1.0
+4206702,2022,Cardiovascular,18.0
+4206751,2022,Cardiovascular,0.0
+4206801,2022,Cardiovascular,2.0
+4206900,2022,Cardiovascular,70.0
+4207007,2022,Cardiovascular,142.0
+4207106,2022,Cardiovascular,6.0
+4207205,2022,Cardiovascular,20.0
+4207304,2022,Cardiovascular,117.0
+4207403,2022,Cardiovascular,4.0
+4207502,2022,Cardiovascular,110.0
+4207577,2022,Cardiovascular,0.0
+4207601,2022,Cardiovascular,8.0
+4207650,2022,Cardiovascular,26.0
+4207684,2022,Cardiovascular,5.0
+4207700,2022,Cardiovascular,4.0
+4207759,2022,Cardiovascular,3.0
+4207809,2022,Cardiovascular,10.0
+4207858,2022,Cardiovascular,0.0
+4207908,2022,Cardiovascular,30.0
+4208005,2022,Cardiovascular,10.0
+4208104,2022,Cardiovascular,25.0
+4208203,2022,Cardiovascular,469.0
+4208302,2022,Cardiovascular,64.0
+4208401,2022,Cardiovascular,25.0
+4208450,2022,Cardiovascular,41.0
+4208500,2022,Cardiovascular,74.0
+4208609,2022,Cardiovascular,3.0
+4208708,2022,Cardiovascular,17.0
+4208807,2022,Cardiovascular,59.0
+4208906,2022,Cardiovascular,299.0
+4208955,2022,Cardiovascular,2.0
+4209003,2022,Cardiovascular,108.0
+4209102,2022,Cardiovascular,1093.0
+4209151,2022,Cardiovascular,8.0
+4209177,2022,Cardiovascular,2.0
+4209201,2022,Cardiovascular,1.0
+4209300,2022,Cardiovascular,595.0
+4209409,2022,Cardiovascular,108.0
+4209458,2022,Cardiovascular,3.0
+4209508,2022,Cardiovascular,6.0
+4209607,2022,Cardiovascular,26.0
+4209706,2022,Cardiovascular,18.0
+4209805,2022,Cardiovascular,3.0
+4209854,2022,Cardiovascular,31.0
+4209904,2022,Cardiovascular,7.0
+4210001,2022,Cardiovascular,17.0
+4210035,2022,Cardiovascular,16.0
+4210050,2022,Cardiovascular,1.0
+4210100,2022,Cardiovascular,220.0
+4210209,2022,Cardiovascular,6.0
+4210308,2022,Cardiovascular,9.0
+4210407,2022,Cardiovascular,8.0
+4210506,2022,Cardiovascular,69.0
+4210555,2022,Cardiovascular,0.0
+4210605,2022,Cardiovascular,19.0
+4210704,2022,Cardiovascular,2.0
+4210803,2022,Cardiovascular,16.0
+4210852,2022,Cardiovascular,2.0
+4210902,2022,Cardiovascular,11.0
+4211009,2022,Cardiovascular,24.0
+4211058,2022,Cardiovascular,9.0
+4211108,2022,Cardiovascular,12.0
+4211207,2022,Cardiovascular,31.0
+4211256,2022,Cardiovascular,2.0
+4211306,2022,Cardiovascular,77.0
+4211405,2022,Cardiovascular,15.0
+4211454,2022,Cardiovascular,6.0
+4211504,2022,Cardiovascular,25.0
+4211603,2022,Cardiovascular,25.0
+4211652,2022,Cardiovascular,3.0
+4211702,2022,Cardiovascular,46.0
+4211751,2022,Cardiovascular,25.0
+4211801,2022,Cardiovascular,9.0
+4211850,2022,Cardiovascular,0.0
+4211876,2022,Cardiovascular,2.0
+4211892,2022,Cardiovascular,0.0
+4211900,2022,Cardiovascular,143.0
+4212007,2022,Cardiovascular,13.0
+4212056,2022,Cardiovascular,0.0
+4212106,2022,Cardiovascular,21.0
+4212205,2022,Cardiovascular,33.0
+4212239,2022,Cardiovascular,6.0
+4212254,2022,Cardiovascular,2.0
+4212270,2022,Cardiovascular,5.0
+4212304,2022,Cardiovascular,9.0
+4212403,2022,Cardiovascular,4.0
+4212502,2022,Cardiovascular,50.0
+4212601,2022,Cardiovascular,6.0
+4212650,2022,Cardiovascular,10.0
+4212700,2022,Cardiovascular,4.0
+4212809,2022,Cardiovascular,35.0
+4212908,2022,Cardiovascular,32.0
+4213005,2022,Cardiovascular,0.0
+4213104,2022,Cardiovascular,3.0
+4213153,2022,Cardiovascular,0.0
+4213203,2022,Cardiovascular,53.0
+4213302,2022,Cardiovascular,5.0
+4213351,2022,Cardiovascular,1.0
+4213401,2022,Cardiovascular,18.0
+4213500,2022,Cardiovascular,11.0
+4213609,2022,Cardiovascular,80.0
+4213708,2022,Cardiovascular,34.0
+4213807,2022,Cardiovascular,27.0
+4213906,2022,Cardiovascular,0.0
+4214003,2022,Cardiovascular,18.0
+4214102,2022,Cardiovascular,6.0
+4214151,2022,Cardiovascular,1.0
+4214201,2022,Cardiovascular,25.0
+4214300,2022,Cardiovascular,2.0
+4214409,2022,Cardiovascular,9.0
+4214508,2022,Cardiovascular,18.0
+4214607,2022,Cardiovascular,19.0
+4214706,2022,Cardiovascular,23.0
+4214805,2022,Cardiovascular,207.0
+4214904,2022,Cardiovascular,9.0
+4215000,2022,Cardiovascular,88.0
+4215059,2022,Cardiovascular,3.0
+4215075,2022,Cardiovascular,4.0
+4215109,2022,Cardiovascular,13.0
+4215208,2022,Cardiovascular,3.0
+4215307,2022,Cardiovascular,7.0
+4215356,2022,Cardiovascular,2.0
+4215406,2022,Cardiovascular,2.0
+4215455,2022,Cardiovascular,9.0
+4215505,2022,Cardiovascular,20.0
+4215554,2022,Cardiovascular,1.0
+4215604,2022,Cardiovascular,2.0
+4215653,2022,Cardiovascular,11.0
+4215679,2022,Cardiovascular,10.0
+4215687,2022,Cardiovascular,5.0
+4215695,2022,Cardiovascular,1.0
+4215703,2022,Cardiovascular,46.0
+4215752,2022,Cardiovascular,1.0
+4215802,2022,Cardiovascular,124.0
+4215901,2022,Cardiovascular,11.0
+4216008,2022,Cardiovascular,29.0
+4216057,2022,Cardiovascular,1.0
+4216107,2022,Cardiovascular,11.0
+4216206,2022,Cardiovascular,58.0
+4216255,2022,Cardiovascular,15.0
+4216305,2022,Cardiovascular,43.0
+4216354,2022,Cardiovascular,4.0
+4216404,2022,Cardiovascular,10.0
+4216503,2022,Cardiovascular,48.0
+4216602,2022,Cardiovascular,676.0
+4216701,2022,Cardiovascular,24.0
+4216800,2022,Cardiovascular,12.0
+4216909,2022,Cardiovascular,55.0
+4217006,2022,Cardiovascular,10.0
+4217105,2022,Cardiovascular,21.0
+4217154,2022,Cardiovascular,0.0
+4217204,2022,Cardiovascular,107.0
+4217253,2022,Cardiovascular,21.0
+4217303,2022,Cardiovascular,25.0
+4217402,2022,Cardiovascular,15.0
+4217501,2022,Cardiovascular,21.0
+4217550,2022,Cardiovascular,2.0
+4217600,2022,Cardiovascular,15.0
+4217709,2022,Cardiovascular,72.0
+4217758,2022,Cardiovascular,1.0
+4217808,2022,Cardiovascular,44.0
+4217907,2022,Cardiovascular,13.0
+4217956,2022,Cardiovascular,4.0
+4218004,2022,Cardiovascular,49.0
+4218103,2022,Cardiovascular,9.0
+4218202,2022,Cardiovascular,97.0
+4218251,2022,Cardiovascular,2.0
+4218301,2022,Cardiovascular,23.0
+4218350,2022,Cardiovascular,7.0
+4218400,2022,Cardiovascular,15.0
+4218509,2022,Cardiovascular,1.0
+4218608,2022,Cardiovascular,29.0
+4218707,2022,Cardiovascular,451.0
+4218756,2022,Cardiovascular,15.0
+4218806,2022,Cardiovascular,18.0
+4218855,2022,Cardiovascular,4.0
+4218905,2022,Cardiovascular,18.0
+4218954,2022,Cardiovascular,2.0
+4219002,2022,Cardiovascular,44.0
+4219101,2022,Cardiovascular,7.0
+4219150,2022,Cardiovascular,6.0
+4219176,2022,Cardiovascular,0.0
+4219200,2022,Cardiovascular,2.0
+4219309,2022,Cardiovascular,101.0
+4219358,2022,Cardiovascular,11.0
+4219408,2022,Cardiovascular,6.0
+4219507,2022,Cardiovascular,237.0
+4219606,2022,Cardiovascular,5.0
+4219705,2022,Cardiovascular,35.0
+4219853,2022,Cardiovascular,2.0
+4220000,2022,Cardiovascular,27.0
+4200051,2023,Cardiovascular,2.0
+4200101,2023,Cardiovascular,14.0
+4200200,2023,Cardiovascular,13.0
+4200309,2023,Cardiovascular,5.0
+4200408,2023,Cardiovascular,8.0
+4200507,2023,Cardiovascular,2.0
+4200556,2023,Cardiovascular,4.0
+4200606,2023,Cardiovascular,17.0
+4200705,2023,Cardiovascular,14.0
+4200754,2023,Cardiovascular,3.0
+4200804,2023,Cardiovascular,5.0
+4200903,2023,Cardiovascular,14.0
+4201000,2023,Cardiovascular,8.0
+4201109,2023,Cardiovascular,3.0
+4201208,2023,Cardiovascular,8.0
+4201257,2023,Cardiovascular,7.0
+4201273,2023,Cardiovascular,4.0
+4201307,2023,Cardiovascular,39.0
+4201406,2023,Cardiovascular,152.0
+4201505,2023,Cardiovascular,17.0
+4201604,2023,Cardiovascular,5.0
+4201653,2023,Cardiovascular,1.0
+4201703,2023,Cardiovascular,8.0
+4201802,2023,Cardiovascular,1.0
+4201901,2023,Cardiovascular,7.0
+4201950,2023,Cardiovascular,22.0
+4202008,2023,Cardiovascular,282.0
+4202057,2023,Cardiovascular,23.0
+4202073,2023,Cardiovascular,16.0
+4202081,2023,Cardiovascular,2.0
+4202099,2023,Cardiovascular,1.0
+4202107,2023,Cardiovascular,45.0
+4202131,2023,Cardiovascular,2.0
+4202156,2023,Cardiovascular,2.0
+4202206,2023,Cardiovascular,14.0
+4202305,2023,Cardiovascular,76.0
+4202404,2023,Cardiovascular,635.0
+4202438,2023,Cardiovascular,8.0
+4202453,2023,Cardiovascular,22.0
+4202503,2023,Cardiovascular,7.0
+4202537,2023,Cardiovascular,0.0
+4202578,2023,Cardiovascular,1.0
+4202602,2023,Cardiovascular,13.0
+4202701,2023,Cardiovascular,1.0
+4202800,2023,Cardiovascular,54.0
+4202859,2023,Cardiovascular,3.0
+4202875,2023,Cardiovascular,2.0
+4202909,2023,Cardiovascular,214.0
+4203006,2023,Cardiovascular,199.0
+4203105,2023,Cardiovascular,10.0
+4203154,2023,Cardiovascular,4.0
+4203204,2023,Cardiovascular,74.0
+4203253,2023,Cardiovascular,3.0
+4203303,2023,Cardiovascular,11.0
+4203402,2023,Cardiovascular,10.0
+4203501,2023,Cardiovascular,23.0
+4203600,2023,Cardiovascular,68.0
+4203709,2023,Cardiovascular,14.0
+4203808,2023,Cardiovascular,123.0
+4203907,2023,Cardiovascular,43.0
+4203956,2023,Cardiovascular,19.0
+4204004,2023,Cardiovascular,6.0
+4204103,2023,Cardiovascular,12.0
+4204152,2023,Cardiovascular,2.0
+4204178,2023,Cardiovascular,1.0
+4204194,2023,Cardiovascular,3.0
+4204202,2023,Cardiovascular,315.0
+4204251,2023,Cardiovascular,15.0
+4204301,2023,Cardiovascular,116.0
+4204350,2023,Cardiovascular,2.0
+4204400,2023,Cardiovascular,19.0
+4204459,2023,Cardiovascular,0.0
+4204509,2023,Cardiovascular,16.0
+4204558,2023,Cardiovascular,25.0
+4204608,2023,Cardiovascular,682.0
+4204707,2023,Cardiovascular,16.0
+4204756,2023,Cardiovascular,4.0
+4204806,2023,Cardiovascular,117.0
+4204905,2023,Cardiovascular,14.0
+4205001,2023,Cardiovascular,52.0
+4205100,2023,Cardiovascular,3.0
+4205159,2023,Cardiovascular,10.0
+4205175,2023,Cardiovascular,0.0
+4205191,2023,Cardiovascular,0.0
+4205209,2023,Cardiovascular,5.0
+4205308,2023,Cardiovascular,20.0
+4205357,2023,Cardiovascular,1.0
+4205407,2023,Cardiovascular,1143.0
+4205431,2023,Cardiovascular,1.0
+4205456,2023,Cardiovascular,28.0
+4205506,2023,Cardiovascular,35.0
+4205555,2023,Cardiovascular,2.0
+4205605,2023,Cardiovascular,4.0
+4205704,2023,Cardiovascular,39.0
+4205803,2023,Cardiovascular,13.0
+4205902,2023,Cardiovascular,97.0
+4206009,2023,Cardiovascular,9.0
+4206108,2023,Cardiovascular,11.0
+4206207,2023,Cardiovascular,12.0
+4206306,2023,Cardiovascular,20.0
+4206405,2023,Cardiovascular,19.0
+4206504,2023,Cardiovascular,40.0
+4206603,2023,Cardiovascular,9.0
+4206652,2023,Cardiovascular,1.0
+4206702,2023,Cardiovascular,8.0
+4206751,2023,Cardiovascular,0.0
+4206801,2023,Cardiovascular,8.0
+4206900,2023,Cardiovascular,86.0
+4207007,2023,Cardiovascular,141.0
+4207106,2023,Cardiovascular,13.0
+4207205,2023,Cardiovascular,23.0
+4207304,2023,Cardiovascular,115.0
+4207403,2023,Cardiovascular,12.0
+4207502,2023,Cardiovascular,73.0
+4207577,2023,Cardiovascular,1.0
+4207601,2023,Cardiovascular,8.0
+4207650,2023,Cardiovascular,15.0
+4207684,2023,Cardiovascular,2.0
+4207700,2023,Cardiovascular,8.0
+4207759,2023,Cardiovascular,0.0
+4207809,2023,Cardiovascular,8.0
+4207858,2023,Cardiovascular,2.0
+4207908,2023,Cardiovascular,17.0
+4208005,2023,Cardiovascular,5.0
+4208104,2023,Cardiovascular,33.0
+4208203,2023,Cardiovascular,506.0
+4208302,2023,Cardiovascular,56.0
+4208401,2023,Cardiovascular,18.0
+4208450,2023,Cardiovascular,32.0
+4208500,2023,Cardiovascular,60.0
+4208609,2023,Cardiovascular,3.0
+4208708,2023,Cardiovascular,18.0
+4208807,2023,Cardiovascular,47.0
+4208906,2023,Cardiovascular,232.0
+4208955,2023,Cardiovascular,1.0
+4209003,2023,Cardiovascular,107.0
+4209102,2023,Cardiovascular,927.0
+4209151,2023,Cardiovascular,2.0
+4209177,2023,Cardiovascular,6.0
+4209201,2023,Cardiovascular,1.0
+4209300,2023,Cardiovascular,513.0
+4209409,2023,Cardiovascular,93.0
+4209458,2023,Cardiovascular,0.0
+4209508,2023,Cardiovascular,6.0
+4209607,2023,Cardiovascular,31.0
+4209706,2023,Cardiovascular,11.0
+4209805,2023,Cardiovascular,4.0
+4209854,2023,Cardiovascular,21.0
+4209904,2023,Cardiovascular,13.0
+4210001,2023,Cardiovascular,11.0
+4210035,2023,Cardiovascular,25.0
+4210050,2023,Cardiovascular,1.0
+4210100,2023,Cardiovascular,199.0
+4210209,2023,Cardiovascular,7.0
+4210308,2023,Cardiovascular,18.0
+4210407,2023,Cardiovascular,8.0
+4210506,2023,Cardiovascular,57.0
+4210555,2023,Cardiovascular,0.0
+4210605,2023,Cardiovascular,29.0
+4210704,2023,Cardiovascular,2.0
+4210803,2023,Cardiovascular,17.0
+4210852,2023,Cardiovascular,2.0
+4210902,2023,Cardiovascular,10.0
+4211009,2023,Cardiovascular,19.0
+4211058,2023,Cardiovascular,9.0
+4211108,2023,Cardiovascular,12.0
+4211207,2023,Cardiovascular,68.0
+4211256,2023,Cardiovascular,1.0
+4211306,2023,Cardiovascular,72.0
+4211405,2023,Cardiovascular,12.0
+4211454,2023,Cardiovascular,2.0
+4211504,2023,Cardiovascular,28.0
+4211603,2023,Cardiovascular,28.0
+4211652,2023,Cardiovascular,1.0
+4211702,2023,Cardiovascular,62.0
+4211751,2023,Cardiovascular,22.0
+4211801,2023,Cardiovascular,1.0
+4211850,2023,Cardiovascular,0.0
+4211876,2023,Cardiovascular,1.0
+4211892,2023,Cardiovascular,4.0
+4211900,2023,Cardiovascular,161.0
+4212007,2023,Cardiovascular,16.0
+4212056,2023,Cardiovascular,1.0
+4212106,2023,Cardiovascular,32.0
+4212205,2023,Cardiovascular,18.0
+4212239,2023,Cardiovascular,4.0
+4212254,2023,Cardiovascular,6.0
+4212270,2023,Cardiovascular,4.0
+4212304,2023,Cardiovascular,7.0
+4212403,2023,Cardiovascular,8.0
+4212502,2023,Cardiovascular,49.0
+4212601,2023,Cardiovascular,4.0
+4212650,2023,Cardiovascular,11.0
+4212700,2023,Cardiovascular,9.0
+4212809,2023,Cardiovascular,25.0
+4212908,2023,Cardiovascular,21.0
+4213005,2023,Cardiovascular,1.0
+4213104,2023,Cardiovascular,2.0
+4213153,2023,Cardiovascular,0.0
+4213203,2023,Cardiovascular,41.0
+4213302,2023,Cardiovascular,2.0
+4213351,2023,Cardiovascular,1.0
+4213401,2023,Cardiovascular,16.0
+4213500,2023,Cardiovascular,29.0
+4213609,2023,Cardiovascular,65.0
+4213708,2023,Cardiovascular,24.0
+4213807,2023,Cardiovascular,22.0
+4213906,2023,Cardiovascular,1.0
+4214003,2023,Cardiovascular,24.0
+4214102,2023,Cardiovascular,2.0
+4214151,2023,Cardiovascular,1.0
+4214201,2023,Cardiovascular,17.0
+4214300,2023,Cardiovascular,3.0
+4214409,2023,Cardiovascular,0.0
+4214508,2023,Cardiovascular,15.0
+4214607,2023,Cardiovascular,22.0
+4214706,2023,Cardiovascular,19.0
+4214805,2023,Cardiovascular,218.0
+4214904,2023,Cardiovascular,9.0
+4215000,2023,Cardiovascular,113.0
+4215059,2023,Cardiovascular,2.0
+4215075,2023,Cardiovascular,2.0
+4215109,2023,Cardiovascular,13.0
+4215208,2023,Cardiovascular,4.0
+4215307,2023,Cardiovascular,15.0
+4215356,2023,Cardiovascular,1.0
+4215406,2023,Cardiovascular,5.0
+4215455,2023,Cardiovascular,9.0
+4215505,2023,Cardiovascular,16.0
+4215554,2023,Cardiovascular,1.0
+4215604,2023,Cardiovascular,2.0
+4215653,2023,Cardiovascular,4.0
+4215679,2023,Cardiovascular,8.0
+4215687,2023,Cardiovascular,2.0
+4215695,2023,Cardiovascular,1.0
+4215703,2023,Cardiovascular,51.0
+4215752,2023,Cardiovascular,2.0
+4215802,2023,Cardiovascular,107.0
+4215901,2023,Cardiovascular,8.0
+4216008,2023,Cardiovascular,30.0
+4216057,2023,Cardiovascular,3.0
+4216107,2023,Cardiovascular,7.0
+4216206,2023,Cardiovascular,80.0
+4216255,2023,Cardiovascular,11.0
+4216305,2023,Cardiovascular,27.0
+4216354,2023,Cardiovascular,1.0
+4216404,2023,Cardiovascular,6.0
+4216503,2023,Cardiovascular,45.0
+4216602,2023,Cardiovascular,637.0
+4216701,2023,Cardiovascular,13.0
+4216800,2023,Cardiovascular,11.0
+4216909,2023,Cardiovascular,51.0
+4217006,2023,Cardiovascular,7.0
+4217105,2023,Cardiovascular,12.0
+4217154,2023,Cardiovascular,1.0
+4217204,2023,Cardiovascular,118.0
+4217253,2023,Cardiovascular,12.0
+4217303,2023,Cardiovascular,25.0
+4217402,2023,Cardiovascular,20.0
+4217501,2023,Cardiovascular,18.0
+4217550,2023,Cardiovascular,0.0
+4217600,2023,Cardiovascular,18.0
+4217709,2023,Cardiovascular,71.0
+4217758,2023,Cardiovascular,3.0
+4217808,2023,Cardiovascular,34.0
+4217907,2023,Cardiovascular,6.0
+4217956,2023,Cardiovascular,1.0
+4218004,2023,Cardiovascular,54.0
+4218103,2023,Cardiovascular,11.0
+4218202,2023,Cardiovascular,109.0
+4218251,2023,Cardiovascular,6.0
+4218301,2023,Cardiovascular,24.0
+4218350,2023,Cardiovascular,9.0
+4218400,2023,Cardiovascular,14.0
+4218509,2023,Cardiovascular,5.0
+4218608,2023,Cardiovascular,36.0
+4218707,2023,Cardiovascular,492.0
+4218756,2023,Cardiovascular,8.0
+4218806,2023,Cardiovascular,27.0
+4218855,2023,Cardiovascular,5.0
+4218905,2023,Cardiovascular,16.0
+4218954,2023,Cardiovascular,1.0
+4219002,2023,Cardiovascular,50.0
+4219101,2023,Cardiovascular,3.0
+4219150,2023,Cardiovascular,1.0
+4219176,2023,Cardiovascular,0.0
+4219200,2023,Cardiovascular,4.0
+4219309,2023,Cardiovascular,101.0
+4219358,2023,Cardiovascular,7.0
+4219408,2023,Cardiovascular,9.0
+4219507,2023,Cardiovascular,234.0
+4219606,2023,Cardiovascular,7.0
+4219705,2023,Cardiovascular,48.0
+4219853,2023,Cardiovascular,2.0
+4220000,2023,Cardiovascular,28.0
+4200051,2019,Câncer,1.0
+4200101,2019,Câncer,11.0
+4200200,2019,Câncer,11.0
+4200309,2019,Câncer,1.0
+4200408,2019,Câncer,0.0
+4200507,2019,Câncer,3.0
+4200556,2019,Câncer,0.0
+4200606,2019,Câncer,0.0
+4200705,2019,Câncer,8.0
+4200754,2019,Câncer,0.0
+4200804,2019,Câncer,2.0
+4200903,2019,Câncer,3.0
+4201000,2019,Câncer,6.0
+4201109,2019,Câncer,2.0
+4201208,2019,Câncer,1.0
+4201257,2019,Câncer,3.0
+4201273,2019,Câncer,4.0
+4201307,2019,Câncer,7.0
+4201406,2019,Câncer,53.0
+4201505,2019,Câncer,3.0
+4201604,2019,Câncer,0.0
+4201653,2019,Câncer,1.0
+4201703,2019,Câncer,4.0
+4201802,2019,Câncer,2.0
+4201901,2019,Câncer,1.0
+4201950,2019,Câncer,2.0
+4202008,2019,Câncer,262.0
+4202057,2019,Câncer,5.0
+4202073,2019,Câncer,0.0
+4202081,2019,Câncer,1.0
+4202099,2019,Câncer,1.0
+4202107,2019,Câncer,7.0
+4202131,2019,Câncer,5.0
+4202156,2019,Câncer,0.0
+4202206,2019,Câncer,4.0
+4202305,2019,Câncer,21.0
+4202404,2019,Câncer,585.0
+4202438,2019,Câncer,1.0
+4202453,2019,Câncer,10.0
+4202503,2019,Câncer,0.0
+4202537,2019,Câncer,0.0
+4202578,2019,Câncer,0.0
+4202602,2019,Câncer,5.0
+4202701,2019,Câncer,3.0
+4202800,2019,Câncer,39.0
+4202859,2019,Câncer,1.0
+4202875,2019,Câncer,1.0
+4202909,2019,Câncer,150.0
+4203006,2019,Câncer,81.0
+4203105,2019,Câncer,7.0
+4203154,2019,Câncer,1.0
+4203204,2019,Câncer,11.0
+4203253,2019,Câncer,0.0
+4203303,2019,Câncer,13.0
+4203402,2019,Câncer,4.0
+4203501,2019,Câncer,17.0
+4203600,2019,Câncer,38.0
+4203709,2019,Câncer,7.0
+4203808,2019,Câncer,75.0
+4203907,2019,Câncer,30.0
+4203956,2019,Câncer,5.0
+4204004,2019,Câncer,0.0
+4204103,2019,Câncer,5.0
+4204152,2019,Câncer,1.0
+4204178,2019,Câncer,0.0
+4204194,2019,Câncer,0.0
+4204202,2019,Câncer,380.0
+4204251,2019,Câncer,1.0
+4204301,2019,Câncer,109.0
+4204350,2019,Câncer,0.0
+4204400,2019,Câncer,8.0
+4204459,2019,Câncer,2.0
+4204509,2019,Câncer,5.0
+4204558,2019,Câncer,12.0
+4204608,2019,Câncer,542.0
+4204707,2019,Câncer,15.0
+4204756,2019,Câncer,1.0
+4204806,2019,Câncer,67.0
+4204905,2019,Câncer,15.0
+4205001,2019,Câncer,29.0
+4205100,2019,Câncer,0.0
+4205159,2019,Câncer,0.0
+4205175,2019,Câncer,2.0
+4205191,2019,Câncer,0.0
+4205209,2019,Câncer,0.0
+4205308,2019,Câncer,10.0
+4205357,2019,Câncer,1.0
+4205407,2019,Câncer,1357.0
+4205431,2019,Câncer,2.0
+4205456,2019,Câncer,1.0
+4205506,2019,Câncer,26.0
+4205555,2019,Câncer,0.0
+4205605,2019,Câncer,3.0
+4205704,2019,Câncer,6.0
+4205803,2019,Câncer,5.0
+4205902,2019,Câncer,24.0
+4206009,2019,Câncer,4.0
+4206108,2019,Câncer,1.0
+4206207,2019,Câncer,1.0
+4206306,2019,Câncer,6.0
+4206405,2019,Câncer,19.0
+4206504,2019,Câncer,16.0
+4206603,2019,Câncer,6.0
+4206652,2019,Câncer,2.0
+4206702,2019,Câncer,4.0
+4206751,2019,Câncer,0.0
+4206801,2019,Câncer,0.0
+4206900,2019,Câncer,44.0
+4207007,2019,Câncer,36.0
+4207106,2019,Câncer,3.0
+4207205,2019,Câncer,9.0
+4207304,2019,Câncer,45.0
+4207403,2019,Câncer,6.0
+4207502,2019,Câncer,41.0
+4207577,2019,Câncer,0.0
+4207601,2019,Câncer,10.0
+4207650,2019,Câncer,15.0
+4207684,2019,Câncer,4.0
+4207700,2019,Câncer,4.0
+4207759,2019,Câncer,2.0
+4207809,2019,Câncer,4.0
+4207858,2019,Câncer,2.0
+4207908,2019,Câncer,10.0
+4208005,2019,Câncer,5.0
+4208104,2019,Câncer,22.0
+4208203,2019,Câncer,401.0
+4208302,2019,Câncer,30.0
+4208401,2019,Câncer,17.0
+4208450,2019,Câncer,13.0
+4208500,2019,Câncer,26.0
+4208609,2019,Câncer,1.0
+4208708,2019,Câncer,14.0
+4208807,2019,Câncer,15.0
+4208906,2019,Câncer,287.0
+4208955,2019,Câncer,1.0
+4209003,2019,Câncer,235.0
+4209102,2019,Câncer,871.0
+4209151,2019,Câncer,1.0
+4209177,2019,Câncer,3.0
+4209201,2019,Câncer,1.0
+4209300,2019,Câncer,345.0
+4209409,2019,Câncer,19.0
+4209458,2019,Câncer,0.0
+4209508,2019,Câncer,0.0
+4209607,2019,Câncer,8.0
+4209706,2019,Câncer,12.0
+4209805,2019,Câncer,3.0
+4209854,2019,Câncer,19.0
+4209904,2019,Câncer,3.0
+4210001,2019,Câncer,13.0
+4210035,2019,Câncer,20.0
+4210050,2019,Câncer,4.0
+4210100,2019,Câncer,80.0
+4210209,2019,Câncer,0.0
+4210308,2019,Câncer,13.0
+4210407,2019,Câncer,3.0
+4210506,2019,Câncer,38.0
+4210555,2019,Câncer,0.0
+4210605,2019,Câncer,10.0
+4210704,2019,Câncer,0.0
+4210803,2019,Câncer,11.0
+4210852,2019,Câncer,1.0
+4210902,2019,Câncer,12.0
+4211009,2019,Câncer,9.0
+4211058,2019,Câncer,12.0
+4211108,2019,Câncer,11.0
+4211207,2019,Câncer,5.0
+4211256,2019,Câncer,0.0
+4211306,2019,Câncer,36.0
+4211405,2019,Câncer,11.0
+4211454,2019,Câncer,1.0
+4211504,2019,Câncer,20.0
+4211603,2019,Câncer,11.0
+4211652,2019,Câncer,0.0
+4211702,2019,Câncer,20.0
+4211751,2019,Câncer,9.0
+4211801,2019,Câncer,1.0
+4211850,2019,Câncer,0.0
+4211876,2019,Câncer,0.0
+4211892,2019,Câncer,0.0
+4211900,2019,Câncer,28.0
+4212007,2019,Câncer,15.0
+4212056,2019,Câncer,1.0
+4212106,2019,Câncer,16.0
+4212205,2019,Câncer,14.0
+4212239,2019,Câncer,2.0
+4212254,2019,Câncer,1.0
+4212270,2019,Câncer,1.0
+4212304,2019,Câncer,2.0
+4212403,2019,Câncer,0.0
+4212502,2019,Câncer,15.0
+4212601,2019,Câncer,5.0
+4212650,2019,Câncer,0.0
+4212700,2019,Câncer,3.0
+4212809,2019,Câncer,6.0
+4212908,2019,Câncer,12.0
+4213005,2019,Câncer,1.0
+4213104,2019,Câncer,1.0
+4213153,2019,Câncer,0.0
+4213203,2019,Câncer,37.0
+4213302,2019,Câncer,2.0
+4213351,2019,Câncer,0.0
+4213401,2019,Câncer,9.0
+4213500,2019,Câncer,2.0
+4213609,2019,Câncer,148.0
+4213708,2019,Câncer,19.0
+4213807,2019,Câncer,23.0
+4213906,2019,Câncer,0.0
+4214003,2019,Câncer,23.0
+4214102,2019,Câncer,0.0
+4214151,2019,Câncer,0.0
+4214201,2019,Câncer,11.0
+4214300,2019,Câncer,0.0
+4214409,2019,Câncer,2.0
+4214508,2019,Câncer,8.0
+4214607,2019,Câncer,2.0
+4214706,2019,Câncer,5.0
+4214805,2019,Câncer,130.0
+4214904,2019,Câncer,9.0
+4215000,2019,Câncer,43.0
+4215059,2019,Câncer,1.0
+4215075,2019,Câncer,3.0
+4215109,2019,Câncer,4.0
+4215208,2019,Câncer,5.0
+4215307,2019,Câncer,8.0
+4215356,2019,Câncer,0.0
+4215406,2019,Câncer,2.0
+4215455,2019,Câncer,1.0
+4215505,2019,Câncer,7.0
+4215554,2019,Câncer,0.0
+4215604,2019,Câncer,1.0
+4215653,2019,Câncer,4.0
+4215679,2019,Câncer,4.0
+4215687,2019,Câncer,1.0
+4215695,2019,Câncer,1.0
+4215703,2019,Câncer,11.0
+4215752,2019,Câncer,0.0
+4215802,2019,Câncer,113.0
+4215901,2019,Câncer,1.0
+4216008,2019,Câncer,18.0
+4216057,2019,Câncer,1.0
+4216107,2019,Câncer,5.0
+4216206,2019,Câncer,29.0
+4216255,2019,Câncer,11.0
+4216305,2019,Câncer,13.0
+4216354,2019,Câncer,1.0
+4216404,2019,Câncer,0.0
+4216503,2019,Câncer,37.0
+4216602,2019,Câncer,165.0
+4216701,2019,Câncer,19.0
+4216800,2019,Câncer,2.0
+4216909,2019,Câncer,0.0
+4217006,2019,Câncer,0.0
+4217105,2019,Câncer,4.0
+4217154,2019,Câncer,1.0
+4217204,2019,Câncer,105.0
+4217253,2019,Câncer,6.0
+4217303,2019,Câncer,7.0
+4217402,2019,Câncer,2.0
+4217501,2019,Câncer,20.0
+4217550,2019,Câncer,0.0
+4217600,2019,Câncer,4.0
+4217709,2019,Câncer,21.0
+4217758,2019,Câncer,0.0
+4217808,2019,Câncer,21.0
+4217907,2019,Câncer,0.0
+4217956,2019,Câncer,3.0
+4218004,2019,Câncer,18.0
+4218103,2019,Câncer,4.0
+4218202,2019,Câncer,64.0
+4218251,2019,Câncer,1.0
+4218301,2019,Câncer,17.0
+4218350,2019,Câncer,2.0
+4218400,2019,Câncer,5.0
+4218509,2019,Câncer,3.0
+4218608,2019,Câncer,9.0
+4218707,2019,Câncer,320.0
+4218756,2019,Câncer,15.0
+4218806,2019,Câncer,19.0
+4218855,2019,Câncer,1.0
+4218905,2019,Câncer,8.0
+4218954,2019,Câncer,1.0
+4219002,2019,Câncer,27.0
+4219101,2019,Câncer,2.0
+4219150,2019,Câncer,0.0
+4219176,2019,Câncer,2.0
+4219200,2019,Câncer,5.0
+4219309,2019,Câncer,80.0
+4219358,2019,Câncer,6.0
+4219408,2019,Câncer,1.0
+4219507,2019,Câncer,50.0
+4219606,2019,Câncer,3.0
+4219705,2019,Câncer,27.0
+4219853,2019,Câncer,0.0
+4220000,2019,Câncer,2.0
+4200051,2020,Câncer,1.0
+4200101,2020,Câncer,13.0
+4200200,2020,Câncer,9.0
+4200309,2020,Câncer,1.0
+4200408,2020,Câncer,5.0
+4200507,2020,Câncer,2.0
+4200556,2020,Câncer,3.0
+4200606,2020,Câncer,2.0
+4200705,2020,Câncer,7.0
+4200754,2020,Câncer,1.0
+4200804,2020,Câncer,4.0
+4200903,2020,Câncer,6.0
+4201000,2020,Câncer,8.0
+4201109,2020,Câncer,2.0
+4201208,2020,Câncer,3.0
+4201257,2020,Câncer,7.0
+4201273,2020,Câncer,1.0
+4201307,2020,Câncer,8.0
+4201406,2020,Câncer,70.0
+4201505,2020,Câncer,6.0
+4201604,2020,Câncer,1.0
+4201653,2020,Câncer,1.0
+4201703,2020,Câncer,1.0
+4201802,2020,Câncer,1.0
+4201901,2020,Câncer,0.0
+4201950,2020,Câncer,2.0
+4202008,2020,Câncer,210.0
+4202057,2020,Câncer,12.0
+4202073,2020,Câncer,3.0
+4202081,2020,Câncer,2.0
+4202099,2020,Câncer,0.0
+4202107,2020,Câncer,9.0
+4202131,2020,Câncer,6.0
+4202156,2020,Câncer,1.0
+4202206,2020,Câncer,4.0
+4202305,2020,Câncer,19.0
+4202404,2020,Câncer,640.0
+4202438,2020,Câncer,2.0
+4202453,2020,Câncer,11.0
+4202503,2020,Câncer,2.0
+4202537,2020,Câncer,2.0
+4202578,2020,Câncer,1.0
+4202602,2020,Câncer,6.0
+4202701,2020,Câncer,2.0
+4202800,2020,Câncer,38.0
+4202859,2020,Câncer,1.0
+4202875,2020,Câncer,0.0
+4202909,2020,Câncer,129.0
+4203006,2020,Câncer,87.0
+4203105,2020,Câncer,6.0
+4203154,2020,Câncer,2.0
+4203204,2020,Câncer,19.0
+4203253,2020,Câncer,3.0
+4203303,2020,Câncer,16.0
+4203402,2020,Câncer,6.0
+4203501,2020,Câncer,21.0
+4203600,2020,Câncer,53.0
+4203709,2020,Câncer,5.0
+4203808,2020,Câncer,62.0
+4203907,2020,Câncer,28.0
+4203956,2020,Câncer,6.0
+4204004,2020,Câncer,4.0
+4204103,2020,Câncer,8.0
+4204152,2020,Câncer,0.0
+4204178,2020,Câncer,0.0
+4204194,2020,Câncer,2.0
+4204202,2020,Câncer,371.0
+4204251,2020,Câncer,4.0
+4204301,2020,Câncer,113.0
+4204350,2020,Câncer,1.0
+4204400,2020,Câncer,10.0
+4204459,2020,Câncer,1.0
+4204509,2020,Câncer,6.0
+4204558,2020,Câncer,7.0
+4204608,2020,Câncer,541.0
+4204707,2020,Câncer,8.0
+4204756,2020,Câncer,0.0
+4204806,2020,Câncer,56.0
+4204905,2020,Câncer,11.0
+4205001,2020,Câncer,26.0
+4205100,2020,Câncer,0.0
+4205159,2020,Câncer,1.0
+4205175,2020,Câncer,1.0
+4205191,2020,Câncer,1.0
+4205209,2020,Câncer,7.0
+4205308,2020,Câncer,8.0
+4205357,2020,Câncer,0.0
+4205407,2020,Câncer,1267.0
+4205431,2020,Câncer,2.0
+4205456,2020,Câncer,5.0
+4205506,2020,Câncer,26.0
+4205555,2020,Câncer,0.0
+4205605,2020,Câncer,0.0
+4205704,2020,Câncer,11.0
+4205803,2020,Câncer,6.0
+4205902,2020,Câncer,44.0
+4206009,2020,Câncer,6.0
+4206108,2020,Câncer,1.0
+4206207,2020,Câncer,2.0
+4206306,2020,Câncer,14.0
+4206405,2020,Câncer,23.0
+4206504,2020,Câncer,15.0
+4206603,2020,Câncer,8.0
+4206652,2020,Câncer,0.0
+4206702,2020,Câncer,4.0
+4206751,2020,Câncer,1.0
+4206801,2020,Câncer,4.0
+4206900,2020,Câncer,49.0
+4207007,2020,Câncer,46.0
+4207106,2020,Câncer,1.0
+4207205,2020,Câncer,5.0
+4207304,2020,Câncer,62.0
+4207403,2020,Câncer,6.0
+4207502,2020,Câncer,54.0
+4207577,2020,Câncer,1.0
+4207601,2020,Câncer,6.0
+4207650,2020,Câncer,12.0
+4207684,2020,Câncer,1.0
+4207700,2020,Câncer,7.0
+4207759,2020,Câncer,6.0
+4207809,2020,Câncer,4.0
+4207858,2020,Câncer,3.0
+4207908,2020,Câncer,12.0
+4208005,2020,Câncer,8.0
+4208104,2020,Câncer,17.0
+4208203,2020,Câncer,420.0
+4208302,2020,Câncer,35.0
+4208401,2020,Câncer,14.0
+4208450,2020,Câncer,6.0
+4208500,2020,Câncer,29.0
+4208609,2020,Câncer,0.0
+4208708,2020,Câncer,10.0
+4208807,2020,Câncer,19.0
+4208906,2020,Câncer,247.0
+4208955,2020,Câncer,2.0
+4209003,2020,Câncer,214.0
+4209102,2020,Câncer,871.0
+4209151,2020,Câncer,0.0
+4209177,2020,Câncer,1.0
+4209201,2020,Câncer,2.0
+4209300,2020,Câncer,313.0
+4209409,2020,Câncer,44.0
+4209458,2020,Câncer,0.0
+4209508,2020,Câncer,1.0
+4209607,2020,Câncer,13.0
+4209706,2020,Câncer,10.0
+4209805,2020,Câncer,5.0
+4209854,2020,Câncer,15.0
+4209904,2020,Câncer,6.0
+4210001,2020,Câncer,17.0
+4210035,2020,Câncer,11.0
+4210050,2020,Câncer,2.0
+4210100,2020,Câncer,85.0
+4210209,2020,Câncer,0.0
+4210308,2020,Câncer,10.0
+4210407,2020,Câncer,1.0
+4210506,2020,Câncer,45.0
+4210555,2020,Câncer,2.0
+4210605,2020,Câncer,9.0
+4210704,2020,Câncer,4.0
+4210803,2020,Câncer,22.0
+4210852,2020,Câncer,2.0
+4210902,2020,Câncer,9.0
+4211009,2020,Câncer,9.0
+4211058,2020,Câncer,7.0
+4211108,2020,Câncer,11.0
+4211207,2020,Câncer,7.0
+4211256,2020,Câncer,1.0
+4211306,2020,Câncer,27.0
+4211405,2020,Câncer,5.0
+4211454,2020,Câncer,2.0
+4211504,2020,Câncer,19.0
+4211603,2020,Câncer,8.0
+4211652,2020,Câncer,0.0
+4211702,2020,Câncer,14.0
+4211751,2020,Câncer,16.0
+4211801,2020,Câncer,2.0
+4211850,2020,Câncer,1.0
+4211876,2020,Câncer,0.0
+4211892,2020,Câncer,1.0
+4211900,2020,Câncer,34.0
+4212007,2020,Câncer,14.0
+4212056,2020,Câncer,2.0
+4212106,2020,Câncer,22.0
+4212205,2020,Câncer,24.0
+4212239,2020,Câncer,1.0
+4212254,2020,Câncer,3.0
+4212270,2020,Câncer,2.0
+4212304,2020,Câncer,0.0
+4212403,2020,Câncer,3.0
+4212502,2020,Câncer,23.0
+4212601,2020,Câncer,1.0
+4212650,2020,Câncer,2.0
+4212700,2020,Câncer,5.0
+4212809,2020,Câncer,9.0
+4212908,2020,Câncer,17.0
+4213005,2020,Câncer,0.0
+4213104,2020,Câncer,1.0
+4213153,2020,Câncer,1.0
+4213203,2020,Câncer,39.0
+4213302,2020,Câncer,1.0
+4213351,2020,Câncer,1.0
+4213401,2020,Câncer,9.0
+4213500,2020,Câncer,5.0
+4213609,2020,Câncer,135.0
+4213708,2020,Câncer,15.0
+4213807,2020,Câncer,10.0
+4213906,2020,Câncer,1.0
+4214003,2020,Câncer,21.0
+4214102,2020,Câncer,2.0
+4214151,2020,Câncer,0.0
+4214201,2020,Câncer,17.0
+4214300,2020,Câncer,0.0
+4214409,2020,Câncer,4.0
+4214508,2020,Câncer,4.0
+4214607,2020,Câncer,1.0
+4214706,2020,Câncer,13.0
+4214805,2020,Câncer,167.0
+4214904,2020,Câncer,10.0
+4215000,2020,Câncer,40.0
+4215059,2020,Câncer,1.0
+4215075,2020,Câncer,2.0
+4215109,2020,Câncer,9.0
+4215208,2020,Câncer,3.0
+4215307,2020,Câncer,10.0
+4215356,2020,Câncer,2.0
+4215406,2020,Câncer,4.0
+4215455,2020,Câncer,1.0
+4215505,2020,Câncer,14.0
+4215554,2020,Câncer,0.0
+4215604,2020,Câncer,1.0
+4215653,2020,Câncer,3.0
+4215679,2020,Câncer,3.0
+4215687,2020,Câncer,1.0
+4215695,2020,Câncer,0.0
+4215703,2020,Câncer,14.0
+4215752,2020,Câncer,0.0
+4215802,2020,Câncer,113.0
+4215901,2020,Câncer,3.0
+4216008,2020,Câncer,19.0
+4216057,2020,Câncer,0.0
+4216107,2020,Câncer,7.0
+4216206,2020,Câncer,26.0
+4216255,2020,Câncer,11.0
+4216305,2020,Câncer,26.0
+4216354,2020,Câncer,1.0
+4216404,2020,Câncer,1.0
+4216503,2020,Câncer,31.0
+4216602,2020,Câncer,214.0
+4216701,2020,Câncer,11.0
+4216800,2020,Câncer,3.0
+4216909,2020,Câncer,1.0
+4217006,2020,Câncer,5.0
+4217105,2020,Câncer,6.0
+4217154,2020,Câncer,0.0
+4217204,2020,Câncer,75.0
+4217253,2020,Câncer,6.0
+4217303,2020,Câncer,10.0
+4217402,2020,Câncer,5.0
+4217501,2020,Câncer,20.0
+4217550,2020,Câncer,0.0
+4217600,2020,Câncer,6.0
+4217709,2020,Câncer,24.0
+4217758,2020,Câncer,1.0
+4217808,2020,Câncer,23.0
+4217907,2020,Câncer,5.0
+4217956,2020,Câncer,1.0
+4218004,2020,Câncer,18.0
+4218103,2020,Câncer,8.0
+4218202,2020,Câncer,37.0
+4218251,2020,Câncer,6.0
+4218301,2020,Câncer,13.0
+4218350,2020,Câncer,2.0
+4218400,2020,Câncer,4.0
+4218509,2020,Câncer,2.0
+4218608,2020,Câncer,13.0
+4218707,2020,Câncer,270.0
+4218756,2020,Câncer,5.0
+4218806,2020,Câncer,18.0
+4218855,2020,Câncer,0.0
+4218905,2020,Câncer,15.0
+4218954,2020,Câncer,1.0
+4219002,2020,Câncer,27.0
+4219101,2020,Câncer,4.0
+4219150,2020,Câncer,2.0
+4219176,2020,Câncer,2.0
+4219200,2020,Câncer,7.0
+4219309,2020,Câncer,67.0
+4219358,2020,Câncer,3.0
+4219408,2020,Câncer,1.0
+4219507,2020,Câncer,72.0
+4219606,2020,Câncer,5.0
+4219705,2020,Câncer,28.0
+4219853,2020,Câncer,0.0
+4220000,2020,Câncer,5.0
+4200051,2021,Câncer,0.0
+4200101,2021,Câncer,24.0
+4200200,2021,Câncer,6.0
+4200309,2021,Câncer,2.0
+4200408,2021,Câncer,4.0
+4200507,2021,Câncer,1.0
+4200556,2021,Câncer,0.0
+4200606,2021,Câncer,2.0
+4200705,2021,Câncer,6.0
+4200754,2021,Câncer,3.0
+4200804,2021,Câncer,9.0
+4200903,2021,Câncer,4.0
+4201000,2021,Câncer,8.0
+4201109,2021,Câncer,3.0
+4201208,2021,Câncer,3.0
+4201257,2021,Câncer,4.0
+4201273,2021,Câncer,6.0
+4201307,2021,Câncer,12.0
+4201406,2021,Câncer,60.0
+4201505,2021,Câncer,13.0
+4201604,2021,Câncer,4.0
+4201653,2021,Câncer,1.0
+4201703,2021,Câncer,5.0
+4201802,2021,Câncer,1.0
+4201901,2021,Câncer,2.0
+4201950,2021,Câncer,2.0
+4202008,2021,Câncer,215.0
+4202057,2021,Câncer,10.0
+4202073,2021,Câncer,4.0
+4202081,2021,Câncer,2.0
+4202099,2021,Câncer,0.0
+4202107,2021,Câncer,11.0
+4202131,2021,Câncer,1.0
+4202156,2021,Câncer,0.0
+4202206,2021,Câncer,1.0
+4202305,2021,Câncer,36.0
+4202404,2021,Câncer,648.0
+4202438,2021,Câncer,3.0
+4202453,2021,Câncer,8.0
+4202503,2021,Câncer,2.0
+4202537,2021,Câncer,0.0
+4202578,2021,Câncer,2.0
+4202602,2021,Câncer,12.0
+4202701,2021,Câncer,0.0
+4202800,2021,Câncer,35.0
+4202859,2021,Câncer,1.0
+4202875,2021,Câncer,0.0
+4202909,2021,Câncer,149.0
+4203006,2021,Câncer,66.0
+4203105,2021,Câncer,6.0
+4203154,2021,Câncer,4.0
+4203204,2021,Câncer,29.0
+4203253,2021,Câncer,0.0
+4203303,2021,Câncer,16.0
+4203402,2021,Câncer,9.0
+4203501,2021,Câncer,15.0
+4203600,2021,Câncer,46.0
+4203709,2021,Câncer,7.0
+4203808,2021,Câncer,68.0
+4203907,2021,Câncer,27.0
+4203956,2021,Câncer,2.0
+4204004,2021,Câncer,4.0
+4204103,2021,Câncer,9.0
+4204152,2021,Câncer,0.0
+4204178,2021,Câncer,0.0
+4204194,2021,Câncer,2.0
+4204202,2021,Câncer,396.0
+4204251,2021,Câncer,2.0
+4204301,2021,Câncer,90.0
+4204350,2021,Câncer,0.0
+4204400,2021,Câncer,8.0
+4204459,2021,Câncer,1.0
+4204509,2021,Câncer,6.0
+4204558,2021,Câncer,14.0
+4204608,2021,Câncer,510.0
+4204707,2021,Câncer,15.0
+4204756,2021,Câncer,1.0
+4204806,2021,Câncer,73.0
+4204905,2021,Câncer,16.0
+4205001,2021,Câncer,29.0
+4205100,2021,Câncer,0.0
+4205159,2021,Câncer,4.0
+4205175,2021,Câncer,6.0
+4205191,2021,Câncer,0.0
+4205209,2021,Câncer,5.0
+4205308,2021,Câncer,17.0
+4205357,2021,Câncer,2.0
+4205407,2021,Câncer,1343.0
+4205431,2021,Câncer,1.0
+4205456,2021,Câncer,12.0
+4205506,2021,Câncer,35.0
+4205555,2021,Câncer,1.0
+4205605,2021,Câncer,2.0
+4205704,2021,Câncer,17.0
+4205803,2021,Câncer,6.0
+4205902,2021,Câncer,35.0
+4206009,2021,Câncer,4.0
+4206108,2021,Câncer,1.0
+4206207,2021,Câncer,1.0
+4206306,2021,Câncer,6.0
+4206405,2021,Câncer,34.0
+4206504,2021,Câncer,25.0
+4206603,2021,Câncer,14.0
+4206652,2021,Câncer,0.0
+4206702,2021,Câncer,5.0
+4206751,2021,Câncer,0.0
+4206801,2021,Câncer,1.0
+4206900,2021,Câncer,35.0
+4207007,2021,Câncer,47.0
+4207106,2021,Câncer,6.0
+4207205,2021,Câncer,7.0
+4207304,2021,Câncer,57.0
+4207403,2021,Câncer,6.0
+4207502,2021,Câncer,45.0
+4207577,2021,Câncer,2.0
+4207601,2021,Câncer,9.0
+4207650,2021,Câncer,11.0
+4207684,2021,Câncer,4.0
+4207700,2021,Câncer,4.0
+4207759,2021,Câncer,2.0
+4207809,2021,Câncer,7.0
+4207858,2021,Câncer,1.0
+4207908,2021,Câncer,16.0
+4208005,2021,Câncer,8.0
+4208104,2021,Câncer,20.0
+4208203,2021,Câncer,402.0
+4208302,2021,Câncer,34.0
+4208401,2021,Câncer,14.0
+4208450,2021,Câncer,9.0
+4208500,2021,Câncer,42.0
+4208609,2021,Câncer,2.0
+4208708,2021,Câncer,18.0
+4208807,2021,Câncer,22.0
+4208906,2021,Câncer,315.0
+4208955,2021,Câncer,2.0
+4209003,2021,Câncer,198.0
+4209102,2021,Câncer,817.0
+4209151,2021,Câncer,1.0
+4209177,2021,Câncer,8.0
+4209201,2021,Câncer,4.0
+4209300,2021,Câncer,307.0
+4209409,2021,Câncer,36.0
+4209458,2021,Câncer,3.0
+4209508,2021,Câncer,9.0
+4209607,2021,Câncer,11.0
+4209706,2021,Câncer,10.0
+4209805,2021,Câncer,3.0
+4209854,2021,Câncer,15.0
+4209904,2021,Câncer,1.0
+4210001,2021,Câncer,15.0
+4210035,2021,Câncer,16.0
+4210050,2021,Câncer,0.0
+4210100,2021,Câncer,104.0
+4210209,2021,Câncer,1.0
+4210308,2021,Câncer,13.0
+4210407,2021,Câncer,0.0
+4210506,2021,Câncer,29.0
+4210555,2021,Câncer,1.0
+4210605,2021,Câncer,7.0
+4210704,2021,Câncer,0.0
+4210803,2021,Câncer,10.0
+4210852,2021,Câncer,1.0
+4210902,2021,Câncer,7.0
+4211009,2021,Câncer,4.0
+4211058,2021,Câncer,4.0
+4211108,2021,Câncer,10.0
+4211207,2021,Câncer,9.0
+4211256,2021,Câncer,1.0
+4211306,2021,Câncer,39.0
+4211405,2021,Câncer,4.0
+4211454,2021,Câncer,1.0
+4211504,2021,Câncer,14.0
+4211603,2021,Câncer,13.0
+4211652,2021,Câncer,1.0
+4211702,2021,Câncer,12.0
+4211751,2021,Câncer,18.0
+4211801,2021,Câncer,0.0
+4211850,2021,Câncer,0.0
+4211876,2021,Câncer,0.0
+4211892,2021,Câncer,0.0
+4211900,2021,Câncer,27.0
+4212007,2021,Câncer,8.0
+4212056,2021,Câncer,1.0
+4212106,2021,Câncer,17.0
+4212205,2021,Câncer,31.0
+4212239,2021,Câncer,1.0
+4212254,2021,Câncer,1.0
+4212270,2021,Câncer,3.0
+4212304,2021,Câncer,3.0
+4212403,2021,Câncer,1.0
+4212502,2021,Câncer,26.0
+4212601,2021,Câncer,4.0
+4212650,2021,Câncer,1.0
+4212700,2021,Câncer,6.0
+4212809,2021,Câncer,25.0
+4212908,2021,Câncer,22.0
+4213005,2021,Câncer,0.0
+4213104,2021,Câncer,3.0
+4213153,2021,Câncer,0.0
+4213203,2021,Câncer,35.0
+4213302,2021,Câncer,2.0
+4213351,2021,Câncer,2.0
+4213401,2021,Câncer,14.0
+4213500,2021,Câncer,7.0
+4213609,2021,Câncer,163.0
+4213708,2021,Câncer,16.0
+4213807,2021,Câncer,13.0
+4213906,2021,Câncer,0.0
+4214003,2021,Câncer,13.0
+4214102,2021,Câncer,0.0
+4214151,2021,Câncer,0.0
+4214201,2021,Câncer,15.0
+4214300,2021,Câncer,0.0
+4214409,2021,Câncer,2.0
+4214508,2021,Câncer,12.0
+4214607,2021,Câncer,8.0
+4214706,2021,Câncer,23.0
+4214805,2021,Câncer,176.0
+4214904,2021,Câncer,7.0
+4215000,2021,Câncer,43.0
+4215059,2021,Câncer,2.0
+4215075,2021,Câncer,1.0
+4215109,2021,Câncer,12.0
+4215208,2021,Câncer,3.0
+4215307,2021,Câncer,8.0
+4215356,2021,Câncer,0.0
+4215406,2021,Câncer,4.0
+4215455,2021,Câncer,2.0
+4215505,2021,Câncer,22.0
+4215554,2021,Câncer,0.0
+4215604,2021,Câncer,0.0
+4215653,2021,Câncer,0.0
+4215679,2021,Câncer,5.0
+4215687,2021,Câncer,1.0
+4215695,2021,Câncer,0.0
+4215703,2021,Câncer,25.0
+4215752,2021,Câncer,0.0
+4215802,2021,Câncer,122.0
+4215901,2021,Câncer,4.0
+4216008,2021,Câncer,22.0
+4216057,2021,Câncer,3.0
+4216107,2021,Câncer,7.0
+4216206,2021,Câncer,27.0
+4216255,2021,Câncer,12.0
+4216305,2021,Câncer,20.0
+4216354,2021,Câncer,0.0
+4216404,2021,Câncer,5.0
+4216503,2021,Câncer,29.0
+4216602,2021,Câncer,243.0
+4216701,2021,Câncer,27.0
+4216800,2021,Câncer,2.0
+4216909,2021,Câncer,7.0
+4217006,2021,Câncer,5.0
+4217105,2021,Câncer,3.0
+4217154,2021,Câncer,2.0
+4217204,2021,Câncer,131.0
+4217253,2021,Câncer,3.0
+4217303,2021,Câncer,10.0
+4217402,2021,Câncer,5.0
+4217501,2021,Câncer,22.0
+4217550,2021,Câncer,1.0
+4217600,2021,Câncer,3.0
+4217709,2021,Câncer,32.0
+4217758,2021,Câncer,0.0
+4217808,2021,Câncer,25.0
+4217907,2021,Câncer,5.0
+4217956,2021,Câncer,0.0
+4218004,2021,Câncer,27.0
+4218103,2021,Câncer,4.0
+4218202,2021,Câncer,35.0
+4218251,2021,Câncer,2.0
+4218301,2021,Câncer,31.0
+4218350,2021,Câncer,2.0
+4218400,2021,Câncer,7.0
+4218509,2021,Câncer,1.0
+4218608,2021,Câncer,12.0
+4218707,2021,Câncer,290.0
+4218756,2021,Câncer,11.0
+4218806,2021,Câncer,19.0
+4218855,2021,Câncer,3.0
+4218905,2021,Câncer,13.0
+4218954,2021,Câncer,4.0
+4219002,2021,Câncer,19.0
+4219101,2021,Câncer,7.0
+4219150,2021,Câncer,0.0
+4219176,2021,Câncer,1.0
+4219200,2021,Câncer,6.0
+4219309,2021,Câncer,63.0
+4219358,2021,Câncer,2.0
+4219408,2021,Câncer,0.0
+4219507,2021,Câncer,64.0
+4219606,2021,Câncer,7.0
+4219705,2021,Câncer,36.0
+4219853,2021,Câncer,1.0
+4220000,2021,Câncer,2.0
+4200051,2022,Câncer,0.0
+4200101,2022,Câncer,19.0
+4200200,2022,Câncer,8.0
+4200309,2022,Câncer,1.0
+4200408,2022,Câncer,10.0
+4200507,2022,Câncer,3.0
+4200556,2022,Câncer,2.0
+4200606,2022,Câncer,1.0
+4200705,2022,Câncer,6.0
+4200754,2022,Câncer,2.0
+4200804,2022,Câncer,6.0
+4200903,2022,Câncer,5.0
+4201000,2022,Câncer,8.0
+4201109,2022,Câncer,2.0
+4201208,2022,Câncer,3.0
+4201257,2022,Câncer,4.0
+4201273,2022,Câncer,3.0
+4201307,2022,Câncer,6.0
+4201406,2022,Câncer,59.0
+4201505,2022,Câncer,7.0
+4201604,2022,Câncer,1.0
+4201653,2022,Câncer,1.0
+4201703,2022,Câncer,5.0
+4201802,2022,Câncer,0.0
+4201901,2022,Câncer,3.0
+4201950,2022,Câncer,5.0
+4202008,2022,Câncer,234.0
+4202057,2022,Câncer,3.0
+4202073,2022,Câncer,6.0
+4202081,2022,Câncer,0.0
+4202099,2022,Câncer,0.0
+4202107,2022,Câncer,15.0
+4202131,2022,Câncer,2.0
+4202156,2022,Câncer,0.0
+4202206,2022,Câncer,4.0
+4202305,2022,Câncer,24.0
+4202404,2022,Câncer,667.0
+4202438,2022,Câncer,3.0
+4202453,2022,Câncer,13.0
+4202503,2022,Câncer,2.0
+4202537,2022,Câncer,4.0
+4202578,2022,Câncer,0.0
+4202602,2022,Câncer,9.0
+4202701,2022,Câncer,1.0
+4202800,2022,Câncer,38.0
+4202859,2022,Câncer,2.0
+4202875,2022,Câncer,0.0
+4202909,2022,Câncer,137.0
+4203006,2022,Câncer,78.0
+4203105,2022,Câncer,2.0
+4203154,2022,Câncer,0.0
+4203204,2022,Câncer,33.0
+4203253,2022,Câncer,1.0
+4203303,2022,Câncer,8.0
+4203402,2022,Câncer,16.0
+4203501,2022,Câncer,12.0
+4203600,2022,Câncer,43.0
+4203709,2022,Câncer,9.0
+4203808,2022,Câncer,63.0
+4203907,2022,Câncer,22.0
+4203956,2022,Câncer,6.0
+4204004,2022,Câncer,8.0
+4204103,2022,Câncer,7.0
+4204152,2022,Câncer,1.0
+4204178,2022,Câncer,0.0
+4204194,2022,Câncer,0.0
+4204202,2022,Câncer,359.0
+4204251,2022,Câncer,2.0
+4204301,2022,Câncer,110.0
+4204350,2022,Câncer,2.0
+4204400,2022,Câncer,9.0
+4204459,2022,Câncer,0.0
+4204509,2022,Câncer,9.0
+4204558,2022,Câncer,1.0
+4204608,2022,Câncer,572.0
+4204707,2022,Câncer,16.0
+4204756,2022,Câncer,2.0
+4204806,2022,Câncer,64.0
+4204905,2022,Câncer,6.0
+4205001,2022,Câncer,36.0
+4205100,2022,Câncer,6.0
+4205159,2022,Câncer,3.0
+4205175,2022,Câncer,2.0
+4205191,2022,Câncer,0.0
+4205209,2022,Câncer,5.0
+4205308,2022,Câncer,18.0
+4205357,2022,Câncer,3.0
+4205407,2022,Câncer,1494.0
+4205431,2022,Câncer,0.0
+4205456,2022,Câncer,3.0
+4205506,2022,Câncer,41.0
+4205555,2022,Câncer,1.0
+4205605,2022,Câncer,1.0
+4205704,2022,Câncer,13.0
+4205803,2022,Câncer,4.0
+4205902,2022,Câncer,42.0
+4206009,2022,Câncer,1.0
+4206108,2022,Câncer,1.0
+4206207,2022,Câncer,1.0
+4206306,2022,Câncer,5.0
+4206405,2022,Câncer,15.0
+4206504,2022,Câncer,7.0
+4206603,2022,Câncer,16.0
+4206652,2022,Câncer,0.0
+4206702,2022,Câncer,7.0
+4206751,2022,Câncer,0.0
+4206801,2022,Câncer,1.0
+4206900,2022,Câncer,38.0
+4207007,2022,Câncer,39.0
+4207106,2022,Câncer,5.0
+4207205,2022,Câncer,9.0
+4207304,2022,Câncer,46.0
+4207403,2022,Câncer,5.0
+4207502,2022,Câncer,56.0
+4207577,2022,Câncer,0.0
+4207601,2022,Câncer,11.0
+4207650,2022,Câncer,11.0
+4207684,2022,Câncer,2.0
+4207700,2022,Câncer,4.0
+4207759,2022,Câncer,2.0
+4207809,2022,Câncer,7.0
+4207858,2022,Câncer,1.0
+4207908,2022,Câncer,6.0
+4208005,2022,Câncer,15.0
+4208104,2022,Câncer,23.0
+4208203,2022,Câncer,447.0
+4208302,2022,Câncer,40.0
+4208401,2022,Câncer,16.0
+4208450,2022,Câncer,9.0
+4208500,2022,Câncer,29.0
+4208609,2022,Câncer,0.0
+4208708,2022,Câncer,10.0
+4208807,2022,Câncer,21.0
+4208906,2022,Câncer,335.0
+4208955,2022,Câncer,0.0
+4209003,2022,Câncer,210.0
+4209102,2022,Câncer,938.0
+4209151,2022,Câncer,1.0
+4209177,2022,Câncer,1.0
+4209201,2022,Câncer,2.0
+4209300,2022,Câncer,378.0
+4209409,2022,Câncer,56.0
+4209458,2022,Câncer,2.0
+4209508,2022,Câncer,5.0
+4209607,2022,Câncer,13.0
+4209706,2022,Câncer,13.0
+4209805,2022,Câncer,2.0
+4209854,2022,Câncer,12.0
+4209904,2022,Câncer,8.0
+4210001,2022,Câncer,9.0
+4210035,2022,Câncer,12.0
+4210050,2022,Câncer,1.0
+4210100,2022,Câncer,95.0
+4210209,2022,Câncer,0.0
+4210308,2022,Câncer,10.0
+4210407,2022,Câncer,1.0
+4210506,2022,Câncer,47.0
+4210555,2022,Câncer,1.0
+4210605,2022,Câncer,8.0
+4210704,2022,Câncer,0.0
+4210803,2022,Câncer,12.0
+4210852,2022,Câncer,1.0
+4210902,2022,Câncer,10.0
+4211009,2022,Câncer,15.0
+4211058,2022,Câncer,3.0
+4211108,2022,Câncer,7.0
+4211207,2022,Câncer,13.0
+4211256,2022,Câncer,0.0
+4211306,2022,Câncer,41.0
+4211405,2022,Câncer,3.0
+4211454,2022,Câncer,2.0
+4211504,2022,Câncer,20.0
+4211603,2022,Câncer,4.0
+4211652,2022,Câncer,0.0
+4211702,2022,Câncer,24.0
+4211751,2022,Câncer,12.0
+4211801,2022,Câncer,1.0
+4211850,2022,Câncer,1.0
+4211876,2022,Câncer,1.0
+4211892,2022,Câncer,0.0
+4211900,2022,Câncer,31.0
+4212007,2022,Câncer,13.0
+4212056,2022,Câncer,0.0
+4212106,2022,Câncer,13.0
+4212205,2022,Câncer,17.0
+4212239,2022,Câncer,2.0
+4212254,2022,Câncer,2.0
+4212270,2022,Câncer,2.0
+4212304,2022,Câncer,3.0
+4212403,2022,Câncer,0.0
+4212502,2022,Câncer,22.0
+4212601,2022,Câncer,7.0
+4212650,2022,Câncer,0.0
+4212700,2022,Câncer,3.0
+4212809,2022,Câncer,18.0
+4212908,2022,Câncer,25.0
+4213005,2022,Câncer,0.0
+4213104,2022,Câncer,2.0
+4213153,2022,Câncer,1.0
+4213203,2022,Câncer,28.0
+4213302,2022,Câncer,1.0
+4213351,2022,Câncer,0.0
+4213401,2022,Câncer,9.0
+4213500,2022,Câncer,14.0
+4213609,2022,Câncer,144.0
+4213708,2022,Câncer,21.0
+4213807,2022,Câncer,34.0
+4213906,2022,Câncer,1.0
+4214003,2022,Câncer,20.0
+4214102,2022,Câncer,0.0
+4214151,2022,Câncer,3.0
+4214201,2022,Câncer,18.0
+4214300,2022,Câncer,1.0
+4214409,2022,Câncer,1.0
+4214508,2022,Câncer,6.0
+4214607,2022,Câncer,5.0
+4214706,2022,Câncer,10.0
+4214805,2022,Câncer,165.0
+4214904,2022,Câncer,7.0
+4215000,2022,Câncer,52.0
+4215059,2022,Câncer,2.0
+4215075,2022,Câncer,1.0
+4215109,2022,Câncer,12.0
+4215208,2022,Câncer,4.0
+4215307,2022,Câncer,11.0
+4215356,2022,Câncer,1.0
+4215406,2022,Câncer,0.0
+4215455,2022,Câncer,1.0
+4215505,2022,Câncer,20.0
+4215554,2022,Câncer,1.0
+4215604,2022,Câncer,0.0
+4215653,2022,Câncer,2.0
+4215679,2022,Câncer,5.0
+4215687,2022,Câncer,2.0
+4215695,2022,Câncer,1.0
+4215703,2022,Câncer,26.0
+4215752,2022,Câncer,1.0
+4215802,2022,Câncer,123.0
+4215901,2022,Câncer,5.0
+4216008,2022,Câncer,19.0
+4216057,2022,Câncer,0.0
+4216107,2022,Câncer,5.0
+4216206,2022,Câncer,29.0
+4216255,2022,Câncer,5.0
+4216305,2022,Câncer,20.0
+4216354,2022,Câncer,0.0
+4216404,2022,Câncer,0.0
+4216503,2022,Câncer,22.0
+4216602,2022,Câncer,208.0
+4216701,2022,Câncer,17.0
+4216800,2022,Câncer,3.0
+4216909,2022,Câncer,38.0
+4217006,2022,Câncer,1.0
+4217105,2022,Câncer,5.0
+4217154,2022,Câncer,1.0
+4217204,2022,Câncer,124.0
+4217253,2022,Câncer,12.0
+4217303,2022,Câncer,10.0
+4217402,2022,Câncer,4.0
+4217501,2022,Câncer,29.0
+4217550,2022,Câncer,1.0
+4217600,2022,Câncer,4.0
+4217709,2022,Câncer,45.0
+4217758,2022,Câncer,0.0
+4217808,2022,Câncer,15.0
+4217907,2022,Câncer,14.0
+4217956,2022,Câncer,0.0
+4218004,2022,Câncer,34.0
+4218103,2022,Câncer,4.0
+4218202,2022,Câncer,69.0
+4218251,2022,Câncer,4.0
+4218301,2022,Câncer,24.0
+4218350,2022,Câncer,0.0
+4218400,2022,Câncer,7.0
+4218509,2022,Câncer,6.0
+4218608,2022,Câncer,22.0
+4218707,2022,Câncer,329.0
+4218756,2022,Câncer,9.0
+4218806,2022,Câncer,18.0
+4218855,2022,Câncer,2.0
+4218905,2022,Câncer,11.0
+4218954,2022,Câncer,2.0
+4219002,2022,Câncer,23.0
+4219101,2022,Câncer,7.0
+4219150,2022,Câncer,3.0
+4219176,2022,Câncer,1.0
+4219200,2022,Câncer,12.0
+4219309,2022,Câncer,98.0
+4219358,2022,Câncer,4.0
+4219408,2022,Câncer,3.0
+4219507,2022,Câncer,80.0
+4219606,2022,Câncer,9.0
+4219705,2022,Câncer,33.0
+4219853,2022,Câncer,0.0
+4220000,2022,Câncer,2.0
+4200051,2023,Câncer,0.0
+4200101,2023,Câncer,25.0
+4200200,2023,Câncer,11.0
+4200309,2023,Câncer,3.0
+4200408,2023,Câncer,4.0
+4200507,2023,Câncer,1.0
+4200556,2023,Câncer,0.0
+4200606,2023,Câncer,2.0
+4200705,2023,Câncer,11.0
+4200754,2023,Câncer,2.0
+4200804,2023,Câncer,3.0
+4200903,2023,Câncer,4.0
+4201000,2023,Câncer,8.0
+4201109,2023,Câncer,5.0
+4201208,2023,Câncer,3.0
+4201257,2023,Câncer,4.0
+4201273,2023,Câncer,9.0
+4201307,2023,Câncer,8.0
+4201406,2023,Câncer,97.0
+4201505,2023,Câncer,11.0
+4201604,2023,Câncer,5.0
+4201653,2023,Câncer,1.0
+4201703,2023,Câncer,2.0
+4201802,2023,Câncer,6.0
+4201901,2023,Câncer,2.0
+4201950,2023,Câncer,3.0
+4202008,2023,Câncer,276.0
+4202057,2023,Câncer,9.0
+4202073,2023,Câncer,6.0
+4202081,2023,Câncer,1.0
+4202099,2023,Câncer,0.0
+4202107,2023,Câncer,15.0
+4202131,2023,Câncer,0.0
+4202156,2023,Câncer,1.0
+4202206,2023,Câncer,7.0
+4202305,2023,Câncer,26.0
+4202404,2023,Câncer,753.0
+4202438,2023,Câncer,1.0
+4202453,2023,Câncer,11.0
+4202503,2023,Câncer,1.0
+4202537,2023,Câncer,3.0
+4202578,2023,Câncer,0.0
+4202602,2023,Câncer,11.0
+4202701,2023,Câncer,3.0
+4202800,2023,Câncer,32.0
+4202859,2023,Câncer,0.0
+4202875,2023,Câncer,1.0
+4202909,2023,Câncer,173.0
+4203006,2023,Câncer,81.0
+4203105,2023,Câncer,5.0
+4203154,2023,Câncer,0.0
+4203204,2023,Câncer,30.0
+4203253,2023,Câncer,0.0
+4203303,2023,Câncer,13.0
+4203402,2023,Câncer,5.0
+4203501,2023,Câncer,16.0
+4203600,2023,Câncer,37.0
+4203709,2023,Câncer,14.0
+4203808,2023,Câncer,68.0
+4203907,2023,Câncer,29.0
+4203956,2023,Câncer,2.0
+4204004,2023,Câncer,5.0
+4204103,2023,Câncer,9.0
+4204152,2023,Câncer,0.0
+4204178,2023,Câncer,2.0
+4204194,2023,Câncer,2.0
+4204202,2023,Câncer,408.0
+4204251,2023,Câncer,1.0
+4204301,2023,Câncer,103.0
+4204350,2023,Câncer,0.0
+4204400,2023,Câncer,10.0
+4204459,2023,Câncer,0.0
+4204509,2023,Câncer,7.0
+4204558,2023,Câncer,12.0
+4204608,2023,Câncer,541.0
+4204707,2023,Câncer,15.0
+4204756,2023,Câncer,0.0
+4204806,2023,Câncer,81.0
+4204905,2023,Câncer,13.0
+4205001,2023,Câncer,29.0
+4205100,2023,Câncer,2.0
+4205159,2023,Câncer,0.0
+4205175,2023,Câncer,1.0
+4205191,2023,Câncer,1.0
+4205209,2023,Câncer,2.0
+4205308,2023,Câncer,9.0
+4205357,2023,Câncer,0.0
+4205407,2023,Câncer,1549.0
+4205431,2023,Câncer,3.0
+4205456,2023,Câncer,8.0
+4205506,2023,Câncer,32.0
+4205555,2023,Câncer,2.0
+4205605,2023,Câncer,2.0
+4205704,2023,Câncer,17.0
+4205803,2023,Câncer,6.0
+4205902,2023,Câncer,60.0
+4206009,2023,Câncer,7.0
+4206108,2023,Câncer,2.0
+4206207,2023,Câncer,3.0
+4206306,2023,Câncer,10.0
+4206405,2023,Câncer,14.0
+4206504,2023,Câncer,21.0
+4206603,2023,Câncer,8.0
+4206652,2023,Câncer,1.0
+4206702,2023,Câncer,6.0
+4206751,2023,Câncer,0.0
+4206801,2023,Câncer,2.0
+4206900,2023,Câncer,45.0
+4207007,2023,Câncer,51.0
+4207106,2023,Câncer,9.0
+4207205,2023,Câncer,8.0
+4207304,2023,Câncer,52.0
+4207403,2023,Câncer,5.0
+4207502,2023,Câncer,53.0
+4207577,2023,Câncer,1.0
+4207601,2023,Câncer,8.0
+4207650,2023,Câncer,10.0
+4207684,2023,Câncer,3.0
+4207700,2023,Câncer,8.0
+4207759,2023,Câncer,1.0
+4207809,2023,Câncer,4.0
+4207858,2023,Câncer,1.0
+4207908,2023,Câncer,9.0
+4208005,2023,Câncer,14.0
+4208104,2023,Câncer,23.0
+4208203,2023,Câncer,557.0
+4208302,2023,Câncer,26.0
+4208401,2023,Câncer,18.0
+4208450,2023,Câncer,16.0
+4208500,2023,Câncer,55.0
+4208609,2023,Câncer,0.0
+4208708,2023,Câncer,15.0
+4208807,2023,Câncer,19.0
+4208906,2023,Câncer,392.0
+4208955,2023,Câncer,0.0
+4209003,2023,Câncer,213.0
+4209102,2023,Câncer,863.0
+4209151,2023,Câncer,2.0
+4209177,2023,Câncer,2.0
+4209201,2023,Câncer,3.0
+4209300,2023,Câncer,371.0
+4209409,2023,Câncer,44.0
+4209458,2023,Câncer,2.0
+4209508,2023,Câncer,2.0
+4209607,2023,Câncer,16.0
+4209706,2023,Câncer,7.0
+4209805,2023,Câncer,0.0
+4209854,2023,Câncer,9.0
+4209904,2023,Câncer,4.0
+4210001,2023,Câncer,7.0
+4210035,2023,Câncer,13.0
+4210050,2023,Câncer,2.0
+4210100,2023,Câncer,100.0
+4210209,2023,Câncer,0.0
+4210308,2023,Câncer,5.0
+4210407,2023,Câncer,0.0
+4210506,2023,Câncer,51.0
+4210555,2023,Câncer,0.0
+4210605,2023,Câncer,8.0
+4210704,2023,Câncer,2.0
+4210803,2023,Câncer,23.0
+4210852,2023,Câncer,4.0
+4210902,2023,Câncer,11.0
+4211009,2023,Câncer,6.0
+4211058,2023,Câncer,5.0
+4211108,2023,Câncer,6.0
+4211207,2023,Câncer,28.0
+4211256,2023,Câncer,1.0
+4211306,2023,Câncer,58.0
+4211405,2023,Câncer,9.0
+4211454,2023,Câncer,3.0
+4211504,2023,Câncer,23.0
+4211603,2023,Câncer,12.0
+4211652,2023,Câncer,0.0
+4211702,2023,Câncer,30.0
+4211751,2023,Câncer,14.0
+4211801,2023,Câncer,1.0
+4211850,2023,Câncer,0.0
+4211876,2023,Câncer,0.0
+4211892,2023,Câncer,0.0
+4211900,2023,Câncer,27.0
+4212007,2023,Câncer,15.0
+4212056,2023,Câncer,0.0
+4212106,2023,Câncer,25.0
+4212205,2023,Câncer,27.0
+4212239,2023,Câncer,3.0
+4212254,2023,Câncer,3.0
+4212270,2023,Câncer,0.0
+4212304,2023,Câncer,1.0
+4212403,2023,Câncer,1.0
+4212502,2023,Câncer,23.0
+4212601,2023,Câncer,4.0
+4212650,2023,Câncer,1.0
+4212700,2023,Câncer,5.0
+4212809,2023,Câncer,17.0
+4212908,2023,Câncer,32.0
+4213005,2023,Câncer,0.0
+4213104,2023,Câncer,1.0
+4213153,2023,Câncer,0.0
+4213203,2023,Câncer,27.0
+4213302,2023,Câncer,1.0
+4213351,2023,Câncer,0.0
+4213401,2023,Câncer,2.0
+4213500,2023,Câncer,13.0
+4213609,2023,Câncer,182.0
+4213708,2023,Câncer,13.0
+4213807,2023,Câncer,13.0
+4213906,2023,Câncer,0.0
+4214003,2023,Câncer,14.0
+4214102,2023,Câncer,1.0
+4214151,2023,Câncer,3.0
+4214201,2023,Câncer,38.0
+4214300,2023,Câncer,2.0
+4214409,2023,Câncer,0.0
+4214508,2023,Câncer,17.0
+4214607,2023,Câncer,6.0
+4214706,2023,Câncer,8.0
+4214805,2023,Câncer,185.0
+4214904,2023,Câncer,11.0
+4215000,2023,Câncer,62.0
+4215059,2023,Câncer,0.0
+4215075,2023,Câncer,4.0
+4215109,2023,Câncer,8.0
+4215208,2023,Câncer,6.0
+4215307,2023,Câncer,10.0
+4215356,2023,Câncer,1.0
+4215406,2023,Câncer,6.0
+4215455,2023,Câncer,3.0
+4215505,2023,Câncer,14.0
+4215554,2023,Câncer,0.0
+4215604,2023,Câncer,1.0
+4215653,2023,Câncer,4.0
+4215679,2023,Câncer,3.0
+4215687,2023,Câncer,2.0
+4215695,2023,Câncer,2.0
+4215703,2023,Câncer,29.0
+4215752,2023,Câncer,0.0
+4215802,2023,Câncer,133.0
+4215901,2023,Câncer,4.0
+4216008,2023,Câncer,17.0
+4216057,2023,Câncer,2.0
+4216107,2023,Câncer,6.0
+4216206,2023,Câncer,26.0
+4216255,2023,Câncer,14.0
+4216305,2023,Câncer,19.0
+4216354,2023,Câncer,2.0
+4216404,2023,Câncer,0.0
+4216503,2023,Câncer,20.0
+4216602,2023,Câncer,237.0
+4216701,2023,Câncer,17.0
+4216800,2023,Câncer,7.0
+4216909,2023,Câncer,28.0
+4217006,2023,Câncer,3.0
+4217105,2023,Câncer,4.0
+4217154,2023,Câncer,1.0
+4217204,2023,Câncer,135.0
+4217253,2023,Câncer,15.0
+4217303,2023,Câncer,8.0
+4217402,2023,Câncer,6.0
+4217501,2023,Câncer,18.0
+4217550,2023,Câncer,3.0
+4217600,2023,Câncer,7.0
+4217709,2023,Câncer,56.0
+4217758,2023,Câncer,0.0
+4217808,2023,Câncer,16.0
+4217907,2023,Câncer,6.0
+4217956,2023,Câncer,2.0
+4218004,2023,Câncer,17.0
+4218103,2023,Câncer,6.0
+4218202,2023,Câncer,72.0
+4218251,2023,Câncer,4.0
+4218301,2023,Câncer,33.0
+4218350,2023,Câncer,1.0
+4218400,2023,Câncer,13.0
+4218509,2023,Câncer,4.0
+4218608,2023,Câncer,32.0
+4218707,2023,Câncer,285.0
+4218756,2023,Câncer,15.0
+4218806,2023,Câncer,13.0
+4218855,2023,Câncer,3.0
+4218905,2023,Câncer,12.0
+4218954,2023,Câncer,2.0
+4219002,2023,Câncer,29.0
+4219101,2023,Câncer,9.0
+4219150,2023,Câncer,1.0
+4219176,2023,Câncer,1.0
+4219200,2023,Câncer,6.0
+4219309,2023,Câncer,79.0
+4219358,2023,Câncer,5.0
+4219408,2023,Câncer,2.0
+4219507,2023,Câncer,79.0
+4219606,2023,Câncer,3.0
+4219705,2023,Câncer,31.0
+4219853,2023,Câncer,0.0
+4220000,2023,Câncer,3.0
+4200051,2019,Diabetes,0.0
+4200101,2019,Diabetes,2.0
+4200200,2019,Diabetes,5.0
+4200309,2019,Diabetes,1.0
+4200408,2019,Diabetes,0.0
+4200507,2019,Diabetes,1.0
+4200556,2019,Diabetes,1.0
+4200606,2019,Diabetes,0.0
+4200705,2019,Diabetes,4.0
+4200754,2019,Diabetes,0.0
+4200804,2019,Diabetes,1.0
+4200903,2019,Diabetes,4.0
+4201000,2019,Diabetes,0.0
+4201109,2019,Diabetes,2.0
+4201208,2019,Diabetes,1.0
+4201257,2019,Diabetes,5.0
+4201273,2019,Diabetes,3.0
+4201307,2019,Diabetes,6.0
+4201406,2019,Diabetes,15.0
+4201505,2019,Diabetes,4.0
+4201604,2019,Diabetes,1.0
+4201653,2019,Diabetes,0.0
+4201703,2019,Diabetes,0.0
+4201802,2019,Diabetes,0.0
+4201901,2019,Diabetes,0.0
+4201950,2019,Diabetes,1.0
+4202008,2019,Diabetes,69.0
+4202057,2019,Diabetes,3.0
+4202073,2019,Diabetes,2.0
+4202081,2019,Diabetes,0.0
+4202099,2019,Diabetes,1.0
+4202107,2019,Diabetes,2.0
+4202131,2019,Diabetes,0.0
+4202156,2019,Diabetes,0.0
+4202206,2019,Diabetes,0.0
+4202305,2019,Diabetes,5.0
+4202404,2019,Diabetes,68.0
+4202438,2019,Diabetes,0.0
+4202453,2019,Diabetes,1.0
+4202503,2019,Diabetes,0.0
+4202537,2019,Diabetes,0.0
+4202602,2019,Diabetes,0.0
+4202701,2019,Diabetes,0.0
+4202800,2019,Diabetes,17.0
+4202859,2019,Diabetes,0.0
+4202875,2019,Diabetes,0.0
+4202909,2019,Diabetes,37.0
+4203006,2019,Diabetes,40.0
+4203105,2019,Diabetes,5.0
+4203154,2019,Diabetes,0.0
+4203204,2019,Diabetes,14.0
+4203253,2019,Diabetes,0.0
+4203303,2019,Diabetes,5.0
+4203402,2019,Diabetes,2.0
+4203501,2019,Diabetes,4.0
+4203600,2019,Diabetes,23.0
+4203709,2019,Diabetes,2.0
+4203808,2019,Diabetes,10.0
+4203907,2019,Diabetes,2.0
+4203956,2019,Diabetes,3.0
+4204004,2019,Diabetes,1.0
+4204103,2019,Diabetes,2.0
+4204152,2019,Diabetes,0.0
+4204178,2019,Diabetes,1.0
+4204194,2019,Diabetes,0.0
+4204202,2019,Diabetes,45.0
+4204251,2019,Diabetes,0.0
+4204301,2019,Diabetes,64.0
+4204400,2019,Diabetes,3.0
+4204459,2019,Diabetes,0.0
+4204509,2019,Diabetes,10.0
+4204558,2019,Diabetes,8.0
+4204608,2019,Diabetes,43.0
+4204707,2019,Diabetes,2.0
+4204756,2019,Diabetes,0.0
+4204806,2019,Diabetes,33.0
+4204905,2019,Diabetes,5.0
+4205001,2019,Diabetes,9.0
+4205100,2019,Diabetes,2.0
+4205159,2019,Diabetes,1.0
+4205209,2019,Diabetes,0.0
+4205308,2019,Diabetes,2.0
+4205357,2019,Diabetes,0.0
+4205407,2019,Diabetes,126.0
+4205431,2019,Diabetes,1.0
+4205456,2019,Diabetes,2.0
+4205506,2019,Diabetes,8.0
+4205605,2019,Diabetes,0.0
+4205704,2019,Diabetes,7.0
+4205803,2019,Diabetes,4.0
+4205902,2019,Diabetes,10.0
+4206009,2019,Diabetes,1.0
+4206108,2019,Diabetes,0.0
+4206207,2019,Diabetes,0.0
+4206306,2019,Diabetes,0.0
+4206405,2019,Diabetes,3.0
+4206504,2019,Diabetes,4.0
+4206603,2019,Diabetes,1.0
+4206652,2019,Diabetes,1.0
+4206702,2019,Diabetes,1.0
+4206751,2019,Diabetes,1.0
+4206801,2019,Diabetes,0.0
+4206900,2019,Diabetes,11.0
+4207007,2019,Diabetes,12.0
+4207106,2019,Diabetes,0.0
+4207205,2019,Diabetes,6.0
+4207304,2019,Diabetes,13.0
+4207403,2019,Diabetes,1.0
+4207502,2019,Diabetes,15.0
+4207601,2019,Diabetes,1.0
+4207650,2019,Diabetes,2.0
+4207684,2019,Diabetes,0.0
+4207700,2019,Diabetes,3.0
+4207759,2019,Diabetes,2.0
+4207809,2019,Diabetes,0.0
+4207858,2019,Diabetes,0.0
+4207908,2019,Diabetes,2.0
+4208005,2019,Diabetes,1.0
+4208104,2019,Diabetes,11.0
+4208203,2019,Diabetes,122.0
+4208302,2019,Diabetes,14.0
+4208401,2019,Diabetes,9.0
+4208450,2019,Diabetes,2.0
+4208500,2019,Diabetes,7.0
+4208609,2019,Diabetes,1.0
+4208708,2019,Diabetes,2.0
+4208807,2019,Diabetes,2.0
+4208906,2019,Diabetes,41.0
+4209003,2019,Diabetes,27.0
+4209102,2019,Diabetes,150.0
+4209151,2019,Diabetes,1.0
+4209177,2019,Diabetes,0.0
+4209201,2019,Diabetes,1.0
+4209300,2019,Diabetes,88.0
+4209409,2019,Diabetes,30.0
+4209458,2019,Diabetes,0.0
+4209508,2019,Diabetes,1.0
+4209607,2019,Diabetes,5.0
+4209706,2019,Diabetes,4.0
+4209805,2019,Diabetes,1.0
+4209854,2019,Diabetes,1.0
+4209904,2019,Diabetes,3.0
+4210001,2019,Diabetes,4.0
+4210035,2019,Diabetes,12.0
+4210050,2019,Diabetes,0.0
+4210100,2019,Diabetes,13.0
+4210209,2019,Diabetes,0.0
+4210308,2019,Diabetes,3.0
+4210407,2019,Diabetes,2.0
+4210506,2019,Diabetes,10.0
+4210605,2019,Diabetes,3.0
+4210704,2019,Diabetes,0.0
+4210803,2019,Diabetes,1.0
+4210852,2019,Diabetes,1.0
+4210902,2019,Diabetes,0.0
+4211009,2019,Diabetes,3.0
+4211058,2019,Diabetes,0.0
+4211108,2019,Diabetes,4.0
+4211207,2019,Diabetes,3.0
+4211256,2019,Diabetes,0.0
+4211306,2019,Diabetes,8.0
+4211405,2019,Diabetes,0.0
+4211454,2019,Diabetes,0.0
+4211504,2019,Diabetes,6.0
+4211603,2019,Diabetes,1.0
+4211702,2019,Diabetes,2.0
+4211751,2019,Diabetes,5.0
+4211801,2019,Diabetes,0.0
+4211850,2019,Diabetes,0.0
+4211876,2019,Diabetes,0.0
+4211892,2019,Diabetes,1.0
+4211900,2019,Diabetes,14.0
+4212007,2019,Diabetes,2.0
+4212056,2019,Diabetes,0.0
+4212106,2019,Diabetes,3.0
+4212205,2019,Diabetes,4.0
+4212239,2019,Diabetes,0.0
+4212254,2019,Diabetes,1.0
+4212270,2019,Diabetes,0.0
+4212304,2019,Diabetes,0.0
+4212403,2019,Diabetes,0.0
+4212502,2019,Diabetes,25.0
+4212601,2019,Diabetes,2.0
+4212650,2019,Diabetes,2.0
+4212700,2019,Diabetes,3.0
+4212809,2019,Diabetes,13.0
+4212908,2019,Diabetes,1.0
+4213104,2019,Diabetes,0.0
+4213203,2019,Diabetes,4.0
+4213302,2019,Diabetes,1.0
+4213351,2019,Diabetes,0.0
+4213401,2019,Diabetes,2.0
+4213500,2019,Diabetes,0.0
+4213609,2019,Diabetes,14.0
+4213708,2019,Diabetes,6.0
+4213807,2019,Diabetes,4.0
+4213906,2019,Diabetes,2.0
+4214003,2019,Diabetes,5.0
+4214102,2019,Diabetes,0.0
+4214151,2019,Diabetes,1.0
+4214201,2019,Diabetes,2.0
+4214409,2019,Diabetes,1.0
+4214508,2019,Diabetes,2.0
+4214607,2019,Diabetes,5.0
+4214706,2019,Diabetes,2.0
+4214805,2019,Diabetes,22.0
+4214904,2019,Diabetes,0.0
+4215000,2019,Diabetes,14.0
+4215059,2019,Diabetes,1.0
+4215075,2019,Diabetes,0.0
+4215109,2019,Diabetes,1.0
+4215208,2019,Diabetes,1.0
+4215307,2019,Diabetes,3.0
+4215356,2019,Diabetes,0.0
+4215406,2019,Diabetes,1.0
+4215455,2019,Diabetes,3.0
+4215505,2019,Diabetes,13.0
+4215604,2019,Diabetes,0.0
+4215653,2019,Diabetes,3.0
+4215679,2019,Diabetes,0.0
+4215695,2019,Diabetes,0.0
+4215703,2019,Diabetes,6.0
+4215752,2019,Diabetes,0.0
+4215802,2019,Diabetes,20.0
+4215901,2019,Diabetes,1.0
+4216008,2019,Diabetes,2.0
+4216057,2019,Diabetes,0.0
+4216107,2019,Diabetes,4.0
+4216206,2019,Diabetes,15.0
+4216255,2019,Diabetes,0.0
+4216305,2019,Diabetes,2.0
+4216354,2019,Diabetes,0.0
+4216404,2019,Diabetes,0.0
+4216503,2019,Diabetes,5.0
+4216602,2019,Diabetes,80.0
+4216701,2019,Diabetes,5.0
+4216800,2019,Diabetes,3.0
+4216909,2019,Diabetes,0.0
+4217006,2019,Diabetes,2.0
+4217154,2019,Diabetes,0.0
+4217204,2019,Diabetes,18.0
+4217253,2019,Diabetes,0.0
+4217303,2019,Diabetes,1.0
+4217402,2019,Diabetes,4.0
+4217501,2019,Diabetes,14.0
+4217550,2019,Diabetes,0.0
+4217600,2019,Diabetes,0.0
+4217709,2019,Diabetes,22.0
+4217758,2019,Diabetes,0.0
+4217808,2019,Diabetes,1.0
+4217907,2019,Diabetes,2.0
+4217956,2019,Diabetes,0.0
+4218004,2019,Diabetes,13.0
+4218103,2019,Diabetes,0.0
+4218202,2019,Diabetes,13.0
+4218251,2019,Diabetes,5.0
+4218301,2019,Diabetes,8.0
+4218350,2019,Diabetes,0.0
+4218400,2019,Diabetes,5.0
+4218509,2019,Diabetes,5.0
+4218608,2019,Diabetes,4.0
+4218707,2019,Diabetes,54.0
+4218756,2019,Diabetes,1.0
+4218806,2019,Diabetes,1.0
+4218855,2019,Diabetes,1.0
+4218905,2019,Diabetes,2.0
+4218954,2019,Diabetes,0.0
+4219002,2019,Diabetes,8.0
+4219101,2019,Diabetes,0.0
+4219150,2019,Diabetes,0.0
+4219176,2019,Diabetes,0.0
+4219200,2019,Diabetes,4.0
+4219309,2019,Diabetes,17.0
+4219358,2019,Diabetes,2.0
+4219408,2019,Diabetes,0.0
+4219507,2019,Diabetes,21.0
+4219606,2019,Diabetes,0.0
+4219705,2019,Diabetes,6.0
+4220000,2019,Diabetes,2.0
+4200051,2020,Diabetes,1.0
+4200101,2020,Diabetes,4.0
+4200200,2020,Diabetes,4.0
+4200309,2020,Diabetes,0.0
+4200408,2020,Diabetes,0.0
+4200507,2020,Diabetes,0.0
+4200556,2020,Diabetes,0.0
+4200606,2020,Diabetes,1.0
+4200705,2020,Diabetes,7.0
+4200754,2020,Diabetes,1.0
+4200804,2020,Diabetes,2.0
+4200903,2020,Diabetes,2.0
+4201000,2020,Diabetes,2.0
+4201109,2020,Diabetes,0.0
+4201208,2020,Diabetes,1.0
+4201257,2020,Diabetes,3.0
+4201273,2020,Diabetes,1.0
+4201307,2020,Diabetes,5.0
+4201406,2020,Diabetes,15.0
+4201505,2020,Diabetes,9.0
+4201604,2020,Diabetes,1.0
+4201653,2020,Diabetes,0.0
+4201703,2020,Diabetes,1.0
+4201802,2020,Diabetes,1.0
+4201901,2020,Diabetes,1.0
+4201950,2020,Diabetes,0.0
+4202008,2020,Diabetes,49.0
+4202057,2020,Diabetes,5.0
+4202073,2020,Diabetes,2.0
+4202081,2020,Diabetes,1.0
+4202099,2020,Diabetes,0.0
+4202107,2020,Diabetes,6.0
+4202131,2020,Diabetes,0.0
+4202156,2020,Diabetes,0.0
+4202206,2020,Diabetes,2.0
+4202305,2020,Diabetes,13.0
+4202404,2020,Diabetes,70.0
+4202438,2020,Diabetes,2.0
+4202453,2020,Diabetes,5.0
+4202503,2020,Diabetes,0.0
+4202537,2020,Diabetes,0.0
+4202602,2020,Diabetes,2.0
+4202701,2020,Diabetes,1.0
+4202800,2020,Diabetes,16.0
+4202859,2020,Diabetes,2.0
+4202875,2020,Diabetes,0.0
+4202909,2020,Diabetes,42.0
+4203006,2020,Diabetes,46.0
+4203105,2020,Diabetes,0.0
+4203154,2020,Diabetes,1.0
+4203204,2020,Diabetes,6.0
+4203253,2020,Diabetes,1.0
+4203303,2020,Diabetes,4.0
+4203402,2020,Diabetes,3.0
+4203501,2020,Diabetes,7.0
+4203600,2020,Diabetes,12.0
+4203709,2020,Diabetes,1.0
+4203808,2020,Diabetes,21.0
+4203907,2020,Diabetes,6.0
+4203956,2020,Diabetes,0.0
+4204004,2020,Diabetes,2.0
+4204103,2020,Diabetes,3.0
+4204152,2020,Diabetes,0.0
+4204178,2020,Diabetes,1.0
+4204194,2020,Diabetes,1.0
+4204202,2020,Diabetes,42.0
+4204251,2020,Diabetes,1.0
+4204301,2020,Diabetes,56.0
+4204400,2020,Diabetes,5.0
+4204459,2020,Diabetes,0.0
+4204509,2020,Diabetes,5.0
+4204558,2020,Diabetes,12.0
+4204608,2020,Diabetes,47.0
+4204707,2020,Diabetes,3.0
+4204756,2020,Diabetes,0.0
+4204806,2020,Diabetes,46.0
+4204905,2020,Diabetes,5.0
+4205001,2020,Diabetes,10.0
+4205100,2020,Diabetes,0.0
+4205159,2020,Diabetes,1.0
+4205209,2020,Diabetes,0.0
+4205308,2020,Diabetes,2.0
+4205357,2020,Diabetes,0.0
+4205407,2020,Diabetes,138.0
+4205431,2020,Diabetes,0.0
+4205456,2020,Diabetes,4.0
+4205506,2020,Diabetes,7.0
+4205605,2020,Diabetes,1.0
+4205704,2020,Diabetes,8.0
+4205803,2020,Diabetes,3.0
+4205902,2020,Diabetes,11.0
+4206009,2020,Diabetes,8.0
+4206108,2020,Diabetes,0.0
+4206207,2020,Diabetes,0.0
+4206306,2020,Diabetes,3.0
+4206405,2020,Diabetes,3.0
+4206504,2020,Diabetes,8.0
+4206603,2020,Diabetes,4.0
+4206652,2020,Diabetes,0.0
+4206702,2020,Diabetes,1.0
+4206751,2020,Diabetes,0.0
+4206801,2020,Diabetes,1.0
+4206900,2020,Diabetes,12.0
+4207007,2020,Diabetes,11.0
+4207106,2020,Diabetes,2.0
+4207205,2020,Diabetes,0.0
+4207304,2020,Diabetes,29.0
+4207403,2020,Diabetes,1.0
+4207502,2020,Diabetes,13.0
+4207601,2020,Diabetes,2.0
+4207650,2020,Diabetes,2.0
+4207684,2020,Diabetes,2.0
+4207700,2020,Diabetes,0.0
+4207759,2020,Diabetes,0.0
+4207809,2020,Diabetes,3.0
+4207858,2020,Diabetes,1.0
+4207908,2020,Diabetes,1.0
+4208005,2020,Diabetes,1.0
+4208104,2020,Diabetes,9.0
+4208203,2020,Diabetes,101.0
+4208302,2020,Diabetes,19.0
+4208401,2020,Diabetes,6.0
+4208450,2020,Diabetes,8.0
+4208500,2020,Diabetes,5.0
+4208609,2020,Diabetes,0.0
+4208708,2020,Diabetes,6.0
+4208807,2020,Diabetes,2.0
+4208906,2020,Diabetes,44.0
+4209003,2020,Diabetes,20.0
+4209102,2020,Diabetes,125.0
+4209151,2020,Diabetes,0.0
+4209177,2020,Diabetes,1.0
+4209201,2020,Diabetes,1.0
+4209300,2020,Diabetes,70.0
+4209409,2020,Diabetes,24.0
+4209458,2020,Diabetes,0.0
+4209508,2020,Diabetes,2.0
+4209607,2020,Diabetes,2.0
+4209706,2020,Diabetes,5.0
+4209805,2020,Diabetes,0.0
+4209854,2020,Diabetes,4.0
+4209904,2020,Diabetes,1.0
+4210001,2020,Diabetes,2.0
+4210035,2020,Diabetes,11.0
+4210050,2020,Diabetes,0.0
+4210100,2020,Diabetes,20.0
+4210209,2020,Diabetes,0.0
+4210308,2020,Diabetes,2.0
+4210407,2020,Diabetes,0.0
+4210506,2020,Diabetes,17.0
+4210605,2020,Diabetes,3.0
+4210704,2020,Diabetes,0.0
+4210803,2020,Diabetes,3.0
+4210852,2020,Diabetes,0.0
+4210902,2020,Diabetes,0.0
+4211009,2020,Diabetes,1.0
+4211058,2020,Diabetes,3.0
+4211108,2020,Diabetes,3.0
+4211207,2020,Diabetes,12.0
+4211256,2020,Diabetes,1.0
+4211306,2020,Diabetes,18.0
+4211405,2020,Diabetes,4.0
+4211454,2020,Diabetes,0.0
+4211504,2020,Diabetes,5.0
+4211603,2020,Diabetes,2.0
+4211702,2020,Diabetes,9.0
+4211751,2020,Diabetes,4.0
+4211801,2020,Diabetes,0.0
+4211850,2020,Diabetes,1.0
+4211876,2020,Diabetes,0.0
+4211892,2020,Diabetes,0.0
+4211900,2020,Diabetes,22.0
+4212007,2020,Diabetes,7.0
+4212056,2020,Diabetes,2.0
+4212106,2020,Diabetes,7.0
+4212205,2020,Diabetes,3.0
+4212239,2020,Diabetes,0.0
+4212254,2020,Diabetes,1.0
+4212270,2020,Diabetes,0.0
+4212304,2020,Diabetes,0.0
+4212403,2020,Diabetes,0.0
+4212502,2020,Diabetes,12.0
+4212601,2020,Diabetes,3.0
+4212650,2020,Diabetes,0.0
+4212700,2020,Diabetes,3.0
+4212809,2020,Diabetes,9.0
+4212908,2020,Diabetes,3.0
+4213104,2020,Diabetes,0.0
+4213203,2020,Diabetes,11.0
+4213302,2020,Diabetes,1.0
+4213351,2020,Diabetes,0.0
+4213401,2020,Diabetes,3.0
+4213500,2020,Diabetes,2.0
+4213609,2020,Diabetes,15.0
+4213708,2020,Diabetes,8.0
+4213807,2020,Diabetes,5.0
+4213906,2020,Diabetes,0.0
+4214003,2020,Diabetes,7.0
+4214102,2020,Diabetes,0.0
+4214151,2020,Diabetes,2.0
+4214201,2020,Diabetes,4.0
+4214409,2020,Diabetes,1.0
+4214508,2020,Diabetes,1.0
+4214607,2020,Diabetes,3.0
+4214706,2020,Diabetes,10.0
+4214805,2020,Diabetes,26.0
+4214904,2020,Diabetes,1.0
+4215000,2020,Diabetes,15.0
+4215059,2020,Diabetes,1.0
+4215075,2020,Diabetes,1.0
+4215109,2020,Diabetes,3.0
+4215208,2020,Diabetes,3.0
+4215307,2020,Diabetes,3.0
+4215356,2020,Diabetes,1.0
+4215406,2020,Diabetes,1.0
+4215455,2020,Diabetes,2.0
+4215505,2020,Diabetes,9.0
+4215604,2020,Diabetes,0.0
+4215653,2020,Diabetes,0.0
+4215679,2020,Diabetes,0.0
+4215695,2020,Diabetes,0.0
+4215703,2020,Diabetes,11.0
+4215752,2020,Diabetes,2.0
+4215802,2020,Diabetes,20.0
+4215901,2020,Diabetes,2.0
+4216008,2020,Diabetes,6.0
+4216057,2020,Diabetes,1.0
+4216107,2020,Diabetes,3.0
+4216206,2020,Diabetes,16.0
+4216255,2020,Diabetes,1.0
+4216305,2020,Diabetes,14.0
+4216354,2020,Diabetes,0.0
+4216404,2020,Diabetes,0.0
+4216503,2020,Diabetes,6.0
+4216602,2020,Diabetes,97.0
+4216701,2020,Diabetes,4.0
+4216800,2020,Diabetes,2.0
+4216909,2020,Diabetes,0.0
+4217006,2020,Diabetes,1.0
+4217154,2020,Diabetes,0.0
+4217204,2020,Diabetes,12.0
+4217253,2020,Diabetes,0.0
+4217303,2020,Diabetes,2.0
+4217402,2020,Diabetes,1.0
+4217501,2020,Diabetes,4.0
+4217550,2020,Diabetes,0.0
+4217600,2020,Diabetes,1.0
+4217709,2020,Diabetes,23.0
+4217758,2020,Diabetes,0.0
+4217808,2020,Diabetes,4.0
+4217907,2020,Diabetes,2.0
+4217956,2020,Diabetes,1.0
+4218004,2020,Diabetes,9.0
+4218103,2020,Diabetes,1.0
+4218202,2020,Diabetes,4.0
+4218251,2020,Diabetes,2.0
+4218301,2020,Diabetes,2.0
+4218350,2020,Diabetes,0.0
+4218400,2020,Diabetes,7.0
+4218509,2020,Diabetes,1.0
+4218608,2020,Diabetes,7.0
+4218707,2020,Diabetes,28.0
+4218756,2020,Diabetes,1.0
+4218806,2020,Diabetes,0.0
+4218855,2020,Diabetes,0.0
+4218905,2020,Diabetes,1.0
+4218954,2020,Diabetes,1.0
+4219002,2020,Diabetes,10.0
+4219101,2020,Diabetes,3.0
+4219150,2020,Diabetes,2.0
+4219176,2020,Diabetes,0.0
+4219200,2020,Diabetes,1.0
+4219309,2020,Diabetes,24.0
+4219358,2020,Diabetes,0.0
+4219408,2020,Diabetes,2.0
+4219507,2020,Diabetes,29.0
+4219606,2020,Diabetes,2.0
+4219705,2020,Diabetes,5.0
+4220000,2020,Diabetes,0.0
+4200051,2021,Diabetes,0.0
+4200101,2021,Diabetes,10.0
+4200200,2021,Diabetes,5.0
+4200309,2021,Diabetes,0.0
+4200408,2021,Diabetes,1.0
+4200507,2021,Diabetes,1.0
+4200556,2021,Diabetes,2.0
+4200606,2021,Diabetes,0.0
+4200705,2021,Diabetes,6.0
+4200754,2021,Diabetes,0.0
+4200804,2021,Diabetes,3.0
+4200903,2021,Diabetes,3.0
+4201000,2021,Diabetes,5.0
+4201109,2021,Diabetes,0.0
+4201208,2021,Diabetes,1.0
+4201257,2021,Diabetes,4.0
+4201273,2021,Diabetes,0.0
+4201307,2021,Diabetes,9.0
+4201406,2021,Diabetes,29.0
+4201505,2021,Diabetes,10.0
+4201604,2021,Diabetes,0.0
+4201653,2021,Diabetes,0.0
+4201703,2021,Diabetes,0.0
+4201802,2021,Diabetes,1.0
+4201901,2021,Diabetes,0.0
+4201950,2021,Diabetes,2.0
+4202008,2021,Diabetes,62.0
+4202057,2021,Diabetes,2.0
+4202073,2021,Diabetes,3.0
+4202081,2021,Diabetes,0.0
+4202099,2021,Diabetes,0.0
+4202107,2021,Diabetes,7.0
+4202131,2021,Diabetes,1.0
+4202156,2021,Diabetes,0.0
+4202206,2021,Diabetes,2.0
+4202305,2021,Diabetes,7.0
+4202404,2021,Diabetes,104.0
+4202438,2021,Diabetes,1.0
+4202453,2021,Diabetes,8.0
+4202503,2021,Diabetes,0.0
+4202537,2021,Diabetes,1.0
+4202602,2021,Diabetes,2.0
+4202701,2021,Diabetes,0.0
+4202800,2021,Diabetes,23.0
+4202859,2021,Diabetes,1.0
+4202875,2021,Diabetes,0.0
+4202909,2021,Diabetes,37.0
+4203006,2021,Diabetes,41.0
+4203105,2021,Diabetes,3.0
+4203154,2021,Diabetes,2.0
+4203204,2021,Diabetes,18.0
+4203253,2021,Diabetes,0.0
+4203303,2021,Diabetes,7.0
+4203402,2021,Diabetes,3.0
+4203501,2021,Diabetes,6.0
+4203600,2021,Diabetes,9.0
+4203709,2021,Diabetes,3.0
+4203808,2021,Diabetes,32.0
+4203907,2021,Diabetes,3.0
+4203956,2021,Diabetes,0.0
+4204004,2021,Diabetes,0.0
+4204103,2021,Diabetes,0.0
+4204152,2021,Diabetes,1.0
+4204178,2021,Diabetes,0.0
+4204194,2021,Diabetes,0.0
+4204202,2021,Diabetes,49.0
+4204251,2021,Diabetes,1.0
+4204301,2021,Diabetes,32.0
+4204400,2021,Diabetes,1.0
+4204459,2021,Diabetes,0.0
+4204509,2021,Diabetes,14.0
+4204558,2021,Diabetes,6.0
+4204608,2021,Diabetes,52.0
+4204707,2021,Diabetes,3.0
+4204756,2021,Diabetes,0.0
+4204806,2021,Diabetes,67.0
+4204905,2021,Diabetes,1.0
+4205001,2021,Diabetes,8.0
+4205100,2021,Diabetes,1.0
+4205159,2021,Diabetes,0.0
+4205209,2021,Diabetes,4.0
+4205308,2021,Diabetes,1.0
+4205357,2021,Diabetes,0.0
+4205407,2021,Diabetes,138.0
+4205431,2021,Diabetes,1.0
+4205456,2021,Diabetes,3.0
+4205506,2021,Diabetes,13.0
+4205605,2021,Diabetes,2.0
+4205704,2021,Diabetes,8.0
+4205803,2021,Diabetes,1.0
+4205902,2021,Diabetes,10.0
+4206009,2021,Diabetes,7.0
+4206108,2021,Diabetes,1.0
+4206207,2021,Diabetes,0.0
+4206306,2021,Diabetes,2.0
+4206405,2021,Diabetes,7.0
+4206504,2021,Diabetes,9.0
+4206603,2021,Diabetes,1.0
+4206652,2021,Diabetes,0.0
+4206702,2021,Diabetes,5.0
+4206751,2021,Diabetes,1.0
+4206801,2021,Diabetes,0.0
+4206900,2021,Diabetes,17.0
+4207007,2021,Diabetes,13.0
+4207106,2021,Diabetes,1.0
+4207205,2021,Diabetes,4.0
+4207304,2021,Diabetes,28.0
+4207403,2021,Diabetes,0.0
+4207502,2021,Diabetes,20.0
+4207601,2021,Diabetes,5.0
+4207650,2021,Diabetes,5.0
+4207684,2021,Diabetes,0.0
+4207700,2021,Diabetes,1.0
+4207759,2021,Diabetes,0.0
+4207809,2021,Diabetes,0.0
+4207858,2021,Diabetes,0.0
+4207908,2021,Diabetes,4.0
+4208005,2021,Diabetes,2.0
+4208104,2021,Diabetes,9.0
+4208203,2021,Diabetes,122.0
+4208302,2021,Diabetes,13.0
+4208401,2021,Diabetes,2.0
+4208450,2021,Diabetes,6.0
+4208500,2021,Diabetes,8.0
+4208609,2021,Diabetes,0.0
+4208708,2021,Diabetes,4.0
+4208807,2021,Diabetes,5.0
+4208906,2021,Diabetes,57.0
+4209003,2021,Diabetes,16.0
+4209102,2021,Diabetes,129.0
+4209151,2021,Diabetes,0.0
+4209177,2021,Diabetes,0.0
+4209201,2021,Diabetes,0.0
+4209300,2021,Diabetes,76.0
+4209409,2021,Diabetes,17.0
+4209458,2021,Diabetes,0.0
+4209508,2021,Diabetes,5.0
+4209607,2021,Diabetes,3.0
+4209706,2021,Diabetes,3.0
+4209805,2021,Diabetes,2.0
+4209854,2021,Diabetes,5.0
+4209904,2021,Diabetes,1.0
+4210001,2021,Diabetes,5.0
+4210035,2021,Diabetes,16.0
+4210050,2021,Diabetes,0.0
+4210100,2021,Diabetes,31.0
+4210209,2021,Diabetes,0.0
+4210308,2021,Diabetes,8.0
+4210407,2021,Diabetes,0.0
+4210506,2021,Diabetes,17.0
+4210605,2021,Diabetes,4.0
+4210704,2021,Diabetes,0.0
+4210803,2021,Diabetes,3.0
+4210852,2021,Diabetes,0.0
+4210902,2021,Diabetes,2.0
+4211009,2021,Diabetes,4.0
+4211058,2021,Diabetes,3.0
+4211108,2021,Diabetes,4.0
+4211207,2021,Diabetes,13.0
+4211256,2021,Diabetes,0.0
+4211306,2021,Diabetes,21.0
+4211405,2021,Diabetes,6.0
+4211454,2021,Diabetes,0.0
+4211504,2021,Diabetes,2.0
+4211603,2021,Diabetes,2.0
+4211702,2021,Diabetes,8.0
+4211751,2021,Diabetes,7.0
+4211801,2021,Diabetes,0.0
+4211850,2021,Diabetes,1.0
+4211876,2021,Diabetes,0.0
+4211892,2021,Diabetes,0.0
+4211900,2021,Diabetes,14.0
+4212007,2021,Diabetes,9.0
+4212056,2021,Diabetes,0.0
+4212106,2021,Diabetes,2.0
+4212205,2021,Diabetes,11.0
+4212239,2021,Diabetes,0.0
+4212254,2021,Diabetes,0.0
+4212270,2021,Diabetes,2.0
+4212304,2021,Diabetes,1.0
+4212403,2021,Diabetes,2.0
+4212502,2021,Diabetes,25.0
+4212601,2021,Diabetes,1.0
+4212650,2021,Diabetes,4.0
+4212700,2021,Diabetes,1.0
+4212809,2021,Diabetes,9.0
+4212908,2021,Diabetes,6.0
+4213104,2021,Diabetes,0.0
+4213203,2021,Diabetes,11.0
+4213302,2021,Diabetes,2.0
+4213351,2021,Diabetes,1.0
+4213401,2021,Diabetes,3.0
+4213500,2021,Diabetes,4.0
+4213609,2021,Diabetes,16.0
+4213708,2021,Diabetes,4.0
+4213807,2021,Diabetes,10.0
+4213906,2021,Diabetes,0.0
+4214003,2021,Diabetes,4.0
+4214102,2021,Diabetes,1.0
+4214151,2021,Diabetes,1.0
+4214201,2021,Diabetes,3.0
+4214409,2021,Diabetes,0.0
+4214508,2021,Diabetes,7.0
+4214607,2021,Diabetes,6.0
+4214706,2021,Diabetes,5.0
+4214805,2021,Diabetes,21.0
+4214904,2021,Diabetes,0.0
+4215000,2021,Diabetes,13.0
+4215059,2021,Diabetes,0.0
+4215075,2021,Diabetes,1.0
+4215109,2021,Diabetes,6.0
+4215208,2021,Diabetes,2.0
+4215307,2021,Diabetes,1.0
+4215356,2021,Diabetes,1.0
+4215406,2021,Diabetes,0.0
+4215455,2021,Diabetes,1.0
+4215505,2021,Diabetes,8.0
+4215604,2021,Diabetes,1.0
+4215653,2021,Diabetes,1.0
+4215679,2021,Diabetes,1.0
+4215695,2021,Diabetes,0.0
+4215703,2021,Diabetes,9.0
+4215752,2021,Diabetes,0.0
+4215802,2021,Diabetes,46.0
+4215901,2021,Diabetes,3.0
+4216008,2021,Diabetes,6.0
+4216057,2021,Diabetes,2.0
+4216107,2021,Diabetes,2.0
+4216206,2021,Diabetes,21.0
+4216255,2021,Diabetes,5.0
+4216305,2021,Diabetes,15.0
+4216354,2021,Diabetes,0.0
+4216404,2021,Diabetes,1.0
+4216503,2021,Diabetes,5.0
+4216602,2021,Diabetes,85.0
+4216701,2021,Diabetes,1.0
+4216800,2021,Diabetes,1.0
+4216909,2021,Diabetes,1.0
+4217006,2021,Diabetes,1.0
+4217154,2021,Diabetes,0.0
+4217204,2021,Diabetes,22.0
+4217253,2021,Diabetes,2.0
+4217303,2021,Diabetes,0.0
+4217402,2021,Diabetes,9.0
+4217501,2021,Diabetes,8.0
+4217550,2021,Diabetes,1.0
+4217600,2021,Diabetes,2.0
+4217709,2021,Diabetes,33.0
+4217758,2021,Diabetes,0.0
+4217808,2021,Diabetes,3.0
+4217907,2021,Diabetes,0.0
+4217956,2021,Diabetes,1.0
+4218004,2021,Diabetes,19.0
+4218103,2021,Diabetes,1.0
+4218202,2021,Diabetes,19.0
+4218251,2021,Diabetes,2.0
+4218301,2021,Diabetes,9.0
+4218350,2021,Diabetes,0.0
+4218400,2021,Diabetes,2.0
+4218509,2021,Diabetes,0.0
+4218608,2021,Diabetes,6.0
+4218707,2021,Diabetes,37.0
+4218756,2021,Diabetes,1.0
+4218806,2021,Diabetes,2.0
+4218855,2021,Diabetes,0.0
+4218905,2021,Diabetes,6.0
+4218954,2021,Diabetes,1.0
+4219002,2021,Diabetes,11.0
+4219101,2021,Diabetes,2.0
+4219150,2021,Diabetes,0.0
+4219176,2021,Diabetes,0.0
+4219200,2021,Diabetes,2.0
+4219309,2021,Diabetes,18.0
+4219358,2021,Diabetes,0.0
+4219408,2021,Diabetes,0.0
+4219507,2021,Diabetes,30.0
+4219606,2021,Diabetes,3.0
+4219705,2021,Diabetes,10.0
+4220000,2021,Diabetes,3.0
+4200051,2022,Diabetes,0.0
+4200101,2022,Diabetes,10.0
+4200200,2022,Diabetes,2.0
+4200309,2022,Diabetes,2.0
+4200408,2022,Diabetes,0.0
+4200507,2022,Diabetes,0.0
+4200556,2022,Diabetes,0.0
+4200606,2022,Diabetes,0.0
+4200705,2022,Diabetes,9.0
+4200754,2022,Diabetes,2.0
+4200804,2022,Diabetes,2.0
+4200903,2022,Diabetes,1.0
+4201000,2022,Diabetes,3.0
+4201109,2022,Diabetes,3.0
+4201208,2022,Diabetes,1.0
+4201257,2022,Diabetes,2.0
+4201273,2022,Diabetes,0.0
+4201307,2022,Diabetes,3.0
+4201406,2022,Diabetes,34.0
+4201505,2022,Diabetes,7.0
+4201604,2022,Diabetes,1.0
+4201653,2022,Diabetes,1.0
+4201703,2022,Diabetes,1.0
+4201802,2022,Diabetes,1.0
+4201901,2022,Diabetes,0.0
+4201950,2022,Diabetes,3.0
+4202008,2022,Diabetes,66.0
+4202057,2022,Diabetes,9.0
+4202073,2022,Diabetes,1.0
+4202081,2022,Diabetes,0.0
+4202099,2022,Diabetes,0.0
+4202107,2022,Diabetes,11.0
+4202131,2022,Diabetes,1.0
+4202156,2022,Diabetes,1.0
+4202206,2022,Diabetes,1.0
+4202305,2022,Diabetes,18.0
+4202404,2022,Diabetes,116.0
+4202438,2022,Diabetes,1.0
+4202453,2022,Diabetes,5.0
+4202503,2022,Diabetes,1.0
+4202537,2022,Diabetes,0.0
+4202602,2022,Diabetes,1.0
+4202701,2022,Diabetes,1.0
+4202800,2022,Diabetes,25.0
+4202859,2022,Diabetes,1.0
+4202875,2022,Diabetes,1.0
+4202909,2022,Diabetes,38.0
+4203006,2022,Diabetes,35.0
+4203105,2022,Diabetes,4.0
+4203154,2022,Diabetes,0.0
+4203204,2022,Diabetes,20.0
+4203253,2022,Diabetes,1.0
+4203303,2022,Diabetes,4.0
+4203402,2022,Diabetes,4.0
+4203501,2022,Diabetes,5.0
+4203600,2022,Diabetes,14.0
+4203709,2022,Diabetes,4.0
+4203808,2022,Diabetes,26.0
+4203907,2022,Diabetes,5.0
+4203956,2022,Diabetes,0.0
+4204004,2022,Diabetes,2.0
+4204103,2022,Diabetes,3.0
+4204152,2022,Diabetes,0.0
+4204178,2022,Diabetes,0.0
+4204194,2022,Diabetes,1.0
+4204202,2022,Diabetes,76.0
+4204251,2022,Diabetes,1.0
+4204301,2022,Diabetes,27.0
+4204400,2022,Diabetes,4.0
+4204459,2022,Diabetes,0.0
+4204509,2022,Diabetes,5.0
+4204558,2022,Diabetes,7.0
+4204608,2022,Diabetes,44.0
+4204707,2022,Diabetes,4.0
+4204756,2022,Diabetes,1.0
+4204806,2022,Diabetes,70.0
+4204905,2022,Diabetes,5.0
+4205001,2022,Diabetes,6.0
+4205100,2022,Diabetes,4.0
+4205159,2022,Diabetes,2.0
+4205209,2022,Diabetes,2.0
+4205308,2022,Diabetes,2.0
+4205357,2022,Diabetes,1.0
+4205407,2022,Diabetes,153.0
+4205431,2022,Diabetes,1.0
+4205456,2022,Diabetes,1.0
+4205506,2022,Diabetes,8.0
+4205605,2022,Diabetes,5.0
+4205704,2022,Diabetes,7.0
+4205803,2022,Diabetes,2.0
+4205902,2022,Diabetes,21.0
+4206009,2022,Diabetes,5.0
+4206108,2022,Diabetes,1.0
+4206207,2022,Diabetes,1.0
+4206306,2022,Diabetes,3.0
+4206405,2022,Diabetes,2.0
+4206504,2022,Diabetes,6.0
+4206603,2022,Diabetes,1.0
+4206652,2022,Diabetes,0.0
+4206702,2022,Diabetes,4.0
+4206751,2022,Diabetes,0.0
+4206801,2022,Diabetes,0.0
+4206900,2022,Diabetes,18.0
+4207007,2022,Diabetes,15.0
+4207106,2022,Diabetes,2.0
+4207205,2022,Diabetes,5.0
+4207304,2022,Diabetes,16.0
+4207403,2022,Diabetes,2.0
+4207502,2022,Diabetes,14.0
+4207601,2022,Diabetes,4.0
+4207650,2022,Diabetes,5.0
+4207684,2022,Diabetes,0.0
+4207700,2022,Diabetes,2.0
+4207759,2022,Diabetes,1.0
+4207809,2022,Diabetes,5.0
+4207858,2022,Diabetes,0.0
+4207908,2022,Diabetes,6.0
+4208005,2022,Diabetes,6.0
+4208104,2022,Diabetes,8.0
+4208203,2022,Diabetes,104.0
+4208302,2022,Diabetes,23.0
+4208401,2022,Diabetes,5.0
+4208450,2022,Diabetes,11.0
+4208500,2022,Diabetes,5.0
+4208609,2022,Diabetes,1.0
+4208708,2022,Diabetes,2.0
+4208807,2022,Diabetes,6.0
+4208906,2022,Diabetes,68.0
+4209003,2022,Diabetes,22.0
+4209102,2022,Diabetes,136.0
+4209151,2022,Diabetes,2.0
+4209177,2022,Diabetes,0.0
+4209201,2022,Diabetes,0.0
+4209300,2022,Diabetes,82.0
+4209409,2022,Diabetes,21.0
+4209458,2022,Diabetes,0.0
+4209508,2022,Diabetes,1.0
+4209607,2022,Diabetes,3.0
+4209706,2022,Diabetes,2.0
+4209805,2022,Diabetes,0.0
+4209854,2022,Diabetes,9.0
+4209904,2022,Diabetes,2.0
+4210001,2022,Diabetes,11.0
+4210035,2022,Diabetes,7.0
+4210050,2022,Diabetes,0.0
+4210100,2022,Diabetes,19.0
+4210209,2022,Diabetes,0.0
+4210308,2022,Diabetes,8.0
+4210407,2022,Diabetes,1.0
+4210506,2022,Diabetes,13.0
+4210605,2022,Diabetes,4.0
+4210704,2022,Diabetes,0.0
+4210803,2022,Diabetes,5.0
+4210852,2022,Diabetes,1.0
+4210902,2022,Diabetes,4.0
+4211009,2022,Diabetes,3.0
+4211058,2022,Diabetes,4.0
+4211108,2022,Diabetes,4.0
+4211207,2022,Diabetes,18.0
+4211256,2022,Diabetes,0.0
+4211306,2022,Diabetes,17.0
+4211405,2022,Diabetes,1.0
+4211454,2022,Diabetes,2.0
+4211504,2022,Diabetes,7.0
+4211603,2022,Diabetes,2.0
+4211702,2022,Diabetes,5.0
+4211751,2022,Diabetes,3.0
+4211801,2022,Diabetes,1.0
+4211850,2022,Diabetes,0.0
+4211876,2022,Diabetes,1.0
+4211892,2022,Diabetes,3.0
+4211900,2022,Diabetes,13.0
+4212007,2022,Diabetes,5.0
+4212056,2022,Diabetes,0.0
+4212106,2022,Diabetes,9.0
+4212205,2022,Diabetes,9.0
+4212239,2022,Diabetes,2.0
+4212254,2022,Diabetes,3.0
+4212270,2022,Diabetes,1.0
+4212304,2022,Diabetes,0.0
+4212403,2022,Diabetes,0.0
+4212502,2022,Diabetes,27.0
+4212601,2022,Diabetes,0.0
+4212650,2022,Diabetes,1.0
+4212700,2022,Diabetes,6.0
+4212809,2022,Diabetes,18.0
+4212908,2022,Diabetes,6.0
+4213104,2022,Diabetes,2.0
+4213203,2022,Diabetes,10.0
+4213302,2022,Diabetes,1.0
+4213351,2022,Diabetes,0.0
+4213401,2022,Diabetes,5.0
+4213500,2022,Diabetes,1.0
+4213609,2022,Diabetes,18.0
+4213708,2022,Diabetes,13.0
+4213807,2022,Diabetes,7.0
+4213906,2022,Diabetes,0.0
+4214003,2022,Diabetes,6.0
+4214102,2022,Diabetes,1.0
+4214151,2022,Diabetes,0.0
+4214201,2022,Diabetes,5.0
+4214409,2022,Diabetes,2.0
+4214508,2022,Diabetes,2.0
+4214607,2022,Diabetes,1.0
+4214706,2022,Diabetes,3.0
+4214805,2022,Diabetes,26.0
+4214904,2022,Diabetes,2.0
+4215000,2022,Diabetes,19.0
+4215059,2022,Diabetes,1.0
+4215075,2022,Diabetes,0.0
+4215109,2022,Diabetes,9.0
+4215208,2022,Diabetes,1.0
+4215307,2022,Diabetes,4.0
+4215356,2022,Diabetes,0.0
+4215406,2022,Diabetes,1.0
+4215455,2022,Diabetes,0.0
+4215505,2022,Diabetes,7.0
+4215604,2022,Diabetes,0.0
+4215653,2022,Diabetes,0.0
+4215679,2022,Diabetes,0.0
+4215695,2022,Diabetes,1.0
+4215703,2022,Diabetes,14.0
+4215752,2022,Diabetes,0.0
+4215802,2022,Diabetes,29.0
+4215901,2022,Diabetes,1.0
+4216008,2022,Diabetes,4.0
+4216057,2022,Diabetes,0.0
+4216107,2022,Diabetes,3.0
+4216206,2022,Diabetes,23.0
+4216255,2022,Diabetes,4.0
+4216305,2022,Diabetes,7.0
+4216354,2022,Diabetes,1.0
+4216404,2022,Diabetes,3.0
+4216503,2022,Diabetes,5.0
+4216602,2022,Diabetes,116.0
+4216701,2022,Diabetes,5.0
+4216800,2022,Diabetes,1.0
+4216909,2022,Diabetes,5.0
+4217006,2022,Diabetes,0.0
+4217154,2022,Diabetes,2.0
+4217204,2022,Diabetes,23.0
+4217253,2022,Diabetes,5.0
+4217303,2022,Diabetes,4.0
+4217402,2022,Diabetes,1.0
+4217501,2022,Diabetes,11.0
+4217550,2022,Diabetes,0.0
+4217600,2022,Diabetes,2.0
+4217709,2022,Diabetes,35.0
+4217758,2022,Diabetes,0.0
+4217808,2022,Diabetes,3.0
+4217907,2022,Diabetes,3.0
+4217956,2022,Diabetes,0.0
+4218004,2022,Diabetes,24.0
+4218103,2022,Diabetes,3.0
+4218202,2022,Diabetes,31.0
+4218251,2022,Diabetes,0.0
+4218301,2022,Diabetes,6.0
+4218350,2022,Diabetes,0.0
+4218400,2022,Diabetes,4.0
+4218509,2022,Diabetes,2.0
+4218608,2022,Diabetes,8.0
+4218707,2022,Diabetes,35.0
+4218756,2022,Diabetes,5.0
+4218806,2022,Diabetes,4.0
+4218855,2022,Diabetes,0.0
+4218905,2022,Diabetes,5.0
+4218954,2022,Diabetes,0.0
+4219002,2022,Diabetes,8.0
+4219101,2022,Diabetes,0.0
+4219150,2022,Diabetes,0.0
+4219176,2022,Diabetes,3.0
+4219200,2022,Diabetes,1.0
+4219309,2022,Diabetes,29.0
+4219358,2022,Diabetes,1.0
+4219408,2022,Diabetes,1.0
+4219507,2022,Diabetes,32.0
+4219606,2022,Diabetes,6.0
+4219705,2022,Diabetes,9.0
+4220000,2022,Diabetes,1.0
+4200051,2023,Diabetes,0.0
+4200101,2023,Diabetes,8.0
+4200200,2023,Diabetes,5.0
+4200309,2023,Diabetes,0.0
+4200408,2023,Diabetes,2.0
+4200507,2023,Diabetes,3.0
+4200556,2023,Diabetes,0.0
+4200606,2023,Diabetes,1.0
+4200705,2023,Diabetes,3.0
+4200754,2023,Diabetes,1.0
+4200804,2023,Diabetes,2.0
+4200903,2023,Diabetes,0.0
+4201000,2023,Diabetes,1.0
+4201109,2023,Diabetes,1.0
+4201208,2023,Diabetes,2.0
+4201257,2023,Diabetes,3.0
+4201273,2023,Diabetes,2.0
+4201307,2023,Diabetes,3.0
+4201406,2023,Diabetes,46.0
+4201505,2023,Diabetes,3.0
+4201604,2023,Diabetes,0.0
+4201653,2023,Diabetes,0.0
+4201703,2023,Diabetes,4.0
+4201802,2023,Diabetes,0.0
+4201901,2023,Diabetes,1.0
+4201950,2023,Diabetes,0.0
+4202008,2023,Diabetes,65.0
+4202057,2023,Diabetes,8.0
+4202073,2023,Diabetes,3.0
+4202081,2023,Diabetes,0.0
+4202099,2023,Diabetes,0.0
+4202107,2023,Diabetes,19.0
+4202131,2023,Diabetes,0.0
+4202156,2023,Diabetes,0.0
+4202206,2023,Diabetes,3.0
+4202305,2023,Diabetes,7.0
+4202404,2023,Diabetes,119.0
+4202438,2023,Diabetes,0.0
+4202453,2023,Diabetes,5.0
+4202503,2023,Diabetes,1.0
+4202537,2023,Diabetes,0.0
+4202602,2023,Diabetes,0.0
+4202701,2023,Diabetes,1.0
+4202800,2023,Diabetes,26.0
+4202859,2023,Diabetes,2.0
+4202875,2023,Diabetes,0.0
+4202909,2023,Diabetes,28.0
+4203006,2023,Diabetes,36.0
+4203105,2023,Diabetes,1.0
+4203154,2023,Diabetes,0.0
+4203204,2023,Diabetes,29.0
+4203253,2023,Diabetes,0.0
+4203303,2023,Diabetes,4.0
+4203402,2023,Diabetes,3.0
+4203501,2023,Diabetes,4.0
+4203600,2023,Diabetes,19.0
+4203709,2023,Diabetes,3.0
+4203808,2023,Diabetes,21.0
+4203907,2023,Diabetes,4.0
+4203956,2023,Diabetes,0.0
+4204004,2023,Diabetes,0.0
+4204103,2023,Diabetes,0.0
+4204152,2023,Diabetes,0.0
+4204178,2023,Diabetes,0.0
+4204194,2023,Diabetes,0.0
+4204202,2023,Diabetes,43.0
+4204251,2023,Diabetes,0.0
+4204301,2023,Diabetes,57.0
+4204400,2023,Diabetes,3.0
+4204459,2023,Diabetes,1.0
+4204509,2023,Diabetes,6.0
+4204558,2023,Diabetes,13.0
+4204608,2023,Diabetes,37.0
+4204707,2023,Diabetes,7.0
+4204756,2023,Diabetes,0.0
+4204806,2023,Diabetes,33.0
+4204905,2023,Diabetes,4.0
+4205001,2023,Diabetes,6.0
+4205100,2023,Diabetes,4.0
+4205159,2023,Diabetes,0.0
+4205209,2023,Diabetes,4.0
+4205308,2023,Diabetes,3.0
+4205357,2023,Diabetes,0.0
+4205407,2023,Diabetes,176.0
+4205431,2023,Diabetes,0.0
+4205456,2023,Diabetes,2.0
+4205506,2023,Diabetes,14.0
+4205605,2023,Diabetes,1.0
+4205704,2023,Diabetes,1.0
+4205803,2023,Diabetes,2.0
+4205902,2023,Diabetes,24.0
+4206009,2023,Diabetes,5.0
+4206108,2023,Diabetes,0.0
+4206207,2023,Diabetes,0.0
+4206306,2023,Diabetes,3.0
+4206405,2023,Diabetes,4.0
+4206504,2023,Diabetes,13.0
+4206603,2023,Diabetes,0.0
+4206652,2023,Diabetes,0.0
+4206702,2023,Diabetes,1.0
+4206751,2023,Diabetes,0.0
+4206801,2023,Diabetes,0.0
+4206900,2023,Diabetes,11.0
+4207007,2023,Diabetes,16.0
+4207106,2023,Diabetes,1.0
+4207205,2023,Diabetes,3.0
+4207304,2023,Diabetes,18.0
+4207403,2023,Diabetes,1.0
+4207502,2023,Diabetes,16.0
+4207601,2023,Diabetes,5.0
+4207650,2023,Diabetes,4.0
+4207684,2023,Diabetes,0.0
+4207700,2023,Diabetes,2.0
+4207759,2023,Diabetes,0.0
+4207809,2023,Diabetes,6.0
+4207858,2023,Diabetes,0.0
+4207908,2023,Diabetes,3.0
+4208005,2023,Diabetes,5.0
+4208104,2023,Diabetes,10.0
+4208203,2023,Diabetes,130.0
+4208302,2023,Diabetes,18.0
+4208401,2023,Diabetes,4.0
+4208450,2023,Diabetes,9.0
+4208500,2023,Diabetes,5.0
+4208609,2023,Diabetes,2.0
+4208708,2023,Diabetes,6.0
+4208807,2023,Diabetes,4.0
+4208906,2023,Diabetes,135.0
+4209003,2023,Diabetes,13.0
+4209102,2023,Diabetes,154.0
+4209151,2023,Diabetes,3.0
+4209177,2023,Diabetes,0.0
+4209201,2023,Diabetes,0.0
+4209300,2023,Diabetes,60.0
+4209409,2023,Diabetes,32.0
+4209458,2023,Diabetes,2.0
+4209508,2023,Diabetes,5.0
+4209607,2023,Diabetes,5.0
+4209706,2023,Diabetes,3.0
+4209805,2023,Diabetes,0.0
+4209854,2023,Diabetes,6.0
+4209904,2023,Diabetes,0.0
+4210001,2023,Diabetes,6.0
+4210035,2023,Diabetes,3.0
+4210050,2023,Diabetes,1.0
+4210100,2023,Diabetes,40.0
+4210209,2023,Diabetes,1.0
+4210308,2023,Diabetes,3.0
+4210407,2023,Diabetes,3.0
+4210506,2023,Diabetes,7.0
+4210605,2023,Diabetes,3.0
+4210704,2023,Diabetes,1.0
+4210803,2023,Diabetes,3.0
+4210852,2023,Diabetes,1.0
+4210902,2023,Diabetes,1.0
+4211009,2023,Diabetes,2.0
+4211058,2023,Diabetes,0.0
+4211108,2023,Diabetes,5.0
+4211207,2023,Diabetes,11.0
+4211256,2023,Diabetes,0.0
+4211306,2023,Diabetes,21.0
+4211405,2023,Diabetes,2.0
+4211454,2023,Diabetes,1.0
+4211504,2023,Diabetes,6.0
+4211603,2023,Diabetes,4.0
+4211702,2023,Diabetes,6.0
+4211751,2023,Diabetes,7.0
+4211801,2023,Diabetes,0.0
+4211850,2023,Diabetes,1.0
+4211876,2023,Diabetes,3.0
+4211892,2023,Diabetes,0.0
+4211900,2023,Diabetes,10.0
+4212007,2023,Diabetes,5.0
+4212056,2023,Diabetes,0.0
+4212106,2023,Diabetes,2.0
+4212205,2023,Diabetes,8.0
+4212239,2023,Diabetes,0.0
+4212254,2023,Diabetes,4.0
+4212270,2023,Diabetes,0.0
+4212304,2023,Diabetes,3.0
+4212403,2023,Diabetes,0.0
+4212502,2023,Diabetes,32.0
+4212601,2023,Diabetes,1.0
+4212650,2023,Diabetes,0.0
+4212700,2023,Diabetes,3.0
+4212809,2023,Diabetes,16.0
+4212908,2023,Diabetes,3.0
+4213104,2023,Diabetes,0.0
+4213203,2023,Diabetes,19.0
+4213302,2023,Diabetes,0.0
+4213351,2023,Diabetes,0.0
+4213401,2023,Diabetes,1.0
+4213500,2023,Diabetes,8.0
+4213609,2023,Diabetes,6.0
+4213708,2023,Diabetes,13.0
+4213807,2023,Diabetes,5.0
+4213906,2023,Diabetes,0.0
+4214003,2023,Diabetes,5.0
+4214102,2023,Diabetes,0.0
+4214151,2023,Diabetes,0.0
+4214201,2023,Diabetes,4.0
+4214409,2023,Diabetes,0.0
+4214508,2023,Diabetes,3.0
+4214607,2023,Diabetes,8.0
+4214706,2023,Diabetes,3.0
+4214805,2023,Diabetes,18.0
+4214904,2023,Diabetes,2.0
+4215000,2023,Diabetes,22.0
+4215059,2023,Diabetes,0.0
+4215075,2023,Diabetes,0.0
+4215109,2023,Diabetes,6.0
+4215208,2023,Diabetes,0.0
+4215307,2023,Diabetes,5.0
+4215356,2023,Diabetes,0.0
+4215406,2023,Diabetes,2.0
+4215455,2023,Diabetes,0.0
+4215505,2023,Diabetes,7.0
+4215604,2023,Diabetes,0.0
+4215653,2023,Diabetes,2.0
+4215679,2023,Diabetes,2.0
+4215695,2023,Diabetes,2.0
+4215703,2023,Diabetes,11.0
+4215752,2023,Diabetes,1.0
+4215802,2023,Diabetes,22.0
+4215901,2023,Diabetes,5.0
+4216008,2023,Diabetes,5.0
+4216057,2023,Diabetes,0.0
+4216107,2023,Diabetes,1.0
+4216206,2023,Diabetes,13.0
+4216255,2023,Diabetes,4.0
+4216305,2023,Diabetes,7.0
+4216354,2023,Diabetes,1.0
+4216404,2023,Diabetes,1.0
+4216503,2023,Diabetes,4.0
+4216602,2023,Diabetes,80.0
+4216701,2023,Diabetes,8.0
+4216800,2023,Diabetes,4.0
+4216909,2023,Diabetes,12.0
+4217006,2023,Diabetes,1.0
+4217154,2023,Diabetes,0.0
+4217204,2023,Diabetes,15.0
+4217253,2023,Diabetes,1.0
+4217303,2023,Diabetes,0.0
+4217402,2023,Diabetes,2.0
+4217501,2023,Diabetes,5.0
+4217550,2023,Diabetes,0.0
+4217600,2023,Diabetes,1.0
+4217709,2023,Diabetes,24.0
+4217758,2023,Diabetes,1.0
+4217808,2023,Diabetes,4.0
+4217907,2023,Diabetes,7.0
+4217956,2023,Diabetes,0.0
+4218004,2023,Diabetes,11.0
+4218103,2023,Diabetes,2.0
+4218202,2023,Diabetes,42.0
+4218251,2023,Diabetes,0.0
+4218301,2023,Diabetes,4.0
+4218350,2023,Diabetes,1.0
+4218400,2023,Diabetes,3.0
+4218509,2023,Diabetes,3.0
+4218608,2023,Diabetes,8.0
+4218707,2023,Diabetes,63.0
+4218756,2023,Diabetes,0.0
+4218806,2023,Diabetes,0.0
+4218855,2023,Diabetes,0.0
+4218905,2023,Diabetes,2.0
+4218954,2023,Diabetes,1.0
+4219002,2023,Diabetes,8.0
+4219101,2023,Diabetes,2.0
+4219150,2023,Diabetes,4.0
+4219176,2023,Diabetes,0.0
+4219200,2023,Diabetes,1.0
+4219309,2023,Diabetes,18.0
+4219358,2023,Diabetes,3.0
+4219408,2023,Diabetes,1.0
+4219507,2023,Diabetes,58.0
+4219606,2023,Diabetes,2.0
+4219705,2023,Diabetes,6.0
+4220000,2023,Diabetes,1.0
+4200101,2019,Respiratória crônica,7.0
+4200200,2019,Respiratória crônica,0.0
+4200309,2019,Respiratória crônica,0.0
+4200408,2019,Respiratória crônica,1.0
+4200507,2019,Respiratória crônica,0.0
+4200556,2019,Respiratória crônica,2.0
+4200705,2019,Respiratória crônica,4.0
+4200804,2019,Respiratória crônica,6.0
+4200903,2019,Respiratória crônica,4.0
+4201000,2019,Respiratória crônica,4.0
+4201109,2019,Respiratória crônica,2.0
+4201208,2019,Respiratória crônica,0.0
+4201257,2019,Respiratória crônica,1.0
+4201273,2019,Respiratória crônica,0.0
+4201307,2019,Respiratória crônica,2.0
+4201406,2019,Respiratória crônica,27.0
+4201505,2019,Respiratória crônica,2.0
+4201604,2019,Respiratória crônica,2.0
+4201653,2019,Respiratória crônica,0.0
+4201703,2019,Respiratória crônica,0.0
+4201802,2019,Respiratória crônica,0.0
+4201901,2019,Respiratória crônica,0.0
+4201950,2019,Respiratória crônica,0.0
+4202008,2019,Respiratória crônica,67.0
+4202057,2019,Respiratória crônica,1.0
+4202073,2019,Respiratória crônica,1.0
+4202081,2019,Respiratória crônica,1.0
+4202099,2019,Respiratória crônica,0.0
+4202107,2019,Respiratória crônica,4.0
+4202131,2019,Respiratória crônica,0.0
+4202156,2019,Respiratória crônica,0.0
+4202206,2019,Respiratória crônica,3.0
+4202305,2019,Respiratória crônica,6.0
+4202404,2019,Respiratória crônica,90.0
+4202438,2019,Respiratória crônica,0.0
+4202453,2019,Respiratória crônica,1.0
+4202503,2019,Respiratória crônica,1.0
+4202537,2019,Respiratória crônica,0.0
+4202578,2019,Respiratória crônica,0.0
+4202602,2019,Respiratória crônica,3.0
+4202701,2019,Respiratória crônica,0.0
+4202800,2019,Respiratória crônica,10.0
+4202859,2019,Respiratória crônica,0.0
+4202875,2019,Respiratória crônica,2.0
+4202909,2019,Respiratória crônica,42.0
+4203006,2019,Respiratória crônica,30.0
+4203105,2019,Respiratória crônica,1.0
+4203154,2019,Respiratória crônica,0.0
+4203204,2019,Respiratória crônica,4.0
+4203253,2019,Respiratória crônica,1.0
+4203303,2019,Respiratória crônica,7.0
+4203402,2019,Respiratória crônica,4.0
+4203501,2019,Respiratória crônica,4.0
+4203600,2019,Respiratória crônica,20.0
+4203709,2019,Respiratória crônica,2.0
+4203808,2019,Respiratória crônica,40.0
+4203907,2019,Respiratória crônica,9.0
+4203956,2019,Respiratória crônica,2.0
+4204004,2019,Respiratória crônica,1.0
+4204103,2019,Respiratória crônica,2.0
+4204152,2019,Respiratória crônica,0.0
+4204178,2019,Respiratória crônica,0.0
+4204194,2019,Respiratória crônica,0.0
+4204202,2019,Respiratória crônica,41.0
+4204301,2019,Respiratória crônica,48.0
+4204350,2019,Respiratória crônica,0.0
+4204400,2019,Respiratória crônica,3.0
+4204459,2019,Respiratória crônica,0.0
+4204509,2019,Respiratória crônica,3.0
+4204558,2019,Respiratória crônica,4.0
+4204608,2019,Respiratória crônica,70.0
+4204707,2019,Respiratória crônica,9.0
+4204756,2019,Respiratória crônica,0.0
+4204806,2019,Respiratória crônica,44.0
+4204905,2019,Respiratória crônica,5.0
+4205001,2019,Respiratória crônica,12.0
+4205100,2019,Respiratória crônica,1.0
+4205159,2019,Respiratória crônica,1.0
+4205175,2019,Respiratória crônica,0.0
+4205191,2019,Respiratória crônica,1.0
+4205209,2019,Respiratória crônica,0.0
+4205308,2019,Respiratória crônica,2.0
+4205357,2019,Respiratória crônica,0.0
+4205407,2019,Respiratória crônica,115.0
+4205431,2019,Respiratória crônica,1.0
+4205456,2019,Respiratória crônica,1.0
+4205506,2019,Respiratória crônica,7.0
+4205605,2019,Respiratória crônica,0.0
+4205704,2019,Respiratória crônica,2.0
+4205803,2019,Respiratória crônica,0.0
+4205902,2019,Respiratória crônica,9.0
+4206009,2019,Respiratória crônica,0.0
+4206108,2019,Respiratória crônica,0.0
+4206207,2019,Respiratória crônica,0.0
+4206306,2019,Respiratória crônica,5.0
+4206405,2019,Respiratória crônica,6.0
+4206504,2019,Respiratória crônica,3.0
+4206603,2019,Respiratória crônica,0.0
+4206702,2019,Respiratória crônica,1.0
+4206801,2019,Respiratória crônica,0.0
+4206900,2019,Respiratória crônica,23.0
+4207007,2019,Respiratória crônica,14.0
+4207106,2019,Respiratória crônica,1.0
+4207205,2019,Respiratória crônica,0.0
+4207304,2019,Respiratória crônica,10.0
+4207403,2019,Respiratória crônica,3.0
+4207502,2019,Respiratória crônica,9.0
+4207577,2019,Respiratória crônica,0.0
+4207601,2019,Respiratória crônica,2.0
+4207650,2019,Respiratória crônica,4.0
+4207684,2019,Respiratória crônica,1.0
+4207700,2019,Respiratória crônica,1.0
+4207759,2019,Respiratória crônica,1.0
+4207809,2019,Respiratória crônica,4.0
+4207858,2019,Respiratória crônica,0.0
+4207908,2019,Respiratória crônica,5.0
+4208005,2019,Respiratória crônica,1.0
+4208104,2019,Respiratória crônica,4.0
+4208203,2019,Respiratória crônica,87.0
+4208302,2019,Respiratória crônica,8.0
+4208401,2019,Respiratória crônica,7.0
+4208450,2019,Respiratória crônica,1.0
+4208500,2019,Respiratória crônica,17.0
+4208609,2019,Respiratória crônica,1.0
+4208708,2019,Respiratória crônica,1.0
+4208807,2019,Respiratória crônica,4.0
+4208906,2019,Respiratória crônica,61.0
+4208955,2019,Respiratória crônica,0.0
+4209003,2019,Respiratória crônica,32.0
+4209102,2019,Respiratória crônica,125.0
+4209151,2019,Respiratória crônica,0.0
+4209177,2019,Respiratória crônica,1.0
+4209300,2019,Respiratória crônica,88.0
+4209409,2019,Respiratória crônica,10.0
+4209458,2019,Respiratória crônica,0.0
+4209508,2019,Respiratória crônica,1.0
+4209607,2019,Respiratória crônica,3.0
+4209706,2019,Respiratória crônica,4.0
+4209805,2019,Respiratória crônica,0.0
+4209854,2019,Respiratória crônica,3.0
+4209904,2019,Respiratória crônica,3.0
+4210001,2019,Respiratória crônica,2.0
+4210035,2019,Respiratória crônica,8.0
+4210050,2019,Respiratória crônica,0.0
+4210100,2019,Respiratória crônica,30.0
+4210209,2019,Respiratória crônica,1.0
+4210308,2019,Respiratória crônica,4.0
+4210407,2019,Respiratória crônica,0.0
+4210506,2019,Respiratória crônica,45.0
+4210605,2019,Respiratória crônica,4.0
+4210704,2019,Respiratória crônica,0.0
+4210803,2019,Respiratória crônica,1.0
+4210852,2019,Respiratória crônica,2.0
+4210902,2019,Respiratória crônica,2.0
+4211009,2019,Respiratória crônica,3.0
+4211058,2019,Respiratória crônica,2.0
+4211108,2019,Respiratória crônica,6.0
+4211207,2019,Respiratória crônica,9.0
+4211306,2019,Respiratória crônica,10.0
+4211405,2019,Respiratória crônica,2.0
+4211454,2019,Respiratória crônica,0.0
+4211504,2019,Respiratória crônica,5.0
+4211603,2019,Respiratória crônica,1.0
+4211652,2019,Respiratória crônica,0.0
+4211702,2019,Respiratória crônica,4.0
+4211751,2019,Respiratória crônica,3.0
+4211801,2019,Respiratória crônica,0.0
+4211850,2019,Respiratória crônica,1.0
+4211876,2019,Respiratória crônica,0.0
+4211892,2019,Respiratória crônica,0.0
+4211900,2019,Respiratória crônica,1.0
+4212007,2019,Respiratória crônica,5.0
+4212056,2019,Respiratória crônica,0.0
+4212106,2019,Respiratória crônica,5.0
+4212205,2019,Respiratória crônica,11.0
+4212239,2019,Respiratória crônica,1.0
+4212254,2019,Respiratória crônica,0.0
+4212270,2019,Respiratória crônica,2.0
+4212304,2019,Respiratória crônica,0.0
+4212403,2019,Respiratória crônica,0.0
+4212502,2019,Respiratória crônica,1.0
+4212601,2019,Respiratória crônica,1.0
+4212650,2019,Respiratória crônica,0.0
+4212700,2019,Respiratória crônica,1.0
+4212809,2019,Respiratória crônica,4.0
+4212908,2019,Respiratória crônica,4.0
+4213005,2019,Respiratória crônica,0.0
+4213104,2019,Respiratória crônica,0.0
+4213203,2019,Respiratória crônica,7.0
+4213302,2019,Respiratória crônica,0.0
+4213351,2019,Respiratória crônica,0.0
+4213401,2019,Respiratória crônica,2.0
+4213500,2019,Respiratória crônica,0.0
+4213609,2019,Respiratória crônica,19.0
+4213708,2019,Respiratória crônica,2.0
+4213807,2019,Respiratória crônica,4.0
+4213906,2019,Respiratória crônica,0.0
+4214003,2019,Respiratória crônica,6.0
+4214102,2019,Respiratória crônica,2.0
+4214151,2019,Respiratória crônica,0.0
+4214201,2019,Respiratória crônica,10.0
+4214409,2019,Respiratória crônica,1.0
+4214508,2019,Respiratória crônica,1.0
+4214607,2019,Respiratória crônica,2.0
+4214706,2019,Respiratória crônica,1.0
+4214805,2019,Respiratória crônica,36.0
+4214904,2019,Respiratória crônica,0.0
+4215000,2019,Respiratória crônica,15.0
+4215059,2019,Respiratória crônica,0.0
+4215109,2019,Respiratória crônica,1.0
+4215208,2019,Respiratória crônica,1.0
+4215307,2019,Respiratória crônica,2.0
+4215356,2019,Respiratória crônica,1.0
+4215406,2019,Respiratória crônica,0.0
+4215505,2019,Respiratória crônica,6.0
+4215653,2019,Respiratória crônica,1.0
+4215679,2019,Respiratória crônica,4.0
+4215687,2019,Respiratória crônica,0.0
+4215695,2019,Respiratória crônica,0.0
+4215703,2019,Respiratória crônica,12.0
+4215752,2019,Respiratória crônica,0.0
+4215802,2019,Respiratória crônica,26.0
+4215901,2019,Respiratória crônica,2.0
+4216008,2019,Respiratória crônica,7.0
+4216057,2019,Respiratória crônica,0.0
+4216107,2019,Respiratória crônica,1.0
+4216206,2019,Respiratória crônica,20.0
+4216255,2019,Respiratória crônica,3.0
+4216305,2019,Respiratória crônica,4.0
+4216404,2019,Respiratória crônica,0.0
+4216503,2019,Respiratória crônica,11.0
+4216602,2019,Respiratória crônica,76.0
+4216701,2019,Respiratória crônica,4.0
+4216800,2019,Respiratória crônica,2.0
+4216909,2019,Respiratória crônica,0.0
+4217006,2019,Respiratória crônica,2.0
+4217105,2019,Respiratória crônica,0.0
+4217154,2019,Respiratória crônica,0.0
+4217204,2019,Respiratória crônica,42.0
+4217253,2019,Respiratória crônica,3.0
+4217303,2019,Respiratória crônica,5.0
+4217402,2019,Respiratória crônica,2.0
+4217501,2019,Respiratória crônica,9.0
+4217550,2019,Respiratória crônica,0.0
+4217600,2019,Respiratória crônica,2.0
+4217709,2019,Respiratória crônica,1.0
+4217808,2019,Respiratória crônica,2.0
+4217907,2019,Respiratória crônica,0.0
+4218004,2019,Respiratória crônica,6.0
+4218103,2019,Respiratória crônica,2.0
+4218202,2019,Respiratória crônica,20.0
+4218251,2019,Respiratória crônica,0.0
+4218301,2019,Respiratória crônica,8.0
+4218400,2019,Respiratória crônica,2.0
+4218608,2019,Respiratória crônica,4.0
+4218707,2019,Respiratória crônica,58.0
+4218756,2019,Respiratória crônica,2.0
+4218806,2019,Respiratória crônica,3.0
+4218855,2019,Respiratória crônica,0.0
+4218905,2019,Respiratória crônica,6.0
+4218954,2019,Respiratória crônica,0.0
+4219002,2019,Respiratória crônica,2.0
+4219101,2019,Respiratória crônica,0.0
+4219150,2019,Respiratória crônica,2.0
+4219176,2019,Respiratória crônica,0.0
+4219200,2019,Respiratória crônica,1.0
+4219309,2019,Respiratória crônica,22.0
+4219358,2019,Respiratória crônica,1.0
+4219408,2019,Respiratória crônica,2.0
+4219507,2019,Respiratória crônica,30.0
+4219606,2019,Respiratória crônica,0.0
+4219705,2019,Respiratória crônica,10.0
+4219853,2019,Respiratória crônica,0.0
+4220000,2019,Respiratória crônica,1.0
+4200101,2020,Respiratória crônica,4.0
+4200200,2020,Respiratória crônica,0.0
+4200309,2020,Respiratória crônica,0.0
+4200408,2020,Respiratória crônica,0.0
+4200507,2020,Respiratória crônica,0.0
+4200556,2020,Respiratória crônica,0.0
+4200705,2020,Respiratória crônica,2.0
+4200804,2020,Respiratória crônica,3.0
+4200903,2020,Respiratória crônica,2.0
+4201000,2020,Respiratória crônica,6.0
+4201109,2020,Respiratória crônica,0.0
+4201208,2020,Respiratória crônica,0.0
+4201257,2020,Respiratória crônica,1.0
+4201273,2020,Respiratória crônica,1.0
+4201307,2020,Respiratória crônica,4.0
+4201406,2020,Respiratória crônica,19.0
+4201505,2020,Respiratória crônica,2.0
+4201604,2020,Respiratória crônica,1.0
+4201653,2020,Respiratória crônica,0.0
+4201703,2020,Respiratória crônica,0.0
+4201802,2020,Respiratória crônica,1.0
+4201901,2020,Respiratória crônica,0.0
+4201950,2020,Respiratória crônica,0.0
+4202008,2020,Respiratória crônica,46.0
+4202057,2020,Respiratória crônica,4.0
+4202073,2020,Respiratória crônica,3.0
+4202081,2020,Respiratória crônica,0.0
+4202099,2020,Respiratória crônica,0.0
+4202107,2020,Respiratória crônica,4.0
+4202131,2020,Respiratória crônica,0.0
+4202156,2020,Respiratória crônica,0.0
+4202206,2020,Respiratória crônica,0.0
+4202305,2020,Respiratória crônica,6.0
+4202404,2020,Respiratória crônica,56.0
+4202438,2020,Respiratória crônica,0.0
+4202453,2020,Respiratória crônica,1.0
+4202503,2020,Respiratória crônica,2.0
+4202537,2020,Respiratória crônica,0.0
+4202578,2020,Respiratória crônica,1.0
+4202602,2020,Respiratória crônica,2.0
+4202701,2020,Respiratória crônica,0.0
+4202800,2020,Respiratória crônica,11.0
+4202859,2020,Respiratória crônica,1.0
+4202875,2020,Respiratória crônica,0.0
+4202909,2020,Respiratória crônica,30.0
+4203006,2020,Respiratória crônica,29.0
+4203105,2020,Respiratória crônica,0.0
+4203154,2020,Respiratória crônica,0.0
+4203204,2020,Respiratória crônica,7.0
+4203253,2020,Respiratória crônica,0.0
+4203303,2020,Respiratória crônica,4.0
+4203402,2020,Respiratória crônica,2.0
+4203501,2020,Respiratória crônica,4.0
+4203600,2020,Respiratória crônica,10.0
+4203709,2020,Respiratória crônica,1.0
+4203808,2020,Respiratória crônica,27.0
+4203907,2020,Respiratória crônica,3.0
+4203956,2020,Respiratória crônica,0.0
+4204004,2020,Respiratória crônica,0.0
+4204103,2020,Respiratória crônica,1.0
+4204152,2020,Respiratória crônica,1.0
+4204178,2020,Respiratória crônica,0.0
+4204194,2020,Respiratória crônica,0.0
+4204202,2020,Respiratória crônica,38.0
+4204301,2020,Respiratória crônica,25.0
+4204350,2020,Respiratória crônica,0.0
+4204400,2020,Respiratória crônica,2.0
+4204459,2020,Respiratória crônica,0.0
+4204509,2020,Respiratória crônica,0.0
+4204558,2020,Respiratória crônica,4.0
+4204608,2020,Respiratória crônica,48.0
+4204707,2020,Respiratória crônica,5.0
+4204756,2020,Respiratória crônica,1.0
+4204806,2020,Respiratória crônica,31.0
+4204905,2020,Respiratória crônica,4.0
+4205001,2020,Respiratória crônica,11.0
+4205100,2020,Respiratória crônica,1.0
+4205159,2020,Respiratória crônica,1.0
+4205175,2020,Respiratória crônica,0.0
+4205191,2020,Respiratória crônica,0.0
+4205209,2020,Respiratória crônica,1.0
+4205308,2020,Respiratória crônica,1.0
+4205357,2020,Respiratória crônica,0.0
+4205407,2020,Respiratória crônica,81.0
+4205431,2020,Respiratória crônica,0.0
+4205456,2020,Respiratória crônica,1.0
+4205506,2020,Respiratória crônica,4.0
+4205605,2020,Respiratória crônica,1.0
+4205704,2020,Respiratória crônica,2.0
+4205803,2020,Respiratória crônica,1.0
+4205902,2020,Respiratória crônica,9.0
+4206009,2020,Respiratória crônica,4.0
+4206108,2020,Respiratória crônica,0.0
+4206207,2020,Respiratória crônica,0.0
+4206306,2020,Respiratória crônica,4.0
+4206405,2020,Respiratória crônica,3.0
+4206504,2020,Respiratória crônica,2.0
+4206603,2020,Respiratória crônica,7.0
+4206702,2020,Respiratória crônica,2.0
+4206801,2020,Respiratória crônica,3.0
+4206900,2020,Respiratória crônica,14.0
+4207007,2020,Respiratória crônica,14.0
+4207106,2020,Respiratória crônica,1.0
+4207205,2020,Respiratória crônica,0.0
+4207304,2020,Respiratória crônica,13.0
+4207403,2020,Respiratória crônica,1.0
+4207502,2020,Respiratória crônica,9.0
+4207577,2020,Respiratória crônica,0.0
+4207601,2020,Respiratória crônica,3.0
+4207650,2020,Respiratória crônica,3.0
+4207684,2020,Respiratória crônica,1.0
+4207700,2020,Respiratória crônica,0.0
+4207759,2020,Respiratória crônica,1.0
+4207809,2020,Respiratória crônica,1.0
+4207858,2020,Respiratória crônica,2.0
+4207908,2020,Respiratória crônica,3.0
+4208005,2020,Respiratória crônica,0.0
+4208104,2020,Respiratória crônica,5.0
+4208203,2020,Respiratória crônica,72.0
+4208302,2020,Respiratória crônica,6.0
+4208401,2020,Respiratória crônica,1.0
+4208450,2020,Respiratória crônica,3.0
+4208500,2020,Respiratória crônica,11.0
+4208609,2020,Respiratória crônica,0.0
+4208708,2020,Respiratória crônica,3.0
+4208807,2020,Respiratória crônica,1.0
+4208906,2020,Respiratória crônica,45.0
+4208955,2020,Respiratória crônica,1.0
+4209003,2020,Respiratória crônica,21.0
+4209102,2020,Respiratória crônica,83.0
+4209151,2020,Respiratória crônica,0.0
+4209177,2020,Respiratória crônica,0.0
+4209300,2020,Respiratória crônica,46.0
+4209409,2020,Respiratória crônica,16.0
+4209458,2020,Respiratória crônica,0.0
+4209508,2020,Respiratória crônica,1.0
+4209607,2020,Respiratória crônica,1.0
+4209706,2020,Respiratória crônica,2.0
+4209805,2020,Respiratória crônica,0.0
+4209854,2020,Respiratória crônica,2.0
+4209904,2020,Respiratória crônica,1.0
+4210001,2020,Respiratória crônica,0.0
+4210035,2020,Respiratória crônica,1.0
+4210050,2020,Respiratória crônica,0.0
+4210100,2020,Respiratória crônica,16.0
+4210209,2020,Respiratória crônica,0.0
+4210308,2020,Respiratória crônica,0.0
+4210407,2020,Respiratória crônica,1.0
+4210506,2020,Respiratória crônica,20.0
+4210605,2020,Respiratória crônica,1.0
+4210704,2020,Respiratória crônica,0.0
+4210803,2020,Respiratória crônica,1.0
+4210852,2020,Respiratória crônica,0.0
+4210902,2020,Respiratória crônica,4.0
+4211009,2020,Respiratória crônica,7.0
+4211058,2020,Respiratória crônica,2.0
+4211108,2020,Respiratória crônica,1.0
+4211207,2020,Respiratória crônica,12.0
+4211306,2020,Respiratória crônica,14.0
+4211405,2020,Respiratória crônica,0.0
+4211454,2020,Respiratória crônica,0.0
+4211504,2020,Respiratória crônica,4.0
+4211603,2020,Respiratória crônica,0.0
+4211652,2020,Respiratória crônica,1.0
+4211702,2020,Respiratória crônica,2.0
+4211751,2020,Respiratória crônica,5.0
+4211801,2020,Respiratória crônica,1.0
+4211850,2020,Respiratória crônica,0.0
+4211876,2020,Respiratória crônica,0.0
+4211892,2020,Respiratória crônica,0.0
+4211900,2020,Respiratória crônica,6.0
+4212007,2020,Respiratória crônica,4.0
+4212056,2020,Respiratória crônica,1.0
+4212106,2020,Respiratória crônica,14.0
+4212205,2020,Respiratória crônica,3.0
+4212239,2020,Respiratória crônica,0.0
+4212254,2020,Respiratória crônica,0.0
+4212270,2020,Respiratória crônica,2.0
+4212304,2020,Respiratória crônica,0.0
+4212403,2020,Respiratória crônica,0.0
+4212502,2020,Respiratória crônica,11.0
+4212601,2020,Respiratória crônica,0.0
+4212650,2020,Respiratória crônica,0.0
+4212700,2020,Respiratória crônica,3.0
+4212809,2020,Respiratória crônica,4.0
+4212908,2020,Respiratória crônica,1.0
+4213005,2020,Respiratória crônica,1.0
+4213104,2020,Respiratória crônica,1.0
+4213203,2020,Respiratória crônica,8.0
+4213302,2020,Respiratória crônica,1.0
+4213351,2020,Respiratória crônica,1.0
+4213401,2020,Respiratória crônica,1.0
+4213500,2020,Respiratória crônica,1.0
+4213609,2020,Respiratória crônica,5.0
+4213708,2020,Respiratória crônica,3.0
+4213807,2020,Respiratória crônica,4.0
+4213906,2020,Respiratória crônica,0.0
+4214003,2020,Respiratória crônica,8.0
+4214102,2020,Respiratória crônica,0.0
+4214151,2020,Respiratória crônica,2.0
+4214201,2020,Respiratória crônica,1.0
+4214409,2020,Respiratória crônica,0.0
+4214508,2020,Respiratória crônica,2.0
+4214607,2020,Respiratória crônica,3.0
+4214706,2020,Respiratória crônica,1.0
+4214805,2020,Respiratória crônica,18.0
+4214904,2020,Respiratória crônica,1.0
+4215000,2020,Respiratória crônica,16.0
+4215059,2020,Respiratória crônica,0.0
+4215109,2020,Respiratória crônica,2.0
+4215208,2020,Respiratória crônica,0.0
+4215307,2020,Respiratória crônica,5.0
+4215356,2020,Respiratória crônica,2.0
+4215406,2020,Respiratória crônica,1.0
+4215505,2020,Respiratória crônica,4.0
+4215653,2020,Respiratória crônica,0.0
+4215679,2020,Respiratória crônica,2.0
+4215687,2020,Respiratória crônica,2.0
+4215695,2020,Respiratória crônica,1.0
+4215703,2020,Respiratória crônica,4.0
+4215752,2020,Respiratória crônica,0.0
+4215802,2020,Respiratória crônica,17.0
+4215901,2020,Respiratória crônica,2.0
+4216008,2020,Respiratória crônica,9.0
+4216057,2020,Respiratória crônica,1.0
+4216107,2020,Respiratória crônica,4.0
+4216206,2020,Respiratória crônica,6.0
+4216255,2020,Respiratória crônica,2.0
+4216305,2020,Respiratória crônica,8.0
+4216404,2020,Respiratória crônica,0.0
+4216503,2020,Respiratória crônica,8.0
+4216602,2020,Respiratória crônica,53.0
+4216701,2020,Respiratória crônica,3.0
+4216800,2020,Respiratória crônica,0.0
+4216909,2020,Respiratória crônica,0.0
+4217006,2020,Respiratória crônica,1.0
+4217105,2020,Respiratória crônica,1.0
+4217154,2020,Respiratória crônica,0.0
+4217204,2020,Respiratória crônica,29.0
+4217253,2020,Respiratória crônica,0.0
+4217303,2020,Respiratória crônica,3.0
+4217402,2020,Respiratória crônica,1.0
+4217501,2020,Respiratória crônica,4.0
+4217550,2020,Respiratória crônica,0.0
+4217600,2020,Respiratória crônica,0.0
+4217709,2020,Respiratória crônica,3.0
+4217808,2020,Respiratória crônica,5.0
+4217907,2020,Respiratória crônica,0.0
+4218004,2020,Respiratória crônica,7.0
+4218103,2020,Respiratória crônica,0.0
+4218202,2020,Respiratória crônica,10.0
+4218251,2020,Respiratória crônica,0.0
+4218301,2020,Respiratória crônica,8.0
+4218400,2020,Respiratória crônica,2.0
+4218608,2020,Respiratória crônica,6.0
+4218707,2020,Respiratória crônica,30.0
+4218756,2020,Respiratória crônica,2.0
+4218806,2020,Respiratória crônica,2.0
+4218855,2020,Respiratória crônica,0.0
+4218905,2020,Respiratória crônica,3.0
+4218954,2020,Respiratória crônica,3.0
+4219002,2020,Respiratória crônica,2.0
+4219101,2020,Respiratória crônica,0.0
+4219150,2020,Respiratória crônica,1.0
+4219176,2020,Respiratória crônica,0.0
+4219200,2020,Respiratória crônica,1.0
+4219309,2020,Respiratória crônica,12.0
+4219358,2020,Respiratória crônica,0.0
+4219408,2020,Respiratória crônica,0.0
+4219507,2020,Respiratória crônica,18.0
+4219606,2020,Respiratória crônica,1.0
+4219705,2020,Respiratória crônica,12.0
+4219853,2020,Respiratória crônica,0.0
+4220000,2020,Respiratória crônica,2.0
+4200101,2021,Respiratória crônica,5.0
+4200200,2021,Respiratória crônica,3.0
+4200309,2021,Respiratória crônica,0.0
+4200408,2021,Respiratória crônica,3.0
+4200507,2021,Respiratória crônica,1.0
+4200556,2021,Respiratória crônica,0.0
+4200705,2021,Respiratória crônica,0.0
+4200804,2021,Respiratória crônica,2.0
+4200903,2021,Respiratória crônica,2.0
+4201000,2021,Respiratória crônica,3.0
+4201109,2021,Respiratória crônica,0.0
+4201208,2021,Respiratória crônica,1.0
+4201257,2021,Respiratória crônica,1.0
+4201273,2021,Respiratória crônica,0.0
+4201307,2021,Respiratória crônica,4.0
+4201406,2021,Respiratória crônica,23.0
+4201505,2021,Respiratória crônica,3.0
+4201604,2021,Respiratória crônica,1.0
+4201653,2021,Respiratória crônica,0.0
+4201703,2021,Respiratória crônica,1.0
+4201802,2021,Respiratória crônica,0.0
+4201901,2021,Respiratória crônica,2.0
+4201950,2021,Respiratória crônica,1.0
+4202008,2021,Respiratória crônica,35.0
+4202057,2021,Respiratória crônica,1.0
+4202073,2021,Respiratória crônica,0.0
+4202081,2021,Respiratória crônica,0.0
+4202099,2021,Respiratória crônica,0.0
+4202107,2021,Respiratória crônica,2.0
+4202131,2021,Respiratória crônica,0.0
+4202156,2021,Respiratória crônica,0.0
+4202206,2021,Respiratória crônica,1.0
+4202305,2021,Respiratória crônica,10.0
+4202404,2021,Respiratória crônica,69.0
+4202438,2021,Respiratória crônica,0.0
+4202453,2021,Respiratória crônica,4.0
+4202503,2021,Respiratória crônica,0.0
+4202537,2021,Respiratória crônica,0.0
+4202578,2021,Respiratória crônica,0.0
+4202602,2021,Respiratória crônica,3.0
+4202701,2021,Respiratória crônica,1.0
+4202800,2021,Respiratória crônica,11.0
+4202859,2021,Respiratória crônica,0.0
+4202875,2021,Respiratória crônica,0.0
+4202909,2021,Respiratória crônica,28.0
+4203006,2021,Respiratória crônica,25.0
+4203105,2021,Respiratória crônica,1.0
+4203154,2021,Respiratória crônica,0.0
+4203204,2021,Respiratória crônica,4.0
+4203253,2021,Respiratória crônica,0.0
+4203303,2021,Respiratória crônica,4.0
+4203402,2021,Respiratória crônica,5.0
+4203501,2021,Respiratória crônica,7.0
+4203600,2021,Respiratória crônica,12.0
+4203709,2021,Respiratória crônica,4.0
+4203808,2021,Respiratória crônica,24.0
+4203907,2021,Respiratória crônica,4.0
+4203956,2021,Respiratória crônica,0.0
+4204004,2021,Respiratória crônica,1.0
+4204103,2021,Respiratória crônica,3.0
+4204152,2021,Respiratória crônica,0.0
+4204178,2021,Respiratória crônica,0.0
+4204194,2021,Respiratória crônica,1.0
+4204202,2021,Respiratória crônica,57.0
+4204301,2021,Respiratória crônica,31.0
+4204350,2021,Respiratória crônica,0.0
+4204400,2021,Respiratória crônica,3.0
+4204459,2021,Respiratória crônica,1.0
+4204509,2021,Respiratória crônica,1.0
+4204558,2021,Respiratória crônica,7.0
+4204608,2021,Respiratória crônica,48.0
+4204707,2021,Respiratória crônica,8.0
+4204756,2021,Respiratória crônica,0.0
+4204806,2021,Respiratória crônica,32.0
+4204905,2021,Respiratória crônica,6.0
+4205001,2021,Respiratória crônica,10.0
+4205100,2021,Respiratória crônica,1.0
+4205159,2021,Respiratória crônica,1.0
+4205175,2021,Respiratória crônica,0.0
+4205191,2021,Respiratória crônica,0.0
+4205209,2021,Respiratória crônica,0.0
+4205308,2021,Respiratória crônica,0.0
+4205357,2021,Respiratória crônica,0.0
+4205407,2021,Respiratória crônica,102.0
+4205431,2021,Respiratória crônica,0.0
+4205456,2021,Respiratória crônica,0.0
+4205506,2021,Respiratória crônica,9.0
+4205605,2021,Respiratória crônica,1.0
+4205704,2021,Respiratória crônica,2.0
+4205803,2021,Respiratória crônica,0.0
+4205902,2021,Respiratória crônica,9.0
+4206009,2021,Respiratória crônica,5.0
+4206108,2021,Respiratória crônica,2.0
+4206207,2021,Respiratória crônica,0.0
+4206306,2021,Respiratória crônica,2.0
+4206405,2021,Respiratória crônica,10.0
+4206504,2021,Respiratória crônica,11.0
+4206603,2021,Respiratória crônica,0.0
+4206702,2021,Respiratória crônica,4.0
+4206801,2021,Respiratória crônica,0.0
+4206900,2021,Respiratória crônica,16.0
+4207007,2021,Respiratória crônica,17.0
+4207106,2021,Respiratória crônica,1.0
+4207205,2021,Respiratória crônica,1.0
+4207304,2021,Respiratória crônica,11.0
+4207403,2021,Respiratória crônica,1.0
+4207502,2021,Respiratória crônica,9.0
+4207577,2021,Respiratória crônica,0.0
+4207601,2021,Respiratória crônica,0.0
+4207650,2021,Respiratória crônica,3.0
+4207684,2021,Respiratória crônica,1.0
+4207700,2021,Respiratória crônica,1.0
+4207759,2021,Respiratória crônica,1.0
+4207809,2021,Respiratória crônica,2.0
+4207858,2021,Respiratória crônica,0.0
+4207908,2021,Respiratória crônica,4.0
+4208005,2021,Respiratória crônica,1.0
+4208104,2021,Respiratória crônica,6.0
+4208203,2021,Respiratória crônica,76.0
+4208302,2021,Respiratória crônica,9.0
+4208401,2021,Respiratória crônica,7.0
+4208450,2021,Respiratória crônica,4.0
+4208500,2021,Respiratória crônica,13.0
+4208609,2021,Respiratória crônica,0.0
+4208708,2021,Respiratória crônica,6.0
+4208807,2021,Respiratória crônica,6.0
+4208906,2021,Respiratória crônica,40.0
+4208955,2021,Respiratória crônica,2.0
+4209003,2021,Respiratória crônica,17.0
+4209102,2021,Respiratória crônica,105.0
+4209151,2021,Respiratória crônica,0.0
+4209177,2021,Respiratória crônica,0.0
+4209300,2021,Respiratória crônica,69.0
+4209409,2021,Respiratória crônica,15.0
+4209458,2021,Respiratória crônica,0.0
+4209508,2021,Respiratória crônica,2.0
+4209607,2021,Respiratória crônica,4.0
+4209706,2021,Respiratória crônica,2.0
+4209805,2021,Respiratória crônica,1.0
+4209854,2021,Respiratória crônica,5.0
+4209904,2021,Respiratória crônica,1.0
+4210001,2021,Respiratória crônica,4.0
+4210035,2021,Respiratória crônica,6.0
+4210050,2021,Respiratória crônica,0.0
+4210100,2021,Respiratória crônica,23.0
+4210209,2021,Respiratória crônica,0.0
+4210308,2021,Respiratória crônica,7.0
+4210407,2021,Respiratória crônica,2.0
+4210506,2021,Respiratória crônica,17.0
+4210605,2021,Respiratória crônica,2.0
+4210704,2021,Respiratória crônica,1.0
+4210803,2021,Respiratória crônica,3.0
+4210852,2021,Respiratória crônica,0.0
+4210902,2021,Respiratória crônica,1.0
+4211009,2021,Respiratória crônica,3.0
+4211058,2021,Respiratória crônica,3.0
+4211108,2021,Respiratória crônica,1.0
+4211207,2021,Respiratória crônica,12.0
+4211306,2021,Respiratória crônica,10.0
+4211405,2021,Respiratória crônica,3.0
+4211454,2021,Respiratória crônica,0.0
+4211504,2021,Respiratória crônica,8.0
+4211603,2021,Respiratória crônica,3.0
+4211652,2021,Respiratória crônica,0.0
+4211702,2021,Respiratória crônica,4.0
+4211751,2021,Respiratória crônica,7.0
+4211801,2021,Respiratória crônica,0.0
+4211850,2021,Respiratória crônica,0.0
+4211876,2021,Respiratória crônica,1.0
+4211892,2021,Respiratória crônica,0.0
+4211900,2021,Respiratória crônica,6.0
+4212007,2021,Respiratória crônica,3.0
+4212056,2021,Respiratória crônica,1.0
+4212106,2021,Respiratória crônica,8.0
+4212205,2021,Respiratória crônica,2.0
+4212239,2021,Respiratória crônica,2.0
+4212254,2021,Respiratória crônica,0.0
+4212270,2021,Respiratória crônica,0.0
+4212304,2021,Respiratória crônica,0.0
+4212403,2021,Respiratória crônica,0.0
+4212502,2021,Respiratória crônica,5.0
+4212601,2021,Respiratória crônica,2.0
+4212650,2021,Respiratória crônica,0.0
+4212700,2021,Respiratória crônica,0.0
+4212809,2021,Respiratória crônica,2.0
+4212908,2021,Respiratória crônica,5.0
+4213005,2021,Respiratória crônica,0.0
+4213104,2021,Respiratória crônica,0.0
+4213203,2021,Respiratória crônica,9.0
+4213302,2021,Respiratória crônica,1.0
+4213351,2021,Respiratória crônica,1.0
+4213401,2021,Respiratória crônica,2.0
+4213500,2021,Respiratória crônica,3.0
+4213609,2021,Respiratória crônica,13.0
+4213708,2021,Respiratória crônica,12.0
+4213807,2021,Respiratória crônica,4.0
+4213906,2021,Respiratória crônica,0.0
+4214003,2021,Respiratória crônica,5.0
+4214102,2021,Respiratória crônica,0.0
+4214151,2021,Respiratória crônica,0.0
+4214201,2021,Respiratória crônica,6.0
+4214409,2021,Respiratória crônica,2.0
+4214508,2021,Respiratória crônica,5.0
+4214607,2021,Respiratória crônica,5.0
+4214706,2021,Respiratória crônica,3.0
+4214805,2021,Respiratória crônica,32.0
+4214904,2021,Respiratória crônica,2.0
+4215000,2021,Respiratória crônica,14.0
+4215059,2021,Respiratória crônica,0.0
+4215109,2021,Respiratória crônica,1.0
+4215208,2021,Respiratória crônica,2.0
+4215307,2021,Respiratória crônica,2.0
+4215356,2021,Respiratória crônica,0.0
+4215406,2021,Respiratória crônica,2.0
+4215505,2021,Respiratória crônica,5.0
+4215653,2021,Respiratória crônica,0.0
+4215679,2021,Respiratória crônica,1.0
+4215687,2021,Respiratória crônica,0.0
+4215695,2021,Respiratória crônica,0.0
+4215703,2021,Respiratória crônica,11.0
+4215752,2021,Respiratória crônica,0.0
+4215802,2021,Respiratória crônica,20.0
+4215901,2021,Respiratória crônica,4.0
+4216008,2021,Respiratória crônica,4.0
+4216057,2021,Respiratória crônica,0.0
+4216107,2021,Respiratória crônica,2.0
+4216206,2021,Respiratória crônica,17.0
+4216255,2021,Respiratória crônica,3.0
+4216305,2021,Respiratória crônica,9.0
+4216404,2021,Respiratória crônica,0.0
+4216503,2021,Respiratória crônica,5.0
+4216602,2021,Respiratória crônica,72.0
+4216701,2021,Respiratória crônica,2.0
+4216800,2021,Respiratória crônica,2.0
+4216909,2021,Respiratória crônica,4.0
+4217006,2021,Respiratória crônica,1.0
+4217105,2021,Respiratória crônica,0.0
+4217154,2021,Respiratória crônica,0.0
+4217204,2021,Respiratória crônica,27.0
+4217253,2021,Respiratória crônica,2.0
+4217303,2021,Respiratória crônica,5.0
+4217402,2021,Respiratória crônica,3.0
+4217501,2021,Respiratória crônica,5.0
+4217550,2021,Respiratória crônica,0.0
+4217600,2021,Respiratória crônica,1.0
+4217709,2021,Respiratória crônica,9.0
+4217808,2021,Respiratória crônica,6.0
+4217907,2021,Respiratória crônica,2.0
+4218004,2021,Respiratória crônica,2.0
+4218103,2021,Respiratória crônica,0.0
+4218202,2021,Respiratória crônica,12.0
+4218251,2021,Respiratória crônica,4.0
+4218301,2021,Respiratória crônica,13.0
+4218400,2021,Respiratória crônica,0.0
+4218608,2021,Respiratória crônica,4.0
+4218707,2021,Respiratória crônica,26.0
+4218756,2021,Respiratória crônica,3.0
+4218806,2021,Respiratória crônica,3.0
+4218855,2021,Respiratória crônica,1.0
+4218905,2021,Respiratória crônica,2.0
+4218954,2021,Respiratória crônica,2.0
+4219002,2021,Respiratória crônica,6.0
+4219101,2021,Respiratória crônica,0.0
+4219150,2021,Respiratória crônica,3.0
+4219176,2021,Respiratória crônica,1.0
+4219200,2021,Respiratória crônica,1.0
+4219309,2021,Respiratória crônica,14.0
+4219358,2021,Respiratória crônica,3.0
+4219408,2021,Respiratória crônica,0.0
+4219507,2021,Respiratória crônica,27.0
+4219606,2021,Respiratória crônica,0.0
+4219705,2021,Respiratória crônica,15.0
+4219853,2021,Respiratória crônica,1.0
+4220000,2021,Respiratória crônica,0.0
+4200101,2022,Respiratória crônica,9.0
+4200200,2022,Respiratória crônica,5.0
+4200309,2022,Respiratória crônica,1.0
+4200408,2022,Respiratória crônica,1.0
+4200507,2022,Respiratória crônica,1.0
+4200556,2022,Respiratória crônica,1.0
+4200705,2022,Respiratória crônica,4.0
+4200804,2022,Respiratória crônica,0.0
+4200903,2022,Respiratória crônica,5.0
+4201000,2022,Respiratória crônica,6.0
+4201109,2022,Respiratória crônica,0.0
+4201208,2022,Respiratória crônica,0.0
+4201257,2022,Respiratória crônica,2.0
+4201273,2022,Respiratória crônica,1.0
+4201307,2022,Respiratória crônica,6.0
+4201406,2022,Respiratória crônica,43.0
+4201505,2022,Respiratória crônica,5.0
+4201604,2022,Respiratória crônica,0.0
+4201653,2022,Respiratória crônica,1.0
+4201703,2022,Respiratória crônica,2.0
+4201802,2022,Respiratória crônica,1.0
+4201901,2022,Respiratória crônica,1.0
+4201950,2022,Respiratória crônica,1.0
+4202008,2022,Respiratória crônica,71.0
+4202057,2022,Respiratória crônica,1.0
+4202073,2022,Respiratória crônica,1.0
+4202081,2022,Respiratória crônica,0.0
+4202099,2022,Respiratória crônica,1.0
+4202107,2022,Respiratória crônica,4.0
+4202131,2022,Respiratória crônica,0.0
+4202156,2022,Respiratória crônica,1.0
+4202206,2022,Respiratória crônica,2.0
+4202305,2022,Respiratória crônica,10.0
+4202404,2022,Respiratória crônica,103.0
+4202438,2022,Respiratória crônica,1.0
+4202453,2022,Respiratória crônica,7.0
+4202503,2022,Respiratória crônica,3.0
+4202537,2022,Respiratória crônica,1.0
+4202578,2022,Respiratória crônica,0.0
+4202602,2022,Respiratória crônica,2.0
+4202701,2022,Respiratória crônica,0.0
+4202800,2022,Respiratória crônica,6.0
+4202859,2022,Respiratória crônica,0.0
+4202875,2022,Respiratória crônica,0.0
+4202909,2022,Respiratória crônica,42.0
+4203006,2022,Respiratória crônica,42.0
+4203105,2022,Respiratória crônica,2.0
+4203154,2022,Respiratória crônica,1.0
+4203204,2022,Respiratória crônica,4.0
+4203253,2022,Respiratória crônica,0.0
+4203303,2022,Respiratória crônica,2.0
+4203402,2022,Respiratória crônica,7.0
+4203501,2022,Respiratória crônica,8.0
+4203600,2022,Respiratória crônica,22.0
+4203709,2022,Respiratória crônica,0.0
+4203808,2022,Respiratória crônica,34.0
+4203907,2022,Respiratória crônica,8.0
+4203956,2022,Respiratória crônica,0.0
+4204004,2022,Respiratória crônica,4.0
+4204103,2022,Respiratória crônica,0.0
+4204152,2022,Respiratória crônica,0.0
+4204178,2022,Respiratória crônica,1.0
+4204194,2022,Respiratória crônica,0.0
+4204202,2022,Respiratória crônica,67.0
+4204301,2022,Respiratória crônica,39.0
+4204350,2022,Respiratória crônica,0.0
+4204400,2022,Respiratória crônica,3.0
+4204459,2022,Respiratória crônica,2.0
+4204509,2022,Respiratória crônica,0.0
+4204558,2022,Respiratória crônica,2.0
+4204608,2022,Respiratória crônica,80.0
+4204707,2022,Respiratória crônica,15.0
+4204756,2022,Respiratória crônica,1.0
+4204806,2022,Respiratória crônica,63.0
+4204905,2022,Respiratória crônica,1.0
+4205001,2022,Respiratória crônica,16.0
+4205100,2022,Respiratória crônica,4.0
+4205159,2022,Respiratória crônica,1.0
+4205175,2022,Respiratória crônica,1.0
+4205191,2022,Respiratória crônica,0.0
+4205209,2022,Respiratória crônica,0.0
+4205308,2022,Respiratória crônica,0.0
+4205357,2022,Respiratória crônica,1.0
+4205407,2022,Respiratória crônica,165.0
+4205431,2022,Respiratória crônica,2.0
+4205456,2022,Respiratória crônica,2.0
+4205506,2022,Respiratória crônica,7.0
+4205605,2022,Respiratória crônica,1.0
+4205704,2022,Respiratória crônica,3.0
+4205803,2022,Respiratória crônica,2.0
+4205902,2022,Respiratória crônica,18.0
+4206009,2022,Respiratória crônica,2.0
+4206108,2022,Respiratória crônica,0.0
+4206207,2022,Respiratória crônica,0.0
+4206306,2022,Respiratória crônica,2.0
+4206405,2022,Respiratória crônica,3.0
+4206504,2022,Respiratória crônica,11.0
+4206603,2022,Respiratória crônica,6.0
+4206702,2022,Respiratória crônica,4.0
+4206801,2022,Respiratória crônica,0.0
+4206900,2022,Respiratória crônica,28.0
+4207007,2022,Respiratória crônica,37.0
+4207106,2022,Respiratória crônica,0.0
+4207205,2022,Respiratória crônica,4.0
+4207304,2022,Respiratória crônica,21.0
+4207403,2022,Respiratória crônica,3.0
+4207502,2022,Respiratória crônica,16.0
+4207577,2022,Respiratória crônica,1.0
+4207601,2022,Respiratória crônica,4.0
+4207650,2022,Respiratória crônica,8.0
+4207684,2022,Respiratória crônica,0.0
+4207700,2022,Respiratória crônica,2.0
+4207759,2022,Respiratória crônica,0.0
+4207809,2022,Respiratória crônica,8.0
+4207858,2022,Respiratória crônica,0.0
+4207908,2022,Respiratória crônica,6.0
+4208005,2022,Respiratória crônica,2.0
+4208104,2022,Respiratória crônica,6.0
+4208203,2022,Respiratória crônica,103.0
+4208302,2022,Respiratória crônica,11.0
+4208401,2022,Respiratória crônica,13.0
+4208450,2022,Respiratória crônica,3.0
+4208500,2022,Respiratória crônica,18.0
+4208609,2022,Respiratória crônica,1.0
+4208708,2022,Respiratória crônica,1.0
+4208807,2022,Respiratória crônica,3.0
+4208906,2022,Respiratória crônica,61.0
+4208955,2022,Respiratória crônica,0.0
+4209003,2022,Respiratória crônica,17.0
+4209102,2022,Respiratória crônica,155.0
+4209151,2022,Respiratória crônica,0.0
+4209177,2022,Respiratória crônica,1.0
+4209300,2022,Respiratória crônica,85.0
+4209409,2022,Respiratória crônica,15.0
+4209458,2022,Respiratória crônica,2.0
+4209508,2022,Respiratória crônica,1.0
+4209607,2022,Respiratória crônica,3.0
+4209706,2022,Respiratória crônica,6.0
+4209805,2022,Respiratória crônica,0.0
+4209854,2022,Respiratória crônica,8.0
+4209904,2022,Respiratória crônica,0.0
+4210001,2022,Respiratória crônica,4.0
+4210035,2022,Respiratória crônica,3.0
+4210050,2022,Respiratória crônica,2.0
+4210100,2022,Respiratória crônica,40.0
+4210209,2022,Respiratória crônica,0.0
+4210308,2022,Respiratória crônica,4.0
+4210407,2022,Respiratória crônica,0.0
+4210506,2022,Respiratória crônica,37.0
+4210605,2022,Respiratória crônica,1.0
+4210704,2022,Respiratória crônica,0.0
+4210803,2022,Respiratória crônica,3.0
+4210852,2022,Respiratória crônica,0.0
+4210902,2022,Respiratória crônica,3.0
+4211009,2022,Respiratória crônica,3.0
+4211058,2022,Respiratória crônica,4.0
+4211108,2022,Respiratória crônica,2.0
+4211207,2022,Respiratória crônica,9.0
+4211306,2022,Respiratória crônica,16.0
+4211405,2022,Respiratória crônica,3.0
+4211454,2022,Respiratória crônica,1.0
+4211504,2022,Respiratória crônica,10.0
+4211603,2022,Respiratória crônica,4.0
+4211652,2022,Respiratória crônica,0.0
+4211702,2022,Respiratória crônica,9.0
+4211751,2022,Respiratória crônica,6.0
+4211801,2022,Respiratória crônica,0.0
+4211850,2022,Respiratória crônica,1.0
+4211876,2022,Respiratória crônica,0.0
+4211892,2022,Respiratória crônica,2.0
+4211900,2022,Respiratória crônica,8.0
+4212007,2022,Respiratória crônica,5.0
+4212056,2022,Respiratória crônica,0.0
+4212106,2022,Respiratória crônica,16.0
+4212205,2022,Respiratória crônica,8.0
+4212239,2022,Respiratória crônica,0.0
+4212254,2022,Respiratória crônica,1.0
+4212270,2022,Respiratória crônica,1.0
+4212304,2022,Respiratória crônica,1.0
+4212403,2022,Respiratória crônica,0.0
+4212502,2022,Respiratória crônica,6.0
+4212601,2022,Respiratória crônica,0.0
+4212650,2022,Respiratória crônica,1.0
+4212700,2022,Respiratória crônica,0.0
+4212809,2022,Respiratória crônica,4.0
+4212908,2022,Respiratória crônica,4.0
+4213005,2022,Respiratória crônica,0.0
+4213104,2022,Respiratória crônica,0.0
+4213203,2022,Respiratória crônica,10.0
+4213302,2022,Respiratória crônica,0.0
+4213351,2022,Respiratória crônica,0.0
+4213401,2022,Respiratória crônica,9.0
+4213500,2022,Respiratória crônica,4.0
+4213609,2022,Respiratória crônica,23.0
+4213708,2022,Respiratória crônica,10.0
+4213807,2022,Respiratória crônica,7.0
+4213906,2022,Respiratória crônica,0.0
+4214003,2022,Respiratória crônica,8.0
+4214102,2022,Respiratória crônica,0.0
+4214151,2022,Respiratória crônica,1.0
+4214201,2022,Respiratória crônica,4.0
+4214409,2022,Respiratória crônica,2.0
+4214508,2022,Respiratória crônica,8.0
+4214607,2022,Respiratória crônica,2.0
+4214706,2022,Respiratória crônica,2.0
+4214805,2022,Respiratória crônica,38.0
+4214904,2022,Respiratória crônica,2.0
+4215000,2022,Respiratória crônica,39.0
+4215059,2022,Respiratória crônica,1.0
+4215109,2022,Respiratória crônica,1.0
+4215208,2022,Respiratória crônica,0.0
+4215307,2022,Respiratória crônica,1.0
+4215356,2022,Respiratória crônica,1.0
+4215406,2022,Respiratória crônica,3.0
+4215505,2022,Respiratória crônica,8.0
+4215653,2022,Respiratória crônica,0.0
+4215679,2022,Respiratória crônica,4.0
+4215687,2022,Respiratória crônica,0.0
+4215695,2022,Respiratória crônica,0.0
+4215703,2022,Respiratória crônica,12.0
+4215752,2022,Respiratória crônica,0.0
+4215802,2022,Respiratória crônica,25.0
+4215901,2022,Respiratória crônica,1.0
+4216008,2022,Respiratória crônica,12.0
+4216057,2022,Respiratória crônica,0.0
+4216107,2022,Respiratória crônica,4.0
+4216206,2022,Respiratória crônica,11.0
+4216255,2022,Respiratória crônica,2.0
+4216305,2022,Respiratória crônica,11.0
+4216404,2022,Respiratória crônica,1.0
+4216503,2022,Respiratória crônica,6.0
+4216602,2022,Respiratória crônica,69.0
+4216701,2022,Respiratória crônica,4.0
+4216800,2022,Respiratória crônica,1.0
+4216909,2022,Respiratória crônica,15.0
+4217006,2022,Respiratória crônica,0.0
+4217105,2022,Respiratória crônica,1.0
+4217154,2022,Respiratória crônica,1.0
+4217204,2022,Respiratória crônica,41.0
+4217253,2022,Respiratória crônica,3.0
+4217303,2022,Respiratória crônica,6.0
+4217402,2022,Respiratória crônica,0.0
+4217501,2022,Respiratória crônica,16.0
+4217550,2022,Respiratória crônica,0.0
+4217600,2022,Respiratória crônica,0.0
+4217709,2022,Respiratória crônica,22.0
+4217808,2022,Respiratória crônica,3.0
+4217907,2022,Respiratória crônica,4.0
+4218004,2022,Respiratória crônica,10.0
+4218103,2022,Respiratória crônica,1.0
+4218202,2022,Respiratória crônica,43.0
+4218251,2022,Respiratória crônica,2.0
+4218301,2022,Respiratória crônica,12.0
+4218400,2022,Respiratória crônica,2.0
+4218608,2022,Respiratória crônica,7.0
+4218707,2022,Respiratória crônica,42.0
+4218756,2022,Respiratória crônica,4.0
+4218806,2022,Respiratória crônica,7.0
+4218855,2022,Respiratória crônica,0.0
+4218905,2022,Respiratória crônica,4.0
+4218954,2022,Respiratória crônica,0.0
+4219002,2022,Respiratória crônica,3.0
+4219101,2022,Respiratória crônica,0.0
+4219150,2022,Respiratória crônica,1.0
+4219176,2022,Respiratória crônica,0.0
+4219200,2022,Respiratória crônica,0.0
+4219309,2022,Respiratória crônica,25.0
+4219358,2022,Respiratória crônica,2.0
+4219408,2022,Respiratória crônica,1.0
+4219507,2022,Respiratória crônica,34.0
+4219606,2022,Respiratória crônica,2.0
+4219705,2022,Respiratória crônica,10.0
+4219853,2022,Respiratória crônica,0.0
+4220000,2022,Respiratória crônica,0.0
+4200101,2023,Respiratória crônica,6.0
+4200200,2023,Respiratória crônica,5.0
+4200309,2023,Respiratória crônica,2.0
+4200408,2023,Respiratória crônica,0.0
+4200507,2023,Respiratória crônica,1.0
+4200556,2023,Respiratória crônica,0.0
+4200705,2023,Respiratória crônica,5.0
+4200804,2023,Respiratória crônica,0.0
+4200903,2023,Respiratória crônica,2.0
+4201000,2023,Respiratória crônica,4.0
+4201109,2023,Respiratória crônica,1.0
+4201208,2023,Respiratória crônica,1.0
+4201257,2023,Respiratória crônica,4.0
+4201273,2023,Respiratória crônica,2.0
+4201307,2023,Respiratória crônica,3.0
+4201406,2023,Respiratória crônica,35.0
+4201505,2023,Respiratória crônica,1.0
+4201604,2023,Respiratória crônica,3.0
+4201653,2023,Respiratória crônica,0.0
+4201703,2023,Respiratória crônica,1.0
+4201802,2023,Respiratória crônica,0.0
+4201901,2023,Respiratória crônica,0.0
+4201950,2023,Respiratória crônica,0.0
+4202008,2023,Respiratória crônica,67.0
+4202057,2023,Respiratória crônica,1.0
+4202073,2023,Respiratória crônica,1.0
+4202081,2023,Respiratória crônica,0.0
+4202099,2023,Respiratória crônica,0.0
+4202107,2023,Respiratória crônica,3.0
+4202131,2023,Respiratória crônica,1.0
+4202156,2023,Respiratória crônica,0.0
+4202206,2023,Respiratória crônica,2.0
+4202305,2023,Respiratória crônica,21.0
+4202404,2023,Respiratória crônica,73.0
+4202438,2023,Respiratória crônica,1.0
+4202453,2023,Respiratória crônica,2.0
+4202503,2023,Respiratória crônica,0.0
+4202537,2023,Respiratória crônica,2.0
+4202578,2023,Respiratória crônica,0.0
+4202602,2023,Respiratória crônica,3.0
+4202701,2023,Respiratória crônica,0.0
+4202800,2023,Respiratória crônica,13.0
+4202859,2023,Respiratória crônica,2.0
+4202875,2023,Respiratória crônica,0.0
+4202909,2023,Respiratória crônica,27.0
+4203006,2023,Respiratória crônica,29.0
+4203105,2023,Respiratória crônica,1.0
+4203154,2023,Respiratória crônica,0.0
+4203204,2023,Respiratória crônica,12.0
+4203253,2023,Respiratória crônica,0.0
+4203303,2023,Respiratória crônica,6.0
+4203402,2023,Respiratória crônica,4.0
+4203501,2023,Respiratória crônica,10.0
+4203600,2023,Respiratória crônica,14.0
+4203709,2023,Respiratória crônica,2.0
+4203808,2023,Respiratória crônica,28.0
+4203907,2023,Respiratória crônica,13.0
+4203956,2023,Respiratória crônica,0.0
+4204004,2023,Respiratória crônica,0.0
+4204103,2023,Respiratória crônica,4.0
+4204152,2023,Respiratória crônica,1.0
+4204178,2023,Respiratória crônica,2.0
+4204194,2023,Respiratória crônica,0.0
+4204202,2023,Respiratória crônica,68.0
+4204301,2023,Respiratória crônica,38.0
+4204350,2023,Respiratória crônica,1.0
+4204400,2023,Respiratória crônica,2.0
+4204459,2023,Respiratória crônica,0.0
+4204509,2023,Respiratória crônica,1.0
+4204558,2023,Respiratória crônica,6.0
+4204608,2023,Respiratória crônica,48.0
+4204707,2023,Respiratória crônica,5.0
+4204756,2023,Respiratória crônica,0.0
+4204806,2023,Respiratória crônica,35.0
+4204905,2023,Respiratória crônica,3.0
+4205001,2023,Respiratória crônica,10.0
+4205100,2023,Respiratória crônica,0.0
+4205159,2023,Respiratória crônica,0.0
+4205175,2023,Respiratória crônica,0.0
+4205191,2023,Respiratória crônica,0.0
+4205209,2023,Respiratória crônica,1.0
+4205308,2023,Respiratória crônica,0.0
+4205357,2023,Respiratória crônica,0.0
+4205407,2023,Respiratória crônica,171.0
+4205431,2023,Respiratória crônica,1.0
+4205456,2023,Respiratória crônica,1.0
+4205506,2023,Respiratória crônica,11.0
+4205605,2023,Respiratória crônica,0.0
+4205704,2023,Respiratória crônica,0.0
+4205803,2023,Respiratória crônica,2.0
+4205902,2023,Respiratória crônica,21.0
+4206009,2023,Respiratória crônica,3.0
+4206108,2023,Respiratória crônica,0.0
+4206207,2023,Respiratória crônica,2.0
+4206306,2023,Respiratória crônica,2.0
+4206405,2023,Respiratória crônica,2.0
+4206504,2023,Respiratória crônica,14.0
+4206603,2023,Respiratória crônica,0.0
+4206702,2023,Respiratória crônica,2.0
+4206801,2023,Respiratória crônica,2.0
+4206900,2023,Respiratória crônica,21.0
+4207007,2023,Respiratória crônica,26.0
+4207106,2023,Respiratória crônica,1.0
+4207205,2023,Respiratória crônica,7.0
+4207304,2023,Respiratória crônica,17.0
+4207403,2023,Respiratória crônica,1.0
+4207502,2023,Respiratória crônica,25.0
+4207577,2023,Respiratória crônica,0.0
+4207601,2023,Respiratória crônica,1.0
+4207650,2023,Respiratória crônica,3.0
+4207684,2023,Respiratória crônica,0.0
+4207700,2023,Respiratória crônica,0.0
+4207759,2023,Respiratória crônica,1.0
+4207809,2023,Respiratória crônica,3.0
+4207858,2023,Respiratória crônica,1.0
+4207908,2023,Respiratória crônica,3.0
+4208005,2023,Respiratória crônica,2.0
+4208104,2023,Respiratória crônica,9.0
+4208203,2023,Respiratória crônica,89.0
+4208302,2023,Respiratória crônica,17.0
+4208401,2023,Respiratória crônica,5.0
+4208450,2023,Respiratória crônica,6.0
+4208500,2023,Respiratória crônica,10.0
+4208609,2023,Respiratória crônica,0.0
+4208708,2023,Respiratória crônica,2.0
+4208807,2023,Respiratória crônica,4.0
+4208906,2023,Respiratória crônica,103.0
+4208955,2023,Respiratória crônica,0.0
+4209003,2023,Respiratória crônica,20.0
+4209102,2023,Respiratória crônica,151.0
+4209151,2023,Respiratória crônica,3.0
+4209177,2023,Respiratória crônica,0.0
+4209300,2023,Respiratória crônica,91.0
+4209409,2023,Respiratória crônica,20.0
+4209458,2023,Respiratória crônica,0.0
+4209508,2023,Respiratória crônica,1.0
+4209607,2023,Respiratória crônica,10.0
+4209706,2023,Respiratória crônica,2.0
+4209805,2023,Respiratória crônica,0.0
+4209854,2023,Respiratória crônica,4.0
+4209904,2023,Respiratória crônica,0.0
+4210001,2023,Respiratória crônica,7.0
+4210035,2023,Respiratória crônica,0.0
+4210050,2023,Respiratória crônica,1.0
+4210100,2023,Respiratória crônica,27.0
+4210209,2023,Respiratória crônica,0.0
+4210308,2023,Respiratória crônica,4.0
+4210407,2023,Respiratória crônica,0.0
+4210506,2023,Respiratória crônica,24.0
+4210605,2023,Respiratória crônica,0.0
+4210704,2023,Respiratória crônica,0.0
+4210803,2023,Respiratória crônica,6.0
+4210852,2023,Respiratória crônica,2.0
+4210902,2023,Respiratória crônica,5.0
+4211009,2023,Respiratória crônica,2.0
+4211058,2023,Respiratória crônica,1.0
+4211108,2023,Respiratória crônica,8.0
+4211207,2023,Respiratória crônica,24.0
+4211306,2023,Respiratória crônica,7.0
+4211405,2023,Respiratória crônica,1.0
+4211454,2023,Respiratória crônica,0.0
+4211504,2023,Respiratória crônica,8.0
+4211603,2023,Respiratória crônica,2.0
+4211652,2023,Respiratória crônica,0.0
+4211702,2023,Respiratória crônica,4.0
+4211751,2023,Respiratória crônica,6.0
+4211801,2023,Respiratória crônica,0.0
+4211850,2023,Respiratória crônica,0.0
+4211876,2023,Respiratória crônica,0.0
+4211892,2023,Respiratória crônica,1.0
+4211900,2023,Respiratória crônica,8.0
+4212007,2023,Respiratória crônica,5.0
+4212056,2023,Respiratória crônica,0.0
+4212106,2023,Respiratória crônica,15.0
+4212205,2023,Respiratória crônica,5.0
+4212239,2023,Respiratória crônica,0.0
+4212254,2023,Respiratória crônica,0.0
+4212270,2023,Respiratória crônica,0.0
+4212304,2023,Respiratória crônica,1.0
+4212403,2023,Respiratória crônica,1.0
+4212502,2023,Respiratória crônica,10.0
+4212601,2023,Respiratória crônica,1.0
+4212650,2023,Respiratória crônica,0.0
+4212700,2023,Respiratória crônica,0.0
+4212809,2023,Respiratória crônica,3.0
+4212908,2023,Respiratória crônica,2.0
+4213005,2023,Respiratória crônica,0.0
+4213104,2023,Respiratória crônica,0.0
+4213203,2023,Respiratória crônica,7.0
+4213302,2023,Respiratória crônica,0.0
+4213351,2023,Respiratória crônica,0.0
+4213401,2023,Respiratória crônica,5.0
+4213500,2023,Respiratória crônica,0.0
+4213609,2023,Respiratória crônica,21.0
+4213708,2023,Respiratória crônica,9.0
+4213807,2023,Respiratória crônica,11.0
+4213906,2023,Respiratória crônica,1.0
+4214003,2023,Respiratória crônica,8.0
+4214102,2023,Respiratória crônica,0.0
+4214151,2023,Respiratória crônica,0.0
+4214201,2023,Respiratória crônica,7.0
+4214409,2023,Respiratória crônica,1.0
+4214508,2023,Respiratória crônica,7.0
+4214607,2023,Respiratória crônica,0.0
+4214706,2023,Respiratória crônica,0.0
+4214805,2023,Respiratória crônica,40.0
+4214904,2023,Respiratória crônica,5.0
+4215000,2023,Respiratória crônica,49.0
+4215059,2023,Respiratória crônica,0.0
+4215109,2023,Respiratória crônica,3.0
+4215208,2023,Respiratória crônica,2.0
+4215307,2023,Respiratória crônica,3.0
+4215356,2023,Respiratória crônica,0.0
+4215406,2023,Respiratória crônica,2.0
+4215505,2023,Respiratória crônica,10.0
+4215653,2023,Respiratória crônica,0.0
+4215679,2023,Respiratória crônica,1.0
+4215687,2023,Respiratória crônica,0.0
+4215695,2023,Respiratória crônica,0.0
+4215703,2023,Respiratória crônica,11.0
+4215752,2023,Respiratória crônica,1.0
+4215802,2023,Respiratória crônica,34.0
+4215901,2023,Respiratória crônica,1.0
+4216008,2023,Respiratória crônica,4.0
+4216057,2023,Respiratória crônica,0.0
+4216107,2023,Respiratória crônica,2.0
+4216206,2023,Respiratória crônica,12.0
+4216255,2023,Respiratória crônica,3.0
+4216305,2023,Respiratória crônica,10.0
+4216404,2023,Respiratória crônica,1.0
+4216503,2023,Respiratória crônica,5.0
+4216602,2023,Respiratória crônica,103.0
+4216701,2023,Respiratória crônica,3.0
+4216800,2023,Respiratória crônica,2.0
+4216909,2023,Respiratória crônica,6.0
+4217006,2023,Respiratória crônica,1.0
+4217105,2023,Respiratória crônica,0.0
+4217154,2023,Respiratória crônica,0.0
+4217204,2023,Respiratória crônica,36.0
+4217253,2023,Respiratória crônica,5.0
+4217303,2023,Respiratória crônica,2.0
+4217402,2023,Respiratória crônica,3.0
+4217501,2023,Respiratória crônica,5.0
+4217550,2023,Respiratória crônica,1.0
+4217600,2023,Respiratória crônica,1.0
+4217709,2023,Respiratória crônica,17.0
+4217808,2023,Respiratória crônica,6.0
+4217907,2023,Respiratória crônica,2.0
+4218004,2023,Respiratória crônica,5.0
+4218103,2023,Respiratória crônica,1.0
+4218202,2023,Respiratória crônica,33.0
+4218251,2023,Respiratória crônica,0.0
+4218301,2023,Respiratória crônica,13.0
+4218400,2023,Respiratória crônica,1.0
+4218608,2023,Respiratória crônica,6.0
+4218707,2023,Respiratória crônica,37.0
+4218756,2023,Respiratória crônica,2.0
+4218806,2023,Respiratória crônica,1.0
+4218855,2023,Respiratória crônica,0.0
+4218905,2023,Respiratória crônica,4.0
+4218954,2023,Respiratória crônica,0.0
+4219002,2023,Respiratória crônica,2.0
+4219101,2023,Respiratória crônica,1.0
+4219150,2023,Respiratória crônica,0.0
+4219176,2023,Respiratória crônica,0.0
+4219200,2023,Respiratória crônica,1.0
+4219309,2023,Respiratória crônica,25.0
+4219358,2023,Respiratória crônica,1.0
+4219408,2023,Respiratória crônica,0.0
+4219507,2023,Respiratória crônica,33.0
+4219606,2023,Respiratória crônica,0.0
+4219705,2023,Respiratória crônica,8.0
+4219853,2023,Respiratória crônica,0.0
+4220000,2023,Respiratória crônica,0.0

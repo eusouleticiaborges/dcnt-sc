@@ -1,0 +1,27 @@
+# Dados brutos (não versionar — baixados manualmente do TabNet)
+data/raw/sim/*.csv
+data/raw/sih/*.csv
+data/raw/*.csv
+
+# Banco de dados: versionado propositalmente (ver nota abaixo)
+# Contém apenas dados públicos (DATASUS, IBGE) — necessário para o painel Streamlit
+# funcionar quando publicado no Streamlit Community Cloud, já que os CSVs brutos
+# (baixados manualmente do TabNet/SIDRA) não são versionados.
+# data/*.db  <- INTENCIONALMENTE fora do .gitignore
+
+!data/raw/.gitkeep
+!data/raw/sim/.gitkeep
+!data/raw/sih/.gitkeep
+!data/raw/COMO_BAIXAR_DADOS.md
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# Sistema
+.DS_Store
