@@ -3,7 +3,7 @@ Análise exploratória: cruza mortalidade, internações/letalidade hospitalar (
 com indicadores socioeconômicos dos municípios de Santa Catarina.
 
 Pré-requisitos:
-    python src/coleta_ibge.py
+    python src/consolidar_ibge_manual.py
     python src/tratamento_mortalidade.py
     python src/tratamento_internacoes.py
 

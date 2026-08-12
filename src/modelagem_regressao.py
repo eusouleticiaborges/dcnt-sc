@@ -15,7 +15,7 @@ Método: Regressão Binomial Negativa com offset de população.
   nessa variável está associado a 20% mais óbitos.
 
 Pré-requisitos:
-    python src/coleta_ibge.py
+    python src/consolidar_ibge_manual.py
     python src/tratamento_mortalidade.py
 
 Uso:
@@ -34,18 +34,14 @@ PROCESSED_DIR = Path(__file__).resolve().parent.parent / "data" / "processed"
 OUTPUTS_DIR = Path(__file__).resolve().parent.parent / "outputs"
 OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Lista ampliada — o script usa automaticamente só as que existirem na base consolidada.
-# Agrupadas por "dimensão" para facilitar decidir o que tirar em caso de multicolinearidade alta:
-#   econômica: pib_per_capita, renda_per_capita, salario_medio_admissao
-#   desigualdade: gini, taxa_pobreza
-#   educação: taxa_analfabetismo, idhm_educacao
-#   mercado de trabalho: saldo_empregos, taxa_rotatividade
-#   urbanização/estrutura: taxa_urbanizacao_pct
-#   síntese (cuidado: já incorpora renda+educação+longevidade, correlaciona com quase tudo acima): idhm
+# Variáveis socioeconômicas efetivamente coletadas no projeto (via IBGE/SIDRA, ver
+# consolidar_ibge_manual.py). Outras variáveis (Gini, IDHM, renda per capita, indicadores de
+# mercado de trabalho via RAIS/CAGED) foram cogitadas como extensão futura, mas não foram
+# coletadas — ver seção "Próximos passos" no README. O script abaixo já é escrito para
+# incorporar novas variáveis automaticamente caso a base seja enriquecida no futuro; basta
+# adicionar o nome da coluna nesta lista.
 VARIAVEIS_CANDIDATAS = [
-    "pib_per_capita", "renda_per_capita", "gini", "taxa_pobreza",
-    "taxa_analfabetismo", "taxa_urbanizacao_pct", "idhm",
-    "saldo_empregos", "salario_medio_admissao", "taxa_rotatividade",
+    "pib_per_capita", "taxa_urbanizacao_pct",
 ]
 
 LIMIAR_VIF_ALERTA = 5  # VIF acima disso costuma indicar multicolinearidade preocupante
@@ -53,17 +49,7 @@ LIMIAR_VIF_ALERTA = 5  # VIF acima disso costuma indicar multicolinearidade preo
 
 def carregar_dados():
     mortalidade = pd.read_csv(PROCESSED_DIR / "mortalidade_dcnt_sc_tratado.csv")
-
-    # Prioriza a base consolidada (Fase de expansão); cai para a básica se ela não existir ainda
-    caminho_completo = RAW_DIR / "indicadores_socioeconomicos_completos.csv"
-    caminho_basico = RAW_DIR / "indicadores_socioeconomicos_sc.csv"
-    if caminho_completo.exists():
-        socioeconomico = pd.read_csv(caminho_completo)
-        print(f"[OK] Usando base socioeconômica consolidada: {caminho_completo.name}")
-    else:
-        socioeconomico = pd.read_csv(caminho_basico)
-        print(f"[AVISO] Base consolidada não encontrada — usando apenas: {caminho_basico.name}\n"
-              f"Rode juntar_variaveis_socioeconomicas.py para incluir Atlas Brasil e CAGED.")
+    socioeconomico = pd.read_csv(RAW_DIR / "indicadores_socioeconomicos_sc.csv")
 
     mort_agg = (
         mortalidade.groupby(["codigo_ibge", "grupo_dcnt"])["obitos"]
@@ -181,11 +167,10 @@ def main():
     faltando = [v for v in VARIAVEIS_CANDIDATAS if v not in base.columns]
     if faltando:
         print(f"[AVISO] Variáveis não encontradas na base (serão ignoradas): {faltando}")
-        print("Se quiser incluí-las, veja data/raw/COMO_ADICIONAR_ATLAS_BRASIL.md, "
-              "data/raw/COMO_BAIXAR_RAIS_CAGED.md, ou rode juntar_variaveis_socioeconomicas.py")
+        print("Rode python src/consolidar_ibge_manual.py para gerar a base socioeconômica.")
 
     if not variaveis_disponiveis:
-        raise ValueError("Nenhuma variável preditora disponível. Rode coleta_ibge.py primeiro.")
+        raise ValueError("Nenhuma variável preditora disponível. Rode consolidar_ibge_manual.py primeiro.")
 
     print(f"\nVariáveis usadas no modelo: {variaveis_disponiveis}\n")
 

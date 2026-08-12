@@ -1,90 +1,80 @@
-# Doenças Crônicas Não Transmissíveis (DCNT) em Santa Catarina: mortalidade, internações e relação com indicadores socioeconômicos
+# Doenças Crônicas Não Transmissíveis (DCNT) em Santa Catarina
+
+Análise da relação entre indicadores socioeconômicos e a ocorrência de Doenças Crônicas Não
+Transmissíveis (DCNT) nos 295 municípios de Santa Catarina, com painel interativo publicado.
+
+**🔗 Painel ao vivo: [dcnt-santa-catarina.streamlit.app](https://dcnt-santa-catarina.streamlit.app/)**
 
 ## 🎯 Objetivo
 
-Identificar **quais** variáveis socioeconômicas — econômicas (PIB, renda), de desigualdade
-(Gini, pobreza), educacionais (analfabetismo), estruturais (urbanização) e de mercado de
-trabalho (saldo de empregos formais, salário médio) — estão associadas à ocorrência das quatro
-principais Doenças Crônicas Não Transmissíveis (DCNT) nos municípios de Santa Catarina, e
-**como** (direção e força do efeito) — usando modelagem estatística formal, não apenas
-correlação simples. O projeto cobre todo o ciclo: coleta de dados públicos → tratamento →
-modelagem estatística → painel interativo no Power BI.
+Identificar se — e como — indicadores socioeconômicos municipais (PIB per capita e taxa de
+urbanização) se associam à mortalidade, internação hospitalar e letalidade hospitalar das
+quatro principais DCNT (cardiovascular, câncer, diabetes e doenças respiratórias crônicas) em
+Santa Catarina, usando modelagem estatística formal — não apenas correlação simples.
 
-Grupos de DCNT analisados (conforme classificação da OMS/OPAS, os "4 grandes grupos"):
+## 📈 Principais resultados
 
-| Grupo | CID-10 |
-|---|---|
-| Doenças cardiovasculares | I00–I99 |
-| Neoplasias malignas (câncer) | C00–C97 |
-| Diabetes mellitus | E10–E14 |
-| Doenças respiratórias crônicas | J40–J47 |
+A regressão (Binomial Negativa, ver metodologia abaixo) encontrou:
 
-## 🧑‍🔬 Motivação
+- **Taxa de urbanização** está associada a **aumento estatisticamente significativo** na
+  mortalidade nos **4 grupos de DCNT**, mesmo controlando pelo PIB per capita:
+  - Câncer: +23,6% de mortalidade a cada desvio-padrão de aumento na urbanização
+  - Cardiovascular: +16,3%
+  - Diabetes: +12,4%
+  - Respiratória crônica: +11,0%
+- **PIB per capita** não apresentou efeito estatisticamente significativo em nenhum dos 4
+  grupos neste recorte de variáveis — um resultado tão válido de reportar quanto um efeito
+  significativo, já que contraria a intuição de que "cidade mais rica é mais saudável" de
+  forma simplista.
 
-DCNT são hoje a principal causa de morte no Brasil e no mundo, e sua distribuição está fortemente
-associada a determinantes sociais de saúde (renda, escolaridade, acesso a serviços). Este projeto
-conecta minha experiência prévia em epidemiologia (doutorado em saúde pública/segurança de
-alimentos) com meu trabalho atual em dados socioeconômicos da administração pública de SC —
-usando as mesmas bases de indicadores que utilizo profissionalmente, aplicadas a uma pergunta de
-saúde pública.
-
-## 📊 Indicadores calculados (por município, por grupo de DCNT)
-
-1. **Taxa de mortalidade geral** — óbitos (SIM) / população × 100.000 hab.
-2. **Taxa de internação hospitalar** — internações (SIH) / população × 100.000 hab.
-3. **Taxa de letalidade hospitalar** — óbitos ocorridos durante internação (SIH) / internações (SIH) × 100
-
-> **Nota metodológica**: a letalidade hospitalar usa numerador e denominador da mesma fonte (SIH),
-> o que é metodologicamente correto. Não se deve dividir óbitos do SIM por internações do SIH —
-> são sistemas de notificação diferentes, com populações de referência distintas.
+O painel permite explorar isso interativamente por grupo de DCNT, incluindo mapa por
+município, ranking, e a tabela completa de coeficientes da regressão.
 
 ## 📊 Dados utilizados
 
 | Fonte | Dado | Acesso |
 |---|---|---|
-| SIM/DATASUS (TabNet) | Óbitos por causa (CID-10), por município de SC | Download manual |
-| SIH/DATASUS (TabNet) | Internações e óbitos hospitalares por causa (CID-10), por município de SC | Download manual |
-| IBGE (API SIDRA) | População estimada, PIB per capita, taxa de urbanização | API REST automática |
-| Atlas Brasil (PNUD/IPEA/FJP) | IDHM (e sub-índices), Gini, renda per capita, pobreza, analfabetismo, esperança de vida | Download manual |
-| RAIS (via Base dos Dados/BigQuery) | Salário médio, horas contratadas, % força de trabalho com ensino superior | SQL (Python) |
-| CAGED (via Base dos Dados/BigQuery) | Admissões, desligamentos, saldo de empregos, salário médio de admissão | SQL (Python) |
+| SIM/DATASUS (TabNet) | Óbitos por causa (CID-10), por município, 2019-2023 | Download manual |
+| SIH/DATASUS (TabNet) | Internações e óbitos hospitalares por causa (CID-10), 2019-2023 | Download manual |
+| IBGE (SIDRA) | População (Censo 2022), PIB per capita, taxa de urbanização | Download manual (ver nota abaixo) |
+| [geodata-br](https://github.com/tbrugz/geodata-br) / malha municipal do IBGE | Contornos geográficos dos municípios de SC, para o mapa | Incluído no repositório |
 
-## 🗄️ Banco de dados
+**Nota sobre o IBGE**: a coleta automática via API foi tentada primeiro, mas se mostrou pouco
+confiável durante o desenvolvimento (tabelas com nomes de coluna inconsistentes, períodos
+indisponíveis). O caminho que efetivamente funciona é baixar manualmente do SIDRA e consolidar
+com `src/consolidar_ibge_manual.py` — ver instruções em `data/raw/COMO_BAIXAR_DADOS.md` para a
+parte de saúde, e o próprio script para a parte do IBGE.
 
-O projeto usa **SQLite** como banco de dados central — um banco de dados real (não CSVs
-soltos), mas que vive num único arquivo (`data/dcnt_sc.db`), sem exigir instalação de servidor.
-Todos os dados coletados e tratados são carregados nele antes de seguir para análise ou
-exportação, o que garante uma única fonte de verdade para o projeto, consultável via SQL.
+### Indicadores calculados
 
-O arquivo do banco não é versionado no Git (por conter dado, mesmo que público) — ele é gerado
-localmente a partir dos CSVs coletados, rodando `python src/criar_banco_sqlite.py`.
+- **Taxa de mortalidade** (óbitos ÷ população × 100.000)
+- **Taxa de internação** (internações ÷ população × 100.000)
+- **Letalidade hospitalar** (óbitos ocorridos durante internação ÷ total de internações) —
+  indica gravidade/desfecho dos casos que chegam a ser internados, diferente da taxa de
+  mortalidade geral (que inclui óbitos fora do ambiente hospitalar)
 
 ## 🗂️ Estrutura do repositório
 
 ```
 dcnt-sc/
+├── app.py                          # painel interativo (Streamlit) — o entregável principal
 ├── data/
+│   ├── dcnt_sc.db                  # banco de dados SQLite (dados públicos, versionado)
+│   ├── sc_municipios.geojson       # contornos geográficos dos municípios (para o mapa)
 │   ├── raw/
-│   │   ├── sim/          # 4 arquivos de óbitos (um por grupo de DCNT)
-│   │   ├── sih/          # 4 arquivos de internações/óbitos hospitalares
-│   │   ├── COMO_BAIXAR_DADOS.md
-│   │   ├── COMO_ADICIONAR_ATLAS_BRASIL.md
-│   │   └── COMO_CONFIGURAR_BASEDOSDADOS.md
+│   │   ├── sim/                    # 4 arquivos de óbitos (um por grupo de DCNT)
+│   │   ├── sih/                    # 4 arquivos de internações/óbitos hospitalares
+│   │   └── COMO_BAIXAR_DADOS.md    # passo a passo do download manual (TabNet)
 │   └── processed/
 ├── src/
-│   ├── coleta_ibge.py                     # dados socioeconômicos via API IBGE
-│   ├── consolidar_ibge_manual.py          # consolida população/urbanização/PIB baixados manualmente
-│   ├── coleta_rais_caged.py               # RAIS + CAGED via Base dos Dados (BigQuery)
-│   ├── tratamento_mortalidade.py          # trata os 4 arquivos do SIM
-│   ├── tratamento_internacoes.py          # trata os 4 arquivos do SIH
-│   ├── juntar_variaveis_socioeconomicas.py# consolida IBGE + Atlas Brasil + RAIS/CAGED
-│   ├── criar_banco_sqlite.py              # monta o banco de dados central (SQLite)
-│   ├── analise_exploratoria.py            # correlações e gráficos
-│   ├── pca_e_cluster.py                   # redução de dimensionalidade e segmentação
-│   ├── modelagem_regressao.py             # regressão binomial negativa + checagem de VIF
-│   └── exportar_powerbi.py                # lê do banco e gera o Excel para o Power BI
+│   ├── consolidar_ibge_manual.py   # consolida população/urbanização/PIB (IBGE, SIDRA)
+│   ├── tratamento_mortalidade.py   # trata os 4 arquivos do SIM
+│   ├── tratamento_internacoes.py   # trata os 4 arquivos do SIH
+│   ├── criar_banco_sqlite.py       # monta o banco de dados central
+│   ├── analise_exploratoria.py     # correlações e gráficos exploratórios
+│   └── modelagem_regressao.py      # regressão binomial negativa + checagem de VIF
 ├── outputs/
-├── GUIA_POWER_BI.md
+│   └── tabela_regressao_dcnt.csv   # resultado final da regressão (lido pelo painel)
 ├── requirements.txt
 └── README.md
 ```
@@ -94,122 +84,91 @@ dcnt-sc/
 ```bash
 pip install -r requirements.txt
 
-# 1. Dados socioeconômicos básicos do IBGE (automático)
-python src/coleta_ibge.py
+# 1. Dados socioeconômicos do IBGE
+#    (baixe manualmente do SIDRA seguindo as instruções em consolidar_ibge_manual.py,
+#    salve os 3 arquivos em data/raw/, depois rode:)
+python src/consolidar_ibge_manual.py
 
-# 2. Dados de mercado de trabalho (RAIS + CAGED via BigQuery)
-#    ver data/raw/COMO_CONFIGURAR_BASEDOSDADOS.md antes de rodar
-python src/coleta_rais_caged.py
+# 2. Baixe manualmente os 8 arquivos de saúde do TabNet — ver data/raw/COMO_BAIXAR_DADOS.md
 
-# 3. Baixe manualmente:
-#    - os 8 arquivos do TabNet — ver data/raw/COMO_BAIXAR_DADOS.md
-#    - o Atlas Brasil — ver data/raw/COMO_ADICIONAR_ATLAS_BRASIL.md
-
-# 4. Trate os dados de saúde baixados
+# 3. Trate os dados de saúde baixados
 python src/tratamento_mortalidade.py
 python src/tratamento_internacoes.py
 
-# 5. Consolide todas as fontes socioeconômicas em uma única base
-python src/juntar_variaveis_socioeconomicas.py
+# 4. Monte o banco de dados central
+python src/criar_banco_sqlite.py
 
-# 6. Análise exploratória (correlações e gráficos)
+# 5. Análise exploratória (correlações e gráficos)
 python src/analise_exploratoria.py
 
-# 7. Redução de dimensionalidade e segmentação de municípios
-python src/pca_e_cluster.py
-
-# 8. Modelagem estatística (quais variáveis importam e quanto, com checagem de multicolinearidade)
+# 6. Modelagem estatística (regressão)
 python src/modelagem_regressao.py
 
-# 9. Exportar dataset pronto para o Power BI
-python src/exportar_powerbi.py
-
-# 10. Construir o painel — ver GUIA_POWER_BI.md
+# 7. Rode o painel
+streamlit run app.py
 ```
 
 ## 🧮 Metodologia estatística
 
-A pergunta "quais e como variáveis influenciam" exige mais do que correlação — uma regressão
-múltipla controla o efeito de cada variável isoladamente, considerando as demais. Como a
-variável de desfecho é uma contagem de óbitos (não uma medida contínua normal), o projeto usa
-**regressão Binomial Negativa com offset de população**, o padrão em epidemiologia para dados de
-contagem por área geográfica com populações de tamanhos diferentes. Os resultados são reportados
-como **Razão de Taxa de Incidência (IRR)**: valores acima de 1 indicam aumento de risco, abaixo
-de 1 indicam proteção, sempre por desvio-padrão de aumento na variável (as variáveis são
-padronizadas para permitir comparação direta de magnitude entre elas).
+A pergunta "quais variáveis influenciam e quanto" exige mais do que correlação simples — uma
+regressão múltipla controla o efeito de cada variável isoladamente, considerando as demais.
+Como a variável de desfecho é uma contagem de óbitos (não uma medida contínua normal), o
+projeto usa **regressão Binomial Negativa com offset de população** — o padrão em epidemiologia
+para dados de contagem por área geográfica com populações de tamanhos diferentes. Os resultados
+são reportados como **Razão de Taxa de Incidência (IRR)**: valores acima de 1 indicam aumento
+de risco, abaixo de 1 indicam proteção, sempre por desvio-padrão de aumento na variável
+(as variáveis são padronizadas para permitir comparação direta de magnitude entre elas).
 
-Com muitas variáveis socioeconômicas candidatas (PIB, renda per capita, Gini, IDHM etc.), várias
-delas medem dimensões parecidas e tendem a ser altamente correlacionadas entre si — isso é
-**multicolinearidade**, e infla a incerteza dos coeficientes estimados. O script
-`modelagem_regressao.py` calcula automaticamente o **VIF (Variance Inflation Factor)** de cada
-variável antes de reportar os resultados, alertando quando duas ou mais variáveis do modelo
-estão competindo pelo mesmo "crédito" estatístico — nesse caso, a recomendação é manter apenas
-uma variável por dimensão conceitual (ex.: escolher entre PIB *ou* renda per capita, não os
-dois), em vez de confiar cegamente nos coeficientes de um modelo com colinearidade alta.
-
-### Redução de dimensionalidade e segmentação (PCA e cluster)
-
-Com o número de variáveis socioeconômicas ampliado (IBGE + Atlas Brasil + RAIS/CAGED), duas
-técnicas complementares ajudam além da checagem de VIF:
-
-- **Análise de Componentes Principais (PCA)**: resume as variáveis originais em poucos "eixos"
-  compostos que capturam a maior parte da variação entre municípios, sem a redundância das
-  variáveis originais. Pode substituir as variáveis originais na regressão quando o VIF estiver
-  persistentemente alto.
-- **Cluster (k-means)**: agrupa municípios com perfil socioeconômico parecido, escolhendo o
-  número de grupos automaticamente via coeficiente de silhueta. Permite perguntas mais diretas
-  como "o cluster de municípios menos desenvolvidos tem mortalidade por DCNT
-  significativamente maior?" — e gera uma variável categórica útil como filtro no painel do
-  Power BI.
-
-### Próximos passos metodológicos (não implementados neste repositório, mas recomendados)
-
-- **Índice de Moran (autocorrelação espacial)**: municípios vizinhos tendem a compartilhar
-  determinantes socioeconômicos e ambientais — ignorar essa dependência espacial pode inflar
-  artificialmente a significância estatística da regressão. Bibliotecas como `esda`/`libpysal`
-  (Python) implementam isso.
-- **Random Forest (importância de variáveis)**: como checagem complementar não-paramétrica da
-  regressão — se as mesmas variáveis aparecem como relevantes nos dois métodos, a evidência
-  fica mais robusta.
-
-## 📈 Principais resultados
-
-*(a preencher conforme a análise avança)*
+O script `modelagem_regressao.py` também calcula automaticamente o **VIF (Variance Inflation
+Factor)** de cada variável, alertando sobre multicolinearidade — relevante caso o projeto seja
+estendido com mais variáveis no futuro (ver "Próximos passos" abaixo).
 
 ## 📝 Limitações
 
-- Dados de mortalidade/internação estão sujeitos a subnotificação e a qualidade do preenchimento
-  da causa básica de óbito, que varia entre municípios.
-- **Municípios pequenos podem ter taxas instáveis por conta do denominador populacional baixo**
-  (poucos casos geram taxas muito altas ou muito baixas por acaso). Essa limitação é tratada de
-  forma desigual entre as duas análises deste projeto:
-  - Na **modelagem por regressão** (`modelagem_regressao.py`), isso já é levado em conta
-    corretamente: o método (Binomial Negativa com offset de população) pondera explicitamente
-    pelo tamanho de cada município, em vez de tratar a taxa como um número plano — é o resultado
-    estatisticamente mais confiável do projeto.
-  - Na **tabela de correlação simples**, exploratória (`analise_exploratoria.py`), esse cuidado
-    **não é aplicado** — cada município entra com o mesmo peso, independente do tamanho da
-    população ou do número absoluto de casos. Um município pequeno com poucos casos pode gerar
-    uma taxa por 100 mil habitantes tão ou mais "extrema" quanto uma cidade grande com muito
-    mais casos, distorcendo a correlação. Trate essa parte como panorama descritivo inicial, não
-    como evidência robusta — a conclusão de peso do projeto vem da regressão.
-- Análise é ecológica (nível municipal) — correlações não implicam causalidade individual.
-- Letalidade hospitalar reflete apenas óbitos ocorridos dentro do sistema hospitalar SUS; não
-  captura óbitos domiciliares ou em rede privada sem AIH.
-- **Internações são "por local de internação", não "por local de residência"** — o DATASUS não
+- **Apenas 2 variáveis socioeconômicas foram efetivamente coletadas e modeladas**: PIB per
+  capita e taxa de urbanização. Outras variáveis relevantes (Índice de Gini, IDHM, renda per
+  capita, indicadores de mercado de trabalho via RAIS/CAGED) foram cogitadas durante o
+  desenvolvimento do projeto, mas não chegaram a ser coletadas — ver "Próximos passos".
+- Dados de mortalidade/internação estão sujeitos a subnotificação e à qualidade do
+  preenchimento da causa básica, que varia entre municípios.
+- **Municípios pequenos podem ter taxas instáveis** por conta do denominador populacional
+  baixo. Isso é tratado corretamente na regressão (que pondera pelo tamanho da população via
+  offset), mas **não** na tabela de correlação simples exploratória — trate essa parte como
+  panorama inicial, não como evidência robusta.
+- Análise é ecológica (nível municipal) — correlações/associações não implicam causalidade
+  individual.
+- **Internações são "por local de internação"**, não "por local de residência" — o DATASUS não
   disponibiliza publicamente a versão por residência com detalhamento de diagnóstico (CID-10)
-  de forma acessível. Isso significa que municípios-polo (com hospital) tendem a concentrar
-  números mais altos de internação, enquanto municípios menores que encaminham pacientes para
-  cidades vizinhas podem parecer artificialmente "mais saudáveis" nesse indicador específico.
-  Mortalidade (SIM) já é por local de ocorrência do óbito.
+  de forma acessível. Municípios-polo (com hospital) tendem a concentrar números mais altos de
+  internação; municípios menores que encaminham pacientes podem parecer artificialmente "mais
+  saudáveis" nesse indicador específico. Mortalidade (SIM) já é por local de ocorrência do óbito.
 - Por uma limitação do TabNet (a combinação "Internações + Óbitos" no mesmo conteúdo exige
   coluna inativa), os dados de internação não têm quebra por ano — são um total agregado do
   período inteiro (2019-2023), diferente da mortalidade, que mantém detalhamento anual.
+- Letalidade hospitalar reflete apenas óbitos ocorridos dentro do sistema hospitalar do SUS;
+  não captura óbitos domiciliares ou em rede privada sem AIH.
+
+## 🔮 Próximos passos (não implementados neste repositório)
+
+- **Mais variáveis socioeconômicas**: Índice de Gini, IDHM e renda per capita (via Atlas
+  Brasil/PNUD) e indicadores de mercado de trabalho (via RAIS/CAGED, usando a plataforma Base
+  dos Dados) foram cogitados durante o desenvolvimento, mas não foram efetivamente coletados.
+- **Índice de Moran (autocorrelação espacial)**: municípios vizinhos tendem a compartilhar
+  determinantes socioeconômicos e ambientais — ignorar essa dependência espacial pode inflar
+  artificialmente a significância estatística da regressão.
+- **Random Forest** como checagem complementar não-paramétrica da regressão.
+- **PCA e análise de cluster** para segmentar municípios por perfil socioeconômico — desenhado
+  mas não testado com o conjunto final de variáveis (que hoje tem só 2 candidatas).
 
 ## 🔧 Tecnologias
 
-Python 3.11 · pandas · requests · matplotlib/seaborn · scipy
+Python · pandas · SQLite · statsmodels (regressão Binomial Negativa) · Streamlit · Plotly ·
+Folium (mapa)
 
-## 👤 Autor
+## 👤 Autoria
 
-*(seu nome, LinkedIn, contato)*
+Análise, coleta de dados e desenvolvimento: **Letícia Borges**
+
+## 📄 Licença
+
+MIT — ver `LICENSE`

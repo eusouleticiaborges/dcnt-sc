@@ -402,10 +402,20 @@ def main():
     top15["PIB per capita"] = top15["pib_per_capita"].apply(formatar_reais)
     top15["Taxa (por 100 mil hab.)"] = top15["taxa_mortalidade_100k"].apply(lambda v: formatar_numero(v, 1))
     top15["Óbitos (período)"] = top15["obitos"].apply(lambda v: formatar_numero(v, 0))
+    top15["Letalidade hospitalar (%)"] = top15["taxa_letalidade_pct"].apply(
+        lambda v: formatar_numero(v, 1) if pd.notna(v) else "—"
+    )
     st.dataframe(
-        top15[["municipio", "População (Censo 2022)", "Óbitos (período)", "Taxa (por 100 mil hab.)", "PIB per capita"]]
-        .rename(columns={"municipio": "Município"}),
+        top15[[
+            "municipio", "População (Censo 2022)", "Óbitos (período)",
+            "Taxa (por 100 mil hab.)", "Letalidade hospitalar (%)", "PIB per capita",
+        ]].rename(columns={"municipio": "Município"}),
         width="stretch", hide_index=True,
+    )
+    st.caption(
+        "💡 Letalidade hospitalar = óbitos ocorridos durante internação ÷ total de internações "
+        "(no sistema hospitalar do SUS) — indica gravidade/desfecho dos casos internados, "
+        "diferente da taxa de mortalidade geral (que inclui óbitos fora do hospital também)."
     )
 
     st.divider()
