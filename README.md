@@ -7,10 +7,10 @@ Transmissíveis (DCNT) nos 295 municípios de Santa Catarina, com painel interat
 
 ## 🎯 Objetivo
 
-Identificar se, e como, indicadores socioeconômicos municipais (PIB per capita e taxa de
-urbanização) se associam à taxa de mortalidade, internação hospitalar e óbito das
+Identificar se — e como — indicadores socioeconômicos municipais (PIB per capita e taxa de
+urbanização) se associam à mortalidade, internação hospitalar e letalidade hospitalar das
 quatro principais DCNT (cardiovascular, câncer, diabetes e doenças respiratórias crônicas) em
-Santa Catarina, usando modelagem estatística formal, não apenas correlação simples.
+Santa Catarina, usando modelagem estatística formal — não apenas correlação simples.
 
 ## 📈 Principais resultados
 
@@ -23,7 +23,7 @@ A regressão (Binomial Negativa, ver metodologia abaixo) encontrou:
   - Diabetes: +12,4%
   - Respiratória crônica: +11,0%
 - **PIB per capita** não apresentou efeito estatisticamente significativo em nenhum dos 4
-  grupos neste recorte de variáveis, resultado válido de reportar quanto um efeito
+  grupos neste recorte de variáveis — um resultado tão válido de reportar quanto um efeito
   significativo, já que contraria a intuição de que "cidade mais rica é mais saudável" de
   forma simplista.
 
@@ -41,7 +41,7 @@ município, ranking, e a tabela completa de coeficientes da regressão.
 
 **Nota sobre o IBGE**: a coleta automática via API foi tentada primeiro, mas se mostrou pouco
 confiável durante o desenvolvimento (tabelas com nomes de coluna inconsistentes, períodos
-indisponíveis). O caminho que efetivamente funcionou foi baixar manualmente do SIDRA e consolidar
+indisponíveis). O caminho que efetivamente funciona é baixar manualmente do SIDRA e consolidar
 com `src/consolidar_ibge_manual.py` — ver instruções em `data/raw/COMO_BAIXAR_DADOS.md` para a
 parte de saúde, e o próprio script para a parte do IBGE.
 
@@ -52,6 +52,10 @@ parte de saúde, e o próprio script para a parte do IBGE.
 - **Letalidade hospitalar** (óbitos ocorridos durante internação ÷ total de internações) —
   indica gravidade/desfecho dos casos que chegam a ser internados, diferente da taxa de
   mortalidade geral (que inclui óbitos fora do ambiente hospitalar)
+- **Taxa de urbanização** (população urbana ÷ população total × 100, Censo 2022) — percentual
+  da população do município vivendo em área classificada como urbana (em vez de rural). Essa é
+  uma classificação administrativa (definida pelo perímetro urbano oficial de cada município,
+  não por características territoriais reais), que é o padrão usado pelo IBGE em todo o Brasil.
 
 ## 🗂️ Estrutura do repositório
 
@@ -110,10 +114,10 @@ streamlit run app.py
 
 ## 🧮 Metodologia estatística
 
-A pergunta "quais variáveis influenciam e quanto" exige mais do que correlação simples, uma
+A pergunta "quais variáveis influenciam e quanto" exige mais do que correlação simples — uma
 regressão múltipla controla o efeito de cada variável isoladamente, considerando as demais.
 Como a variável de desfecho é uma contagem de óbitos (não uma medida contínua normal), o
-projeto usa **regressão Binomial Negativa com offset de população**, o padrão em epidemiologia
+projeto usa **regressão Binomial Negativa com offset de população** — o padrão em epidemiologia
 para dados de contagem por área geográfica com populações de tamanhos diferentes. Os resultados
 são reportados como **Razão de Taxa de Incidência (IRR)**: valores acima de 1 indicam aumento
 de risco, abaixo de 1 indicam proteção, sempre por desvio-padrão de aumento na variável

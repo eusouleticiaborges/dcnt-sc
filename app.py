@@ -393,6 +393,10 @@ def main():
             yaxis=dict(title_font=dict(size=15), tickfont=dict(size=13)),
         )
         st.plotly_chart(fig_urb, width="stretch")
+        st.caption(
+            "💡 Taxa de urbanização = % da população vivendo em área classificada como urbana "
+            "(perímetro urbano oficial do município), em vez de área rural — dado do Censo 2022."
+        )
 
     st.divider()
 
