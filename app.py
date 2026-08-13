@@ -25,6 +25,7 @@ from streamlit_folium import st_folium
 DB_PATH = Path(__file__).parent / "data" / "dcnt_sc.db"
 REGRESSAO_PATH = Path(__file__).parent / "outputs" / "tabela_regressao_dcnt.csv"
 GEOJSON_PATH = Path(__file__).parent / "data" / "sc_municipios.geojson"
+GEOJSON_FECAM_PATH = Path(__file__).parent / "data" / "sc_fecam.geojson"
 
 ICONE_GRUPO = {
     "Cardiovascular": "❤️",
@@ -117,6 +118,74 @@ def carregar_dados():
     internacoes = pd.read_sql("SELECT * FROM fato_internacoes", conexao)
     conexao.close()
     return dim, mortalidade, internacoes
+
+
+@st.cache_data
+def carregar_fecam():
+    if not DB_PATH.exists():
+        return None
+    conexao = sqlite3.connect(DB_PATH)
+    try:
+        fecam = pd.read_sql("SELECT * FROM dim_fecam", conexao)
+    except Exception:
+        fecam = None
+    conexao.close()
+    return fecam
+
+
+@st.cache_data
+def carregar_geojson_fecam():
+    if not GEOJSON_FECAM_PATH.exists():
+        return None
+    with open(GEOJSON_FECAM_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def montar_base_fecam(dim, mortalidade, internacoes, fecam, grupo):
+    """
+    Agrega óbitos e internações por Associação de Municípios (FECAM).
+
+    Calcula DUAS métricas, que respondem perguntas diferentes:
+    - Valor absoluto: útil para planejamento de recursos (quanto maior a associação/população,
+      naturalmente mais casos).
+    - Taxa (por 100 mil hab.), calculada sobre os TOTAIS agregados da associação (soma de
+      óbitos ÷ soma de população, não a média das taxas de cada município individualmente) —
+      útil para comparar risco proporcional entre associações de tamanhos diferentes. Agregar
+      antes de calcular a taxa estabiliza bastante o problema de instabilidade estatística que
+      afeta municípios pequenos isoladamente, já que o denominador populacional agregado fica
+      bem maior.
+    """
+    mort_grupo = (
+        mortalidade[mortalidade["grupo_dcnt"] == grupo]
+        .groupby("codigo_ibge")["obitos"]
+        .sum()
+        .reset_index()
+    )
+    intern_grupo = internacoes[internacoes["grupo_dcnt"] == grupo][
+        ["codigo_ibge", "internacoes", "obitos_hospitalares"]
+    ]
+
+    fecam_map = fecam[["id_municipio_ibge", "fecam", "municipio"]].rename(
+        columns={"id_municipio_ibge": "codigo_ibge"}
+    )
+
+    base = fecam_map.merge(mort_grupo, on="codigo_ibge", how="left")
+    base = base.merge(intern_grupo, on="codigo_ibge", how="left")
+    base = base.merge(dim[["codigo_ibge", "populacao_censo2022"]], on="codigo_ibge", how="left")
+    base[["obitos", "internacoes", "obitos_hospitalares"]] = base[
+        ["obitos", "internacoes", "obitos_hospitalares"]
+    ].fillna(0)
+
+    agregado = base.groupby("fecam", as_index=False).agg(
+        obitos=("obitos", "sum"),
+        internacoes=("internacoes", "sum"),
+        obitos_hospitalares=("obitos_hospitalares", "sum"),
+        populacao_total=("populacao_censo2022", "sum"),
+        n_municipios=("codigo_ibge", "nunique"),
+    )
+    agregado["taxa_mortalidade_100k"] = agregado["obitos"] / agregado["populacao_total"] * 100_000
+    agregado["taxa_internacao_100k"] = agregado["internacoes"] / agregado["populacao_total"] * 100_000
+    return agregado
 
 
 @st.cache_data
@@ -293,7 +362,7 @@ def main():
     col_mapa, col_barras = st.columns([1.3, 1])
 
     with col_mapa:
-        st.subheader(f"{icone} Mortalidade por município")
+        st.subheader(f"{icone} Taxa de mortalidade por município")
         if geojson_sc is not None:
             geojson_com_dados = preparar_geojson_com_dados(geojson_sc, base_filtrada)
             mapa = montar_mapa_folium(geojson_com_dados, base_filtrada, grupo_selecionado)
@@ -343,7 +412,98 @@ def main():
 
     st.divider()
 
-    st.subheader("O que se relaciona com a mortalidade")
+    # --- Mapa por Associação de Municípios (FECAM), em valores absolutos ---
+    fecam = carregar_fecam()
+    geojson_fecam = carregar_geojson_fecam()
+
+    if fecam is not None and geojson_fecam is not None:
+        st.subheader(f"{icone} Óbitos e internações por Associação de Municípios (FECAM)")
+
+        with st.expander("ℹ️ Valor absoluto ou taxa? As duas métricas respondem perguntas diferentes"):
+            st.markdown(
+                "- **Valor absoluto** (total de óbitos/internações): responde *\"onde está a "
+                "maior carga total de doença?\"* — útil para planejamento de recursos (leitos, "
+                "equipe, orçamento). Associações com mais municípios/população naturalmente "
+                "somam mais casos, mesmo sem nenhum padrão de saúde diferenciado por trás.\n"
+                "- **Taxa (por 100 mil hab.)**: responde *\"onde o risco proporcional é maior, "
+                "já descontando o tamanho da população?\"* — permite comparar associações de "
+                "tamanhos bem diferentes de forma justa. Calculada sobre os **totais agregados** "
+                "da associação (soma de óbitos ÷ soma de população), não a média das taxas dos "
+                "municípios individualmente — isso já estabiliza bastante o problema de "
+                "instabilidade estatística que afeta municípios pequenos isolados.\n\n"
+                "Nenhuma das duas está \"certa\" sozinha — escolha a métrica de acordo com a "
+                "pergunta que você quer responder."
+            )
+
+        metrica_fecam = st.radio(
+            "Ver mapa e ranking por:",
+            ["Valores absolutos", "Taxa (por 100 mil hab.)"],
+            horizontal=True,
+        )
+
+        base_fecam = montar_base_fecam(dim, mortalidade, internacoes, fecam, grupo_selecionado)
+
+        if metrica_fecam == "Valores absolutos":
+            coluna_cor = "obitos"
+            rotulo_cor = f"Óbitos (total) — {grupo_selecionado}"
+        else:
+            coluna_cor = "taxa_mortalidade_100k"
+            rotulo_cor = "Taxa de mortalidade (por 100 mil hab.)"
+
+        col_mapa_fecam, col_ranking_fecam = st.columns([1.3, 1])
+
+        with col_mapa_fecam:
+            fig_mapa_fecam = px.choropleth(
+                base_fecam,
+                geojson=geojson_fecam,
+                locations="fecam",
+                featureidkey="properties.fecam",
+                color=coluna_cor,
+                color_continuous_scale="Reds",
+                hover_name="fecam",
+                hover_data={
+                    "fecam": False,
+                    "obitos": ":.0f",
+                    "internacoes": ":.0f",
+                    "taxa_mortalidade_100k": ":.1f",
+                    "n_municipios": True,
+                },
+                labels={
+                    "obitos": f"Óbitos (total) — {grupo_selecionado}",
+                    "internacoes": f"Internações (total) — {grupo_selecionado}",
+                    "taxa_mortalidade_100k": "Taxa de mortalidade (/100 mil hab.)",
+                    "n_municipios": "Nº de municípios",
+                },
+            )
+            fig_mapa_fecam.update_geos(fitbounds="locations", visible=False)
+            fig_mapa_fecam.update_layout(
+                margin={"r": 0, "t": 10, "l": 0, "b": 0}, height=440,
+                coloraxis_colorbar_title=rotulo_cor,
+            )
+            st.plotly_chart(fig_mapa_fecam, width="stretch")
+
+        with col_ranking_fecam:
+            st.markdown(f"**Ranking de Associações ({metrica_fecam.lower()})**")
+            ranking_fecam = base_fecam.sort_values(coluna_cor, ascending=False).copy()
+            ranking_fecam["Associação"] = ranking_fecam["fecam"].str.upper()
+            ranking_fecam["Óbitos"] = ranking_fecam["obitos"].apply(lambda v: formatar_numero(v, 0))
+            ranking_fecam["Internações"] = ranking_fecam["internacoes"].apply(lambda v: formatar_numero(v, 0))
+            ranking_fecam["Taxa de mortalidade (/100 mil)"] = ranking_fecam["taxa_mortalidade_100k"].apply(
+                lambda v: formatar_numero(v, 1)
+            )
+            ranking_fecam["Municípios"] = ranking_fecam["n_municipios"]
+            st.dataframe(
+                ranking_fecam[[
+                    "Associação", "Óbitos", "Internações",
+                    "Taxa de mortalidade (/100 mil)", "Municípios",
+                ]],
+                width="stretch", hide_index=True, height=420,
+            )
+
+        st.divider()
+
+    st.subheader("Correlação entre indicadores socioeconômicos e taxa de mortalidade por DCNT")
+
 
     base_filtrada = base_filtrada.copy()
     base_filtrada["destaque"] = base_filtrada["municipio"].isin(municipios_selecionados)
@@ -354,7 +514,7 @@ def main():
         fig_pib = px.scatter(
             base_filtrada, x="pib_per_capita", y="taxa_mortalidade_100k",
             hover_name="municipio", size="populacao_censo2022",
-            color="destaque", color_discrete_map={True: "#dc2626", False: "#93c5fd"},
+            color="destaque", color_discrete_map={True: "#7f1d1d", False: "#f87171"},
             title="PIB per capita e mortalidade",
             labels={
                 "pib_per_capita": "PIB per capita (R$)",
@@ -376,7 +536,7 @@ def main():
         fig_urb = px.scatter(
             base_filtrada, x="taxa_urbanizacao_pct", y="taxa_mortalidade_100k",
             hover_name="municipio", size="populacao_censo2022",
-            color="destaque", color_discrete_map={True: "#dc2626", False: "#93c5fd"},
+            color="destaque", color_discrete_map={True: "#7f1d1d", False: "#f87171"},
             title="Taxa de urbanização e mortalidade",
             labels={
                 "taxa_urbanizacao_pct": "Taxa de urbanização (%)",
@@ -400,19 +560,30 @@ def main():
 
     st.divider()
 
-    st.subheader(f"Top 15 municípios por mortalidade — {grupo_selecionado}")
-    top15 = base_filtrada.sort_values("taxa_mortalidade_100k", ascending=False).head(15).copy()
-    top15["População (Censo 2022)"] = top15["populacao_censo2022"].apply(lambda v: formatar_numero(v, 0))
-    top15["PIB per capita"] = top15["pib_per_capita"].apply(formatar_reais)
-    top15["Taxa (por 100 mil hab.)"] = top15["taxa_mortalidade_100k"].apply(lambda v: formatar_numero(v, 1))
-    top15["Óbitos (período)"] = top15["obitos"].apply(lambda v: formatar_numero(v, 0))
-    top15["Letalidade hospitalar (%)"] = top15["taxa_letalidade_pct"].apply(
+    st.subheader(f"Ranking da taxa de mortalidade por município — {grupo_selecionado}")
+
+    if municipios_selecionados:
+        tabela_base = base_filtrada[base_filtrada["municipio"].isin(municipios_selecionados)].copy()
+        st.caption(f"Mostrando os {len(tabela_base)} município(s) selecionado(s) no filtro lateral.")
+    else:
+        tabela_base = base_filtrada.sort_values("taxa_mortalidade_100k", ascending=False).head(15).copy()
+        st.caption(
+            "Mostrando os 15 municípios com maior taxa de mortalidade. Use o filtro "
+            "\"Destacar município(s) específico(s)\" na barra lateral para ver outros municípios aqui."
+        )
+
+    tabela_base = tabela_base.sort_values("taxa_mortalidade_100k", ascending=False)
+    tabela_base["População (Censo 2022)"] = tabela_base["populacao_censo2022"].apply(lambda v: formatar_numero(v, 0))
+    tabela_base["PIB per capita"] = tabela_base["pib_per_capita"].apply(formatar_reais)
+    tabela_base["Taxa de mortalidade (por 100 mil hab.)"] = tabela_base["taxa_mortalidade_100k"].apply(lambda v: formatar_numero(v, 1))
+    tabela_base["Óbitos (período)"] = tabela_base["obitos"].apply(lambda v: formatar_numero(v, 0))
+    tabela_base["Letalidade hospitalar (%)"] = tabela_base["taxa_letalidade_pct"].apply(
         lambda v: formatar_numero(v, 1) if pd.notna(v) else "—"
     )
     st.dataframe(
-        top15[[
+        tabela_base[[
             "municipio", "População (Censo 2022)", "Óbitos (período)",
-            "Taxa (por 100 mil hab.)", "Letalidade hospitalar (%)", "PIB per capita",
+            "Taxa de mortalidade (por 100 mil hab.)", "Letalidade hospitalar (%)", "PIB per capita",
         ]].rename(columns={"municipio": "Município"}),
         width="stretch", hide_index=True,
     )
@@ -424,8 +595,30 @@ def main():
 
     st.divider()
 
-    st.subheader("📐 O que a regressão estatística diz")
-    st.caption("Efeito de cada variável controlando pelas demais — mais confiável que a correlação simples.")
+    st.subheader("📐 Análise de Regressão")
+    st.markdown(
+        "Enquanto os gráficos anteriores mostram a **correlação simples** entre uma variável e "
+        "a mortalidade, essa análise usa um modelo estatístico (**regressão Binomial Negativa**) "
+        "que avalia o efeito de cada variável **controlando pelas demais ao mesmo tempo** — ou "
+        "seja, isola o efeito de, por exemplo, urbanização, considerando que o PIB também está "
+        "sendo levado em conta. Isso é mais confiável do que olhar cada variável isoladamente."
+    )
+    with st.expander("📖 Como interpretar a tabela abaixo"):
+        st.markdown(
+            "- **IRR (Razão de Taxa de Incidência)**: o quanto a taxa de mortalidade muda para "
+            "cada aumento de 1 desvio-padrão na variável, mantendo as demais constantes.\n"
+            "  - IRR **maior que 1** → a variável está associada a **mais** mortalidade "
+            "(quanto maior o IRR, maior o efeito).\n"
+            "  - IRR **menor que 1** → a variável está associada a **menos** mortalidade "
+            "(efeito protetor).\n"
+            "  - IRR próximo de 1 → a variável praticamente não altera a taxa de mortalidade.\n"
+            "- **p-valor**: a probabilidade de esse efeito ter surgido por acaso. Valores "
+            "**abaixo de 0,05** são considerados estatisticamente significativos — ou seja, o "
+            "efeito provavelmente é real, não coincidência.\n"
+            "- **Signif. (5%)**: resume o p-valor em Sim/Não. **Só confie no efeito (IRR) de "
+            "uma variável quando essa coluna estiver marcada** — sem significância "
+            "estatística, o IRR pode ser fruto do acaso, mesmo que pareça um número alto."
+        )
 
     regressao = carregar_regressao()
     if regressao is not None:

@@ -13,6 +13,7 @@ data/raw/*.csv
 !data/raw/sim/.gitkeep
 !data/raw/sih/.gitkeep
 !data/raw/COMO_BAIXAR_DADOS.md
+!data/raw/d_fecam_municipio.csv
 !data/processed/.gitkeep
 
 # Python

@@ -1,0 +1,296 @@
+﻿fecam;municipio;id_municipio_antigo;municipio_caixa_alta;municipio_caixa_baixa;municipio_slug;fecam_caixa_alta;fecam_caixa_baixa;fecam_slug;id;id_municipio_ibge;municipio_sem_acento
+AMVE;Apiúna;420125;APIÚNA;apiúna;apiuna;AMVE;amve;amve;0;4201257;Apiuna
+AMVE;Ascurra;420170;ASCURRA;ascurra;ascurra;AMVE;amve;amve;1;4201703;Ascurra
+AMVE;Benedito Novo;420220;BENEDITO NOVO;benedito novo;benedito_novo;AMVE;amve;amve;2;4202206;Benedito Novo
+AMVE;Blumenau;420240;BLUMENAU;blumenau;blumenau;AMVE;amve;amve;3;4202404;Blumenau
+AMVE;Botuverá;420270;BOTUVERÁ;botuverá;botuvera;AMVE;amve;amve;4;4202701;Botuvera
+AMVE;Brusque;420290;BRUSQUE;brusque;brusque;AMVE;amve;amve;5;4202909;Brusque
+AMVE;Doutor Pedrinho;420515;DOUTOR PEDRINHO;doutor pedrinho;doutor_pedrinho;AMVE;amve;amve;6;4205159;Doutor Pedrinho
+AMVE;Gaspar;420590;GASPAR;gaspar;gaspar;AMVE;amve;amve;7;4205902;Gaspar
+AMVE;Guabiruba;420630;GUABIRUBA;guabiruba;guabiruba;AMVE;amve;amve;8;4206306;Guabiruba
+AMVE;Indaial;420750;INDAIAL;indaial;indaial;AMVE;amve;amve;9;4207502;Indaial
+AMVE;Pomerode;421320;POMERODE;pomerode;pomerode;AMVE;amve;amve;10;4213203;Pomerode
+AMVE;Rio dos Cedros;421470;RIO DOS CEDROS;rio dos cedros;rio_dos_cedros;AMVE;amve;amve;11;4214706;Rio dos Cedros
+AMVE;Rodeio;421510;RODEIO;rodeio;rodeio;AMVE;amve;amve;12;4215109;Rodeio
+AMVE;Timbó;421820;TIMBÓ;timbó;timbo;AMVE;amve;amve;13;4218202;Timbo
+Amunesc;Araquari;420130;ARAQUARI;araquari;araquari;AMUNESC;amunesc;amunesc;14;4201307;Araquari
+Amunesc;Balneário Barra do Sul;420205;BALNEÁRIO BARRA DO SUL;balneário barra do sul;balneario_barra_do_sul;AMUNESC;amunesc;amunesc;15;4202057;Balneario Barra do Sul
+Amunesc;Campo Alegre;420330;CAMPO ALEGRE;campo alegre;campo_alegre;AMUNESC;amunesc;amunesc;16;4203303;Campo Alegre
+Amunesc;Garuva;420580;GARUVA;garuva;garuva;AMUNESC;amunesc;amunesc;17;4205803;Garuva
+Amunesc;Itapoá;420845;ITAPOÁ;itapoá;itapoa;AMUNESC;amunesc;amunesc;18;4208450;Itapoa
+Amunesc;Joinville;420910;JOINVILLE;joinville;joinville;AMUNESC;amunesc;amunesc;19;4209102;Joinville
+Amunesc;Rio Negrinho;421500;RIO NEGRINHO;rio negrinho;rio_negrinho;AMUNESC;amunesc;amunesc;20;4215000;Rio Negrinho
+Amunesc;São Bento do Sul;421580;SÃO BENTO DO SUL;são bento do sul;sao_bento_do_sul;AMUNESC;amunesc;amunesc;21;4215802;Sao Bento do Sul
+Amunesc;São Francisco do Sul;421620;SÃO FRANCISCO DO SUL;são francisco do sul;sao_francisco_do_sul;AMUNESC;amunesc;amunesc;22;4216206;Sao Francisco do Sul
+AMVALI;Barra Velha;420210;BARRA VELHA;barra velha;barra_velha;AMVALI;amvali;amvali;23;4202107;Barra Velha
+AMVALI;Corupá;420450;CORUPÁ;corupá;corupa;AMVALI;amvali;amvali;24;4204509;Corupa
+AMVALI;Guaramirim;420650;GUARAMIRIM;guaramirim;guaramirim;AMVALI;amvali;amvali;25;4206504;Guaramirim
+AMVALI;Jaraguá do Sul;420890;JARAGUÁ DO SUL;jaraguá do sul;jaragua_do_sul;AMVALI;amvali;amvali;26;4208906;Jaragua do Sul
+AMVALI;Massaranduba;421060;MASSARANDUBA;massaranduba;massaranduba;AMVALI;amvali;amvali;27;4210605;Massaranduba
+AMVALI;São João do Itaperiú;421635;SÃO JOÃO DO ITAPERIÚ;são joão do itaperiú;sao_joao_do_itaperiu;AMVALI;amvali;amvali;28;4216354;Sao Joao do Itaperiu
+AMVALI;Schroeder;421740;SCHROEDER;schroeder;schroeder;AMVALI;amvali;amvali;29;4217402;Schroeder
+AMFRI;Balneário Camboriú;420200;BALNEÁRIO CAMBORIÚ;balneário camboriú;balneario_camboriu;AMFRI;amfri;amfri;30;4202008;Balneario Camboriu
+AMFRI;Balneário Piçarras;421280;BALNEÁRIO PIÇARRAS;balneário piçarras;balneario_picarras;AMFRI;amfri;amfri;31;4212809;Balneario Picarras
+AMFRI;Bombinhas;420245;BOMBINHAS;bombinhas;bombinhas;AMFRI;amfri;amfri;32;4202453;Bombinhas
+AMFRI;Camboriú;420320;CAMBORIÚ;camboriú;camboriu;AMFRI;amfri;amfri;33;4203204;Camboriu
+AMFRI;Ilhota;420710;ILHOTA;ilhota;ilhota;AMFRI;amfri;amfri;34;4207106;Ilhota
+AMFRI;Itajaí;420820;ITAJAÍ;itajaí;itajai;AMFRI;amfri;amfri;35;4208203;Itajai
+AMFRI;Itapema;420830;ITAPEMA;itapema;itapema;AMFRI;amfri;amfri;36;4208302;Itapema
+AMFRI;Luiz Alves;421000;LUIZ ALVES;luiz alves;luiz_alves;AMFRI;amfri;amfri;37;4210001;Luiz Alves
+AMFRI;Navegantes;421130;NAVEGANTES;navegantes;navegantes;AMFRI;amfri;amfri;38;4211306;Navegantes
+AMFRI;Penha;421250;PENHA;penha;penha;AMFRI;amfri;amfri;39;4212502;Penha
+AMFRI;Porto Belo;421350;PORTO BELO;porto belo;porto_belo;AMFRI;amfri;amfri;40;4213500;Porto Belo
+Granfpolis;Águas Mornas;420060;ÁGUAS MORNAS;águas mornas;aguas_mornas;GRANFPOLIS;granfpolis;granfpolis;41;4200606;Aguas Mornas
+Granfpolis;Alfredo Wagner;420070;ALFREDO WAGNER;alfredo wagner;alfredo_wagner;GRANFPOLIS;granfpolis;granfpolis;42;4200705;Alfredo Wagner
+Granfpolis;Angelina;420090;ANGELINA;angelina;angelina;GRANFPOLIS;granfpolis;granfpolis;43;4200903;Angelina
+Granfpolis;Anitápolis;420110;ANITÁPOLIS;anitápolis;anitapolis;GRANFPOLIS;granfpolis;granfpolis;44;4201109;Anitapolis
+Granfpolis;Antônio Carlos;420120;ANTÔNIO CARLOS;antônio carlos;antonio_carlos;GRANFPOLIS;granfpolis;granfpolis;45;4201208;Antonio Carlos
+Granfpolis;Biguaçu;420230;BIGUAÇU;biguaçu;biguacu;GRANFPOLIS;granfpolis;granfpolis;46;4202305;Biguacu
+Granfpolis;Canelinha;420370;CANELINHA;canelinha;canelinha;GRANFPOLIS;granfpolis;granfpolis;47;4203709;Canelinha
+Granfpolis;Florianópolis;420540;FLORIANÓPOLIS;florianópolis;florianopolis;GRANFPOLIS;granfpolis;granfpolis;48;4205407;Florianopolis
+Granfpolis;Garopaba;420570;GAROPABA;garopaba;garopaba;GRANFPOLIS;granfpolis;granfpolis;49;4205704;Garopaba
+Granfpolis;Governador Celso Ramos;420600;GOVERNADOR CELSO RAMOS;governador celso ramos;governador_celso_ramos;GRANFPOLIS;granfpolis;granfpolis;50;4206009;Governador Celso Ramos
+Granfpolis;Leoberto Leal;420980;LEOBERTO LEAL;leoberto leal;leoberto_leal;GRANFPOLIS;granfpolis;granfpolis;51;4209805;Leoberto Leal
+Granfpolis;Major Gercino;421020;MAJOR GERCINO;major gercino;major_gercino;GRANFPOLIS;granfpolis;granfpolis;52;4210209;Major Gercino
+Granfpolis;Nova Trento;421150;NOVA TRENTO;nova trento;nova_trento;GRANFPOLIS;granfpolis;granfpolis;53;4211504;Nova Trento
+Granfpolis;Palhoça;421190;PALHOÇA;palhoça;palhoca;GRANFPOLIS;granfpolis;granfpolis;54;4211900;Palhoca
+Granfpolis;Paulo Lopes;421230;PAULO LOPES;paulo lopes;paulo_lopes;GRANFPOLIS;granfpolis;granfpolis;55;4212304;Paulo Lopes
+Granfpolis;Rancho Queimado;421430;RANCHO QUEIMADO;rancho queimado;rancho_queimado;GRANFPOLIS;granfpolis;granfpolis;56;4214300;Rancho Queimado
+Granfpolis;Santo Amaro da Imperatriz;421570;SANTO AMARO DA IMPERATRIZ;santo amaro da imperatriz;santo_amaro_da_imperatriz;GRANFPOLIS;granfpolis;granfpolis;57;4215703;Santo Amaro da Imperatriz
+Granfpolis;São Bonifácio;421590;SÃO BONIFÁCIO;são bonifácio;sao_bonifacio;GRANFPOLIS;granfpolis;granfpolis;58;4215901;Sao Bonifacio
+Granfpolis;São João Batista;421630;SÃO JOÃO BATISTA;são joão batista;sao_joao_batista;GRANFPOLIS;granfpolis;granfpolis;59;4216305;Sao Joao Batista
+Granfpolis;São José;421660;SÃO JOSÉ;são josé;sao_jose;GRANFPOLIS;granfpolis;granfpolis;60;4216602;Sao Jose
+Granfpolis;São Pedro de Alcântara;421725;SÃO PEDRO DE ALCÂNTARA;são pedro de alcântara;sao_pedro_de_alcantara;GRANFPOLIS;granfpolis;granfpolis;61;4217253;Sao Pedro de Alcantara
+Granfpolis;Tijucas;421800;TIJUCAS;tijucas;tijucas;GRANFPOLIS;granfpolis;granfpolis;62;4218004;Tijucas
+Amurel;Armazém;420150;ARMAZÉM;armazém;armazem;AMUREL;amurel;amurel;63;4201505;Armazem
+Amurel;Braço do Norte;420280;BRAÇO DO NORTE;braço do norte;braco_do_norte;AMUREL;amurel;amurel;64;4202800;Braco do Norte
+Amurel;Capivari de Baixo;420395;CAPIVARI DE BAIXO;capivari de baixo;capivari_de_baixo;AMUREL;amurel;amurel;65;4203956;Capivari de Baixo
+Amurel;Grão Pará;420610;GRÃO PARÁ;grão pará;grao_para;AMUREL;amurel;amurel;66;4206108;Grao Para
+Amurel;Gravatal;420620;GRAVATAL;gravatal;gravatal;AMUREL;amurel;amurel;67;4206207;Gravatal
+Amurel;Imaruí;420720;IMARUÍ;imaruí;imarui;AMUREL;amurel;amurel;68;4207205;Imarui
+Amurel;Imbituba;420730;IMBITUBA;imbituba;imbituba;AMUREL;amurel;amurel;69;4207304;Imbituba
+Amurel;Jaguaruna;420880;JAGUARUNA;jaguaruna;jaguaruna;AMUREL;amurel;amurel;70;4208807;Jaguaruna
+Amurel;Laguna;420940;LAGUNA;laguna;laguna;AMUREL;amurel;amurel;71;4209409;Laguna
+Amurel;Pedras Grandes;421240;PEDRAS GRANDES;pedras grandes;pedras_grandes;AMUREL;amurel;amurel;72;4212403;Pedras Grandes
+Amurel;Pescaria Brava;421265;PESCARIA BRAVA;pescaria brava;pescaria_brava;AMUREL;amurel;amurel;73;4212650;Pescaria Brava
+Amurel;Rio Fortuna;421490;RIO FORTUNA;rio fortuna;rio_fortuna;AMUREL;amurel;amurel;74;4214904;Rio Fortuna
+Amurel;Sangão;421545;SANGÃO;sangão;sangao;AMUREL;amurel;amurel;75;4215455;Sangao
+Amurel;Santa Rosa de Lima;421560;SANTA ROSA DE LIMA;santa rosa de lima;santa_rosa_de_lima;AMUREL;amurel;amurel;76;4215604;Santa Rosa de Lima
+Amurel;São Ludgero;421700;SÃO LUDGERO;são ludgero;sao_ludgero;AMUREL;amurel;amurel;77;4217006;Sao Ludgero
+Amurel;São Martinho;421710;SÃO MARTINHO;são martinho;sao_martinho;AMUREL;amurel;amurel;78;4217105;Sao Martinho
+Amurel;Treze de Maio;421840;TREZE DE MAIO;treze de maio;treze_de_maio;AMUREL;amurel;amurel;79;4218400;Treze de Maio
+Amurel;Tubarão;421870;TUBARÃO;tubarão;tubarao;AMUREL;amurel;amurel;80;4218707;Tubarao
+Amrec;Balneário Rincão;422000;BALNEÁRIO RINCÃO;balneário rincão;balneario_rincao;AMREC;amrec;amrec;81;4220000;Balneario Rincao
+Amrec;Cocal do Sul;420425;COCAL DO SUL;cocal do sul;cocal_do_sul;AMREC;amrec;amrec;82;4204251;Cocal do Sul
+Amrec;Criciúma;420460;CRICIÚMA;criciúma;criciuma;AMREC;amrec;amrec;83;4204608;Criciuma
+Amrec;Forquilhinha;420545;FORQUILHINHA;forquilhinha;forquilhinha;AMREC;amrec;amrec;84;4205456;Forquilhinha
+Amrec;Içara;420700;IÇARA;içara;icara;AMREC;amrec;amrec;85;4207007;Icara
+Amrec;Lauro Müller;420960;LAURO MÜLLER;lauro müller;lauro_muller;AMREC;amrec;amrec;86;4209607;Lauro Muller
+Amrec;Morro da Fumaça;421120;MORRO DA FUMAÇA;morro da fumaça;morro_da_fumaca;AMREC;amrec;amrec;87;4211207;Morro da Fumaca
+Amrec;Nova Veneza;421160;NOVA VENEZA;nova veneza;nova_veneza;AMREC;amrec;amrec;88;4211603;Nova Veneza
+Amrec;Orleans;421170;ORLEANS;orleans;orleans;AMREC;amrec;amrec;89;4211702;Orleans
+Amrec;Siderópolis;421760;SIDERÓPOLIS;siderópolis;sideropolis;AMREC;amrec;amrec;90;4217600;Sideropolis
+Amrec;Treviso;421835;TREVISO;treviso;treviso;AMREC;amrec;amrec;91;4218350;Treviso
+Amrec;Urussanga;421900;URUSSANGA;urussanga;urussanga;AMREC;amrec;amrec;92;4219002;Urussanga
+Amesc;Araranguá;420140;ARARANGUÁ;araranguá;ararangua;AMESC;amesc;amesc;93;4201406;Ararangua
+Amesc;Balneário Arroio do Silva;420195;BALNEÁRIO ARROIO DO SILVA;balneário arroio do silva;balneario_arroio_do_silva;AMESC;amesc;amesc;94;4201950;Balneario Arroio do Silva
+Amesc;Balneário Gaivota;420207;BALNEÁRIO GAIVOTA;balneário gaivota;balneario_gaivota;AMESC;amesc;amesc;95;4202073;Balneario Gaivota
+Amesc;Ermo;420519;ERMO;ermo;ermo;AMESC;amesc;amesc;96;4205191;Ermo
+Amesc;Jacinto Machado;420870;JACINTO MACHADO;jacinto machado;jacinto_machado;AMESC;amesc;amesc;97;4208708;Jacinto Machado
+Amesc;Maracajá;421040;MARACAJÁ;maracajá;maracaja;AMESC;amesc;amesc;98;4210407;Maracaja
+Amesc;Meleiro;421080;MELEIRO;meleiro;meleiro;AMESC;amesc;amesc;99;4210803;Meleiro
+Amesc;Morro Grande;421125;MORRO GRANDE;morro grande;morro_grande;AMESC;amesc;amesc;100;4211256;Morro Grande
+Amesc;Passo de Torres;421225;PASSO DE TORRES;passo de torres;passo_de_torres;AMESC;amesc;amesc;101;4212254;Passo de Torres
+Amesc;Praia Grande;421380;PRAIA GRANDE;praia grande;praia_grande;AMESC;amesc;amesc;102;4213807;Praia Grande
+Amesc;Santa Rosa do Sul;421565;SANTA ROSA DO SUL;santa rosa do sul;santa_rosa_do_sul;AMESC;amesc;amesc;103;4215653;Santa Rosa do Sul
+Amesc;São João do Sul;421640;SÃO JOÃO DO SUL;são joão do sul;sao_joao_do_sul;AMESC;amesc;amesc;104;4216404;Sao Joao do Sul
+Amesc;Sombrio;421770;SOMBRIO;sombrio;sombrio;AMESC;amesc;amesc;105;4217709;Sombrio
+Amesc;Timbé do Sul;421810;TIMBÉ DO SUL;timbé do sul;timbe_do_sul;AMESC;amesc;amesc;106;4218103;Timbe do Sul
+Amesc;Turvo;421880;TURVO;turvo;turvo;AMESC;amesc;amesc;107;4218806;Turvo
+Amures;Anita Garibaldi;420100;ANITA GARIBALDI;anita garibaldi;anita_garibaldi;AMURES;amures;amures;108;4201000;Anita Garibaldi
+Amures;Bocaina do Sul;420243;BOCAINA DO SUL;bocaina do sul;bocaina_do_sul;AMURES;amures;amures;109;4202438;Bocaina do Sul
+Amures;Bom Jardim da Serra;420250;BOM JARDIM DA SERRA;bom jardim da serra;bom_jardim_da_serra;AMURES;amures;amures;110;4202503;Bom Jardim da Serra
+Amures;Bom Retiro;420260;BOM RETIRO;bom retiro;bom_retiro;AMURES;amures;amures;111;4202602;Bom Retiro
+Amures;Campo Belo do Sul;420340;CAMPO BELO DO SUL;campo belo do sul;campo_belo_do_sul;AMURES;amures;amures;112;4203402;Campo Belo do Sul
+Amures;Capão Alto;420325;CAPÃO ALTO;capão alto;capao_alto;AMURES;amures;amures;113;4203253;Capao Alto
+Amures;Cerro Negro;420417;CERRO NEGRO;cerro negro;cerro_negro;AMURES;amures;amures;114;4204178;Cerro Negro
+Amures;Correia Pinto;420455;CORREIA PINTO;correia pinto;correia_pinto;AMURES;amures;amures;115;4204558;Correia Pinto
+Amures;Lages;420930;LAGES;lages;lages;AMURES;amures;amures;116;4209300;Lages
+Amures;Otacílio Costa;421175;OTACÍLIO COSTA;otacílio costa;otacilio_costa;AMURES;amures;amures;117;4211751;Otacilio Costa
+Amures;Painel;421189;PAINEL;painel;painel;AMURES;amures;amures;118;4211892;Painel
+Amures;Palmeira;421205;PALMEIRA;palmeira;palmeira;AMURES;amures;amures;119;4212056;Palmeira
+Amures;Ponte Alta;421330;PONTE ALTA;ponte alta;ponte_alta;AMURES;amures;amures;120;4213302;Ponte Alta
+Amures;Rio Rufino;421505;RIO RUFINO;rio rufino;rio_rufino;AMURES;amures;amures;121;4215059;Rio Rufino
+Amures;São Joaquim;421650;SÃO JOAQUIM;são joaquim;sao_joaquim;AMURES;amures;amures;122;4216503;Sao Joaquim
+Amures;São José do Cerrito;421680;SÃO JOSÉ DO CERRITO;são josé do cerrito;sao_jose_do_cerrito;AMURES;amures;amures;123;4216800;Sao Jose do Cerrito
+Amures;Urubici;421890;URUBICI;urubici;urubici;AMURES;amures;amures;124;4218905;Urubici
+Amures;Urupema;421895;URUPEMA;urupema;urupema;AMURES;amures;amures;125;4218954;Urupema
+Amavi;Agrolândia;420020;AGROLÂNDIA;agrolândia;agrolandia;AMAVI;amavi;amavi;126;4200200;Agrolandia
+Amavi;Agronômica;420030;AGRONÔMICA;agronômica;agronomica;AMAVI;amavi;amavi;127;4200309;Agronomica
+Amavi;Atalanta;420180;ATALANTA;atalanta;atalanta;AMAVI;amavi;amavi;128;4201802;Atalanta
+Amavi;Aurora;420190;AURORA;aurora;aurora;AMAVI;amavi;amavi;129;4201901;Aurora
+Amavi;Braço do Trombudo;420285;BRAÇO DO TROMBUDO;braço do trombudo;braco_do_trombudo;AMAVI;amavi;amavi;130;4202859;Braco do Trombudo
+Amavi;Chapadão do Lageado;420419;CHAPADÃO DO LAGEADO;chapadão do lageado;chapadao_do_lageado;AMAVI;amavi;amavi;131;4204194;Chapadao do Lageado
+Amavi;Dona Emma;420510;DONA EMMA;dona emma;dona_emma;AMAVI;amavi;amavi;132;4205100;Dona Emma
+Amavi;Ibirama;420690;IBIRAMA;ibirama;ibirama;AMAVI;amavi;amavi;133;4206900;Ibirama
+Amavi;Imbuia;420740;IMBUIA;imbuia;imbuia;AMAVI;amavi;amavi;134;4207403;Imbuia
+Amavi;Ituporanga;420850;ITUPORANGA;ituporanga;ituporanga;AMAVI;amavi;amavi;135;4208500;Ituporanga
+Amavi;José Boiteux;420915;JOSÉ BOITEUX;josé boiteux;jose_boiteux;AMAVI;amavi;amavi;136;4209151;Jose Boiteux
+Amavi;Laurentino;420950;LAURENTINO;laurentino;laurentino;AMAVI;amavi;amavi;137;4209508;Laurentino
+Amavi;Lontras;420990;LONTRAS;lontras;lontras;AMAVI;amavi;amavi;138;4209904;Lontras
+Amavi;Mirim Doce;421085;MIRIM DOCE;mirim doce;mirim_doce;AMAVI;amavi;amavi;139;4210852;Mirim Doce
+Amavi;Petrolândia;421270;PETROLÂNDIA;petrolândia;petrolandia;AMAVI;amavi;amavi;140;4212700;Petrolandia
+Amavi;Pouso Redondo;421370;POUSO REDONDO;pouso redondo;pouso_redondo;AMAVI;amavi;amavi;141;4213708;Pouso Redondo
+Amavi;Presidente Getúlio;421400;PRESIDENTE GETÚLIO;presidente getúlio;presidente_getulio;AMAVI;amavi;amavi;142;4214003;Presidente Getulio
+Amavi;Presidente Nereu;421410;PRESIDENTE NEREU;presidente nereu;presidente_nereu;AMAVI;amavi;amavi;143;4214102;Presidente Nereu
+Amavi;Rio do Campo;421450;RIO DO CAMPO;rio do campo;rio_do_campo;AMAVI;amavi;amavi;144;4214508;Rio do Campo
+Amavi;Rio do Oeste;421460;RIO DO OESTE;rio do oeste;rio_do_oeste;AMAVI;amavi;amavi;145;4214607;Rio do Oeste
+Amavi;Rio do Sul;421480;RIO DO SUL;rio do sul;rio_do_sul;AMAVI;amavi;amavi;146;4214805;Rio do Sul
+Amavi;Salete;421530;SALETE;salete;salete;AMAVI;amavi;amavi;147;4215307;Salete
+Amavi;Santa Terezinha;421567;SANTA TEREZINHA;santa terezinha;santa_terezinha;AMAVI;amavi;amavi;148;4215679;Santa Terezinha
+Amavi;Taió;421780;TAIÓ;taió;taio;AMAVI;amavi;amavi;149;4217808;Taio
+Amavi;Trombudo Central;421860;TROMBUDO CENTRAL;trombudo central;trombudo_central;AMAVI;amavi;amavi;150;4218608;Trombudo Central
+Amavi;Vidal Ramos;421920;VIDAL RAMOS;vidal ramos;vidal_ramos;AMAVI;amavi;amavi;151;4219200;Vidal Ramos
+Amavi;Vitor Meireles;421935;VITOR MEIRELES;vitor meireles;vitor_meireles;AMAVI;amavi;amavi;152;4219358;Vitor Meireles
+Amavi;Witmarsum;421940;WITMARSUM;witmarsum;witmarsum;AMAVI;amavi;amavi;153;4219408;Witmarsum
+Amurc;Curitibanos;420480;CURITIBANOS;curitibanos;curitibanos;AMURC;amurc;amurc;154;4204806;Curitibanos
+Amurc;Frei Rogério;420555;FREI ROGÉRIO;frei rogério;frei_rogerio;AMURC;amurc;amurc;155;4205555;Frei Rogerio
+Amurc;Ponte Alta do Norte;421335;PONTE ALTA DO NORTE;ponte alta do norte;ponte_alta_do_norte;AMURC;amurc;amurc;156;4213351;Ponte Alta do Norte
+Amurc;Santa Cecília;421550;SANTA CECÍLIA;santa cecília;santa_cecilia;AMURC;amurc;amurc;157;4215505;Santa Cecilia
+Amurc;São Cristóvão do Sul;421605;SÃO CRISTÓVÃO DO SUL;são cristóvão do sul;sao_cristovao_do_sul;AMURC;amurc;amurc;158;4216057;Sao Cristovao do Sul
+Amarp;Arroio Trinta;420160;ARROIO TRINTA;arroio trinta;arroio_trinta;AMARP;amarp;amarp;159;4201604;Arroio Trinta
+Amarp;Caçador;420300;CAÇADOR;caçador;cacador;AMARP;amarp;amarp;160;4203006;Cacador
+Amarp;Calmon;420315;CALMON;calmon;calmon;AMARP;amarp;amarp;161;4203154;Calmon
+Amarp;Fraiburgo;420550;FRAIBURGO;fraiburgo;fraiburgo;AMARP;amarp;amarp;162;4205506;Fraiburgo
+Amarp;Ibiam;420675;IBIAM;ibiam;ibiam;AMARP;amarp;amarp;163;4206751;Ibiam
+Amarp;Iomerê;420757;IOMERÊ;iomerê;iomere;AMARP;amarp;amarp;164;4207577;Iomere
+Amarp;Lebon Régis;420970;LEBON RÉGIS;lebon régis;lebon_regis;AMARP;amarp;amarp;165;4209706;Lebon Regis
+Amarp;Macieira;421005;MACIEIRA;macieira;macieira;AMARP;amarp;amarp;166;4210050;Macieira
+Amarp;Matos Costa;421070;MATOS COSTA;matos costa;matos_costa;AMARP;amarp;amarp;167;4210704;Matos Costa
+Amarp;Pinheiro Preto;421300;PINHEIRO PRETO;pinheiro preto;pinheiro_preto;AMARP;amarp;amarp;168;4213005;Pinheiro Preto
+Amarp;Rio das Antas;421440;RIO DAS ANTAS;rio das antas;rio_das_antas;AMARP;amarp;amarp;169;4214409;Rio das Antas
+Amarp;Salto Veloso;421540;SALTO VELOSO;salto veloso;salto_veloso;AMARP;amarp;amarp;170;4215406;Salto Veloso
+Amarp;Tangará;421790;TANGARÁ;tangará;tangara;AMARP;amarp;amarp;171;4217907;Tangara
+Amarp;Timbó Grande;421825;TIMBÓ GRANDE;timbó grande;timbo_grande;AMARP;amarp;amarp;172;4218251;Timbo Grande
+Amarp;Videira;421930;VIDEIRA;videira;videira;AMARP;amarp;amarp;173;4219309;Videira
+Amplasc;Abdon Batista;420005;ABDON BATISTA;abdon batista;abdon_batista;AMPLASC;amplasc;amplasc;174;4200051;Abdon Batista
+Amplasc;Brunópolis;420287;BRUNÓPOLIS;brunópolis;brunopolis;AMPLASC;amplasc;amplasc;175;4202875;Brunopolis
+Amplasc;Campos Novos;420360;CAMPOS NOVOS;campos novos;campos_novos;AMPLASC;amplasc;amplasc;176;4203600;Campos Novos
+Amplasc;Celso Ramos;420415;CELSO RAMOS;celso ramos;celso_ramos;AMPLASC;amplasc;amplasc;177;4204152;Celso Ramos
+Amplasc;Monte Carlo;421105;MONTE CARLO;monte carlo;monte_carlo;AMPLASC;amplasc;amplasc;178;4211058;Monte Carlo
+Amplasc;Vargem;421915;VARGEM;vargem;vargem;AMPLASC;amplasc;amplasc;179;4219150;Vargem
+Amplasc;Zortéa;421985;ZORTÉA;zortéa;zortea;AMPLASC;amplasc;amplasc;180;4219853;Zortea
+Ammoc;Água Doce;420040;ÁGUA DOCE;água doce;agua_doce;AMMOC;ammoc;ammoc;181;4200408;Agua Doce
+Ammoc;Capinzal;420390;CAPINZAL;capinzal;capinzal;AMMOC;ammoc;ammoc;182;4203907;Capinzal
+Ammoc;Catanduvas;420400;CATANDUVAS;catanduvas;catanduvas;AMMOC;ammoc;ammoc;183;4204004;Catanduvas
+Ammoc;Erval Velho;420520;ERVAL VELHO;erval velho;erval_velho;AMMOC;ammoc;ammoc;184;4205209;Erval Velho
+Ammoc;Herval D Oeste;420670;HERVAL D OESTE;herval d oeste;herval_d_oeste;AMMOC;ammoc;ammoc;185;4206702;Herval D Oeste
+Ammoc;Ibicaré;420680;IBICARÉ;ibicaré;ibicare;AMMOC;ammoc;ammoc;186;4206801;Ibicare
+Ammoc;Joaçaba;420900;JOAÇABA;joaçaba;joacaba;AMMOC;ammoc;ammoc;187;4209003;Joacaba
+Ammoc;Lacerdópolis;420920;LACERDÓPOLIS;lacerdópolis;lacerdopolis;AMMOC;ammoc;ammoc;188;4209201;Lacerdopolis
+Ammoc;Luzerna;421003;LUZERNA;luzerna;luzerna;AMMOC;ammoc;ammoc;189;4210035;Luzerna
+Ammoc;Ouro;421180;OURO;ouro;ouro;AMMOC;ammoc;ammoc;190;4211801;Ouro
+Ammoc;Treze Tílias;421850;TREZE TÍLIAS;treze tílias;treze_tilias;AMMOC;ammoc;ammoc;191;4218509;Treze Tilias
+Ammoc;Vargem Bonita;421917;VARGEM BONITA;vargem bonita;vargem_bonita;AMMOC;ammoc;ammoc;192;4219176;Vargem Bonita
+Amai;Abelardo Luz;420010;ABELARDO LUZ;abelardo luz;abelardo_luz;AMAI;amai;amai;193;4200101;Abelardo Luz
+Amai;Bom Jesus;420253;BOM JESUS;bom jesus;bom_jesus;AMAI;amai;amai;194;4202537;Bom Jesus
+Amai;Entre Rios;420517;ENTRE RIOS;entre rios;entre_rios;AMAI;amai;amai;195;4205175;Entre Rios
+Amai;Faxinal dos Guedes;420530;FAXINAL DOS GUEDES;faxinal dos guedes;faxinal_dos_guedes;AMAI;amai;amai;196;4205308;Faxinal dos Guedes
+Amai;Ipuaçu;420768;IPUAÇU;ipuaçu;ipuacu;AMAI;amai;amai;197;4207684;Ipuacu
+Amai;Lajeado Grande;420945;LAJEADO GRANDE;lajeado grande;lajeado_grande;AMAI;amai;amai;198;4209458;Lajeado Grande
+Amai;Marema;421055;MAREMA;marema;marema;AMAI;amai;amai;199;4210555;Marema
+Amai;Ouro Verde;421185;OURO VERDE;ouro verde;ouro_verde;AMAI;amai;amai;200;4211850;Ouro Verde
+Amai;Passos Maia;421227;PASSOS MAIA;passos maia;passos_maia;AMAI;amai;amai;201;4212270;Passos Maia
+Amai;Ponte Serrada;421340;PONTE SERRADA;ponte serrada;ponte_serrada;AMAI;amai;amai;202;4213401;Ponte Serrada
+Amai;São Domingos;421610;SÃO DOMINGOS;são domingos;sao_domingos;AMAI;amai;amai;203;4216107;Sao Domingos
+Amai;Vargeão;421910;VARGEÃO;vargeão;vargeao;AMAI;amai;amai;204;4219101;Vargeao
+Amai;Xanxerê;421950;XANXERÊ;xanxerê;xanxere;AMAI;amai;amai;205;4219507;Xanxere
+Amai;Xaxim;421970;XAXIM;xaxim;xaxim;AMAI;amai;amai;206;4219705;Xaxim
+Amosc;Águas Frias;420055;ÁGUAS FRIAS;águas frias;aguas_frias;AMOSC;amosc;amosc;207;4200556;Aguas Frias
+Amosc;Águas de Chapecó;420050;ÁGUAS DE CHAPECÓ;águas de chapecó;aguas_de_chapeco;AMOSC;amosc;amosc;208;4200507;Aguas de Chapeco
+Amosc;Arvoredo;420165;ARVOREDO;arvoredo;arvoredo;AMOSC;amosc;amosc;209;4201653;Arvoredo
+Amosc;Caxambu do Sul;420410;CAXAMBU DO SUL;caxambu do sul;caxambu_do_sul;AMOSC;amosc;amosc;210;4204103;Caxambu do Sul
+Amosc;Chapecó;420420;CHAPECÓ;chapecó;chapeco;AMOSC;amosc;amosc;211;4204202;Chapeco
+Amosc;Cordilheira Alta;420435;CORDILHEIRA ALTA;cordilheira alta;cordilheira_alta;AMOSC;amosc;amosc;212;4204350;Cordilheira Alta
+Amosc;Coronel Freitas;420440;CORONEL FREITAS;coronel freitas;coronel_freitas;AMOSC;amosc;amosc;213;4204400;Coronel Freitas
+Amosc;Formosa do Sul;420543;FORMOSA DO SUL;formosa do sul;formosa_do_sul;AMOSC;amosc;amosc;214;4205431;Formosa do Sul
+Amosc;Guatambú;420665;GUATAMBÚ;guatambú;guatambu;AMOSC;amosc;amosc;215;4206652;Guatambu
+Amosc;Jardinópolis;420895;JARDINÓPOLIS;jardinópolis;jardinopolis;AMOSC;amosc;amosc;216;4208955;Jardinopolis
+Amosc;Nova Erechim;421140;NOVA ERECHIM;nova erechim;nova_erechim;AMOSC;amosc;amosc;217;4211405;Nova Erechim
+Amosc;Nova Itaberaba;421145;NOVA ITABERABA;nova itaberaba;nova_itaberaba;AMOSC;amosc;amosc;218;4211454;Nova Itaberaba
+Amosc;Paial;421187;PAIAL;paial;paial;AMOSC;amosc;amosc;219;4211876;Paial
+Amosc;Pinhalzinho;421290;PINHALZINHO;pinhalzinho;pinhalzinho;AMOSC;amosc;amosc;220;4212908;Pinhalzinho
+Amosc;Planalto Alegre;421315;PLANALTO ALEGRE;planalto alegre;planalto_alegre;AMOSC;amosc;amosc;221;4213153;Planalto Alegre
+Amosc;Santiago do Sul;421569;SANTIAGO DO SUL;santiago do sul;santiago_do_sul;AMOSC;amosc;amosc;222;4215695;Santiago do Sul
+Amosc;São Carlos;421600;SÃO CARLOS;são carlos;sao_carlos;AMOSC;amosc;amosc;223;4216008;Sao Carlos
+Amosc;Serra Alta;421755;SERRA ALTA;serra alta;serra_alta;AMOSC;amosc;amosc;224;4217550;Serra Alta
+Amosc;Sul Brasil;421775;SUL BRASIL;sul brasil;sul_brasil;AMOSC;amosc;amosc;225;4217758;Sul Brasil
+Amosc;União do Oeste;421885;UNIÃO DO OESTE;união do oeste;uniao_do_oeste;AMOSC;amosc;amosc;226;4218855;Uniao do Oeste
+Amnoroeste;Coronel Martins;420445;CORONEL MARTINS;coronel martins;coronel_martins;AMNOROESTE;amnoroeste;amnoroeste;227;4204459;Coronel Martins
+Amnoroeste;Galvão;420560;GALVÃO;galvão;galvao;AMNOROESTE;amnoroeste;amnoroeste;228;4205605;Galvao
+Amnoroeste;Irati;420785;IRATI;irati;irati;AMNOROESTE;amnoroeste;amnoroeste;229;4207858;Irati
+Amnoroeste;Jupiá;420917;JUPIÁ;jupiá;jupia;AMNOROESTE;amnoroeste;amnoroeste;230;4209177;Jupia
+Amnoroeste;Novo Horizonte;421165;NOVO HORIZONTE;novo horizonte;novo_horizonte;AMNOROESTE;amnoroeste;amnoroeste;231;4211652;Novo Horizonte
+Amnoroeste;Quilombo;421420;QUILOMBO;quilombo;quilombo;AMNOROESTE;amnoroeste;amnoroeste;232;4214201;Quilombo
+Amnoroeste;São Bernardino;421575;SÃO BERNARDINO;são bernardino;sao_bernardino;AMNOROESTE;amnoroeste;amnoroeste;233;4215752;Sao Bernardino
+Amnoroeste;São Lourenço do Oeste;421690;SÃO LOURENÇO DO OESTE;são lourenço do oeste;sao_lourenco_do_oeste;AMNOROESTE;amnoroeste;amnoroeste;234;4216909;Sao Lourenco do Oeste
+Amerios;Bom Jesus do Oeste;420257;BOM JESUS DO OESTE;bom jesus do oeste;bom_jesus_do_oeste;AMERIOS;amerios;amerios;235;4202578;Bom Jesus do Oeste
+Amerios;Caibi;420310;CAIBI;caibi;caibi;AMERIOS;amerios;amerios;236;4203105;Caibi
+Amerios;Campo Erê;420350;CAMPO ERÊ;campo erê;campo_ere;AMERIOS;amerios;amerios;237;4203501;Campo Ere
+Amerios;Cunha Porã;420470;CUNHA PORÃ;cunha porã;cunha_pora;AMERIOS;amerios;amerios;238;4204707;Cunha Pora
+Amerios;Cunhataí;420475;CUNHATAÍ;cunhataí;cunhatai;AMERIOS;amerios;amerios;239;4204756;Cunhatai
+Amerios;Flor do Sertão;420535;FLOR DO SERTÃO;flor do sertão;flor_do_sertao;AMERIOS;amerios;amerios;240;4205357;Flor do Sertao
+Amerios;Iraceminha;420775;IRACEMINHA;iraceminha;iraceminha;AMERIOS;amerios;amerios;241;4207759;Iraceminha
+Amerios;Maravilha;421050;MARAVILHA;maravilha;maravilha;AMERIOS;amerios;amerios;242;4210506;Maravilha
+Amerios;Modelo;421090;MODELO;modelo;modelo;AMERIOS;amerios;amerios;243;4210902;Modelo
+Amerios;Palmitos;421210;PALMITOS;palmitos;palmitos;AMERIOS;amerios;amerios;244;4212106;Palmitos
+Amerios;Riqueza;421507;RIQUEZA;riqueza;riqueza;AMERIOS;amerios;amerios;245;4215075;Riqueza
+Amerios;Romelândia;421520;ROMELÂNDIA;romelândia;romelandia;AMERIOS;amerios;amerios;246;4215208;Romelandia
+Amerios;Saltinho;421535;SALTINHO;saltinho;saltinho;AMERIOS;amerios;amerios;247;4215356;Saltinho
+Amerios;Santa Terezinha do Progresso;421568;SANTA TEREZINHA DO PROGRESSO;santa terezinha do progresso;santa_terezinha_do_progresso;AMERIOS;amerios;amerios;248;4215687;Santa Terezinha do Progresso
+Amerios;São Miguel da Boa Vista;421715;SÃO MIGUEL DA BOA VISTA;são miguel da boa vista;sao_miguel_da_boa_vista;AMERIOS;amerios;amerios;249;4217154;Sao Miguel da Boa Vista
+Amerios;Saudades;421730;SAUDADES;saudades;saudades;AMERIOS;amerios;amerios;250;4217303;Saudades
+Amerios;Tigrinhos;421795;TIGRINHOS;tigrinhos;tigrinhos;AMERIOS;amerios;amerios;251;4217956;Tigrinhos
+Ameosc;Anchieta;420080;ANCHIETA;anchieta;anchieta;AMEOSC;ameosc;ameosc;252;4200804;Anchieta
+Ameosc;Bandeirante;420208;BANDEIRANTE;bandeirante;bandeirante;AMEOSC;ameosc;ameosc;253;4202081;Bandeirante
+Ameosc;Barra Bonita;420209;BARRA BONITA;barra bonita;barra_bonita;AMEOSC;ameosc;ameosc;254;4202099;Barra Bonita
+Ameosc;Belmonte;420215;BELMONTE;belmonte;belmonte;AMEOSC;ameosc;ameosc;255;4202156;Belmonte
+Ameosc;Descanso;420490;DESCANSO;descanso;descanso;AMEOSC;ameosc;ameosc;256;4204905;Descanso
+Ameosc;Dionísio Cerqueira;420500;DIONÍSIO CERQUEIRA;dionísio cerqueira;dionisio_cerqueira;AMEOSC;ameosc;ameosc;257;4205001;Dionisio Cerqueira
+Ameosc;Guaraciaba;420640;GUARACIABA;guaraciaba;guaraciaba;AMEOSC;ameosc;ameosc;258;4206405;Guaraciaba
+Ameosc;Guarujá do Sul;420660;GUARUJÁ DO SUL;guarujá do sul;guaruja_do_sul;AMEOSC;ameosc;ameosc;259;4206603;Guaruja do Sul
+Ameosc;Iporã do Oeste;420765;IPORÃ DO OESTE;iporã do oeste;ipora_do_oeste;AMEOSC;ameosc;ameosc;260;4207650;Ipora do Oeste
+Ameosc;Itapiranga;420840;ITAPIRANGA;itapiranga;itapiranga;AMEOSC;ameosc;ameosc;261;4208401;Itapiranga
+Ameosc;Mondaí;421100;MONDAÍ;mondaí;mondai;AMEOSC;ameosc;ameosc;262;4211009;Mondai
+Ameosc;Palma Sola;421200;PALMA SOLA;palma sola;palma_sola;AMEOSC;ameosc;ameosc;263;4212007;Palma Sola
+Ameosc;Paraíso;421223;PARAÍSO;paraíso;paraiso;AMEOSC;ameosc;ameosc;264;4212239;Paraiso
+Ameosc;Princesa;421415;PRINCESA;princesa;princesa;AMEOSC;ameosc;ameosc;265;4214151;Princesa
+Ameosc;Santa Helena;421555;SANTA HELENA;santa helena;santa_helena;AMEOSC;ameosc;ameosc;266;4215554;Santa Helena
+Ameosc;São João do Oeste;421625;SÃO JOÃO DO OESTE;são joão do oeste;sao_joao_do_oeste;AMEOSC;ameosc;ameosc;267;4216255;Sao Joao do Oeste
+Ameosc;São José do Cedro;421670;SÃO JOSÉ DO CEDRO;são josé do cedro;sao_jose_do_cedro;AMEOSC;ameosc;ameosc;268;4216701;Sao Jose do Cedro
+Ameosc;São Miguel do Oeste;421720;SÃO MIGUEL DO OESTE;são miguel do oeste;sao_miguel_do_oeste;AMEOSC;ameosc;ameosc;269;4217204;Sao Miguel do Oeste
+Ameosc;Tunápolis;421875;TUNÁPOLIS;tunápolis;tunapolis;AMEOSC;ameosc;ameosc;270;4218756;Tunapolis
+Amplanorte;Bela Vista do Toldo;420213;BELA VISTA DO TOLDO;bela vista do toldo;bela_vista_do_toldo;AMPLANORTE;amplanorte;amplanorte;271;4202131;Bela Vista do Toldo
+Amplanorte;Canoinhas;420380;CANOINHAS;canoinhas;canoinhas;AMPLANORTE;amplanorte;amplanorte;272;4203808;Canoinhas
+Amplanorte;Irineópolis;420790;IRINEÓPOLIS;irineópolis;irineopolis;AMPLANORTE;amplanorte;amplanorte;273;4207908;Irineopolis
+Amplanorte;Itaiópolis;420810;ITAIÓPOLIS;itaiópolis;itaiopolis;AMPLANORTE;amplanorte;amplanorte;274;4208104;Itaiopolis
+Amplanorte;Mafra;421010;MAFRA;mafra;mafra;AMPLANORTE;amplanorte;amplanorte;275;4210100;Mafra
+Amplanorte;Major Vieira;421030;MAJOR VIEIRA;major vieira;major_vieira;AMPLANORTE;amplanorte;amplanorte;276;4210308;Major Vieira
+Amplanorte;Monte Castelo;421110;MONTE CASTELO;monte castelo;monte_castelo;AMPLANORTE;amplanorte;amplanorte;277;4211108;Monte Castelo
+Amplanorte;Papanduva;421220;PAPANDUVA;papanduva;papanduva;AMPLANORTE;amplanorte;amplanorte;278;4212205;Papanduva
+Amplanorte;Porto União;421360;PORTO UNIÃO;porto união;porto_uniao;AMPLANORTE;amplanorte;amplanorte;279;4213609;Porto Uniao
+Amplanorte;Três Barras;421830;TRÊS BARRAS;três barras;tres_barras;AMPLANORTE;amplanorte;amplanorte;280;4218301;Tres Barras
+Amauc;Alto Bela Vista;420075;ALTO BELA VISTA;alto bela vista;alto_bela_vista;AMAUC;amauc;amauc;281;4200754;Alto Bela Vista
+Amauc;Arabutã;420127;ARABUTÃ;arabutã;arabuta;AMAUC;amauc;amauc;282;4201273;Arabuta
+Amauc;Concórdia;420430;CONCÓRDIA;concórdia;concordia;AMAUC;amauc;amauc;283;4204301;Concordia
+Amauc;Ipira;420760;IPIRA;ipira;ipira;AMAUC;amauc;amauc;284;4207601;Ipira
+Amauc;Ipumirim;420770;IPUMIRIM;ipumirim;ipumirim;AMAUC;amauc;amauc;285;4207700;Ipumirim
+Amauc;Irani;420780;IRANI;irani;irani;AMAUC;amauc;amauc;286;4207809;Irani
+Amauc;Itá;420800;ITÁ;itá;ita;AMAUC;amauc;amauc;287;4208005;Ita
+Amauc;Jaborá;420860;JABORÁ;jaborá;jabora;AMAUC;amauc;amauc;288;4208609;Jabora
+Amauc;Lindóia do Sul;420985;LINDÓIA DO SUL;lindóia do sul;lindoia_do_sul;AMAUC;amauc;amauc;289;4209854;Lindoia do Sul
+Amauc;Peritiba;421260;PERITIBA;peritiba;peritiba;AMAUC;amauc;amauc;290;4212601;Peritiba
+Amauc;Piratuba;421310;PIRATUBA;piratuba;piratuba;AMAUC;amauc;amauc;291;4213104;Piratuba
+Amauc;Presidente Castello Branco;421390;PRESIDENTE CASTELLO BRANCO;presidente castello branco;presidente_castello_branco;AMAUC;amauc;amauc;292;4213906;Presidente Castello Branco
+Amauc;Seara;421750;SEARA;seara;seara;AMAUC;amauc;amauc;293;4217501;Seara
+Amauc;Xavantina;421960;XAVANTINA;xavantina;xavantina;AMAUC;amauc;amauc;294;4219606;Xavantina

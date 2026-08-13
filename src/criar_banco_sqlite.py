@@ -23,13 +23,13 @@ PROCESSED_DIR = Path(__file__).resolve().parent.parent / "data" / "processed"
 DB_PATH = Path(__file__).resolve().parent.parent / "data" / "dcnt_sc.db"
 
 
-def carregar_tabela(conexao, caminho_csv: Path, nome_tabela: str, descricao: str):
+def carregar_tabela(conexao, caminho_csv: Path, nome_tabela: str, descricao: str, sep: str = ","):
     if not caminho_csv.exists():
         print(f"[PULADO] {nome_tabela}: arquivo {caminho_csv.name} ainda não existe "
               f"({descricao})")
         return False
 
-    df = pd.read_csv(caminho_csv)
+    df = pd.read_csv(caminho_csv, sep=sep, encoding="utf-8-sig")
     df.to_sql(nome_tabela, conexao, if_exists="replace", index=False)
     print(f"[OK] Tabela '{nome_tabela}' criada com {len(df)} linhas ({descricao})")
     return True
@@ -67,6 +67,14 @@ def main():
         RAW_DIR / "rais_caged_sc.csv",
         "fato_mercado_trabalho",
         "salário médio, saldo de empregos — RAIS/CAGED via Base dos Dados",
+    )
+
+    carregar_tabela(
+        conexao,
+        RAW_DIR / "d_fecam_municipio.csv",
+        "dim_fecam",
+        "mapeamento de município para Associação de Municípios (FECAM)",
+        sep=";",
     )
 
     # Lista as tabelas que efetivamente existem no banco, para conferência

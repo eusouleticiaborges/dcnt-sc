@@ -38,12 +38,25 @@ município, ranking, e a tabela completa de coeficientes da regressão.
 | SIH/DATASUS (TabNet) | Internações e óbitos hospitalares por causa (CID-10), 2019-2023 | Download manual |
 | IBGE (SIDRA) | População (Censo 2022), PIB per capita, taxa de urbanização | Download manual (ver nota abaixo) |
 | [geodata-br](https://github.com/tbrugz/geodata-br) / malha municipal do IBGE | Contornos geográficos dos municípios de SC, para o mapa | Incluído no repositório |
+| [FECAM](https://www.fecam.org.br/) | Mapeamento de município para Associação de Municípios | Fornecido pelo supervisor do projeto |
 
 **Nota sobre o IBGE**: a coleta automática via API foi tentada primeiro, mas se mostrou pouco
 confiável durante o desenvolvimento (tabelas com nomes de coluna inconsistentes, períodos
 indisponíveis). O caminho que efetivamente funciona é baixar manualmente do SIDRA e consolidar
 com `src/consolidar_ibge_manual.py` — ver instruções em `data/raw/COMO_BAIXAR_DADOS.md` para a
 parte de saúde, e o próprio script para a parte do IBGE.
+
+### Análise por Associação de Municípios (FECAM)
+
+Além da análise por município, o painel também apresenta os dados agregados pelas 21
+Associações de Municípios de Santa Catarina (FECAM). **Importante: nessa visão, os valores são
+absolutos (soma de óbitos/internações), não taxas por 100 mil habitantes** — associações
+reúnem municípios de tamanhos muito diferentes (de 5 a 28 municípios cada), o que tornaria uma
+taxa por associação enganosa. Isso significa que associações maiores/mais populosas
+naturalmente somam mais casos, independente de haver ou não um padrão de saúde diferenciado —
+essa visão serve para dar dimensão absoluta da carga de doença por região administrativa, não
+para comparar risco entre associações (para isso, a visão por município com taxa continua
+sendo a correta).
 
 ### Indicadores calculados
 
