@@ -1,0 +1,29 @@
+name: Manter painel Streamlit acordado
+
+# Roda automaticamente a cada 10 horas (menos que o limite de 12h de inatividade do
+# Streamlit Community Cloud), e também pode ser disparado manualmente pela aba "Actions"
+# do GitHub, útil para testar se está tudo funcionando.
+on:
+  schedule:
+    - cron: "0 */10 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  visitar-painel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar o Playwright
+        run: |
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Visitar o painel (e acordar se estiver dormindo)
+        run: python .github/scripts/keep_awake.py
